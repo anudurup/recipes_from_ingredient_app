@@ -1,0 +1,38 @@
+{
+    "ingredients": {
+        "Garlic Parmesan Mushrooms": "ghee,mushrooms,garlic,dried thyme,parmesan",
+        "Potato Souffles": "eggs,potatoes,veg cheddar,parsley,thyme",
+        "Vegan Pate": "carrot,aubergine,red bell pepper,garlic,chickpeas,walnuts,sun dried tomatoes,capers",
+        "Creamy Garlic Butter Tuscan Mushrooms": "salted butter, garlic cloves, mushrooms, onion, sun dried tomato, heavy cream, spinach, parmesan, italian herbs",
+        "No knead italian focaccia": "all purpose flour,instant yeast,oregano,thyme",
+        "Avocado Crostini": "tomato, french bread, avocado, lemon juice",
+        "Appe Pan Pizza Cups": "tomatoes,capsicum,onions,corn kernels,pizza sauce,bread slices,vegan cheese",
+        "Appe Pan Instant Pizza bombs": "bread,capsicum,carrot,pizza sauce,vegan cheese",
+        "Quinoa Pizza Bites": "quinoa,eggs,vegan sausage",
+        "Tofu Pizza Sticks": "extra firm tofu,tomato sauce,nutritional yeast,basil dried",
+        "Cheesy Califlower Breadsticks with Fixate Marinara": "cauliflower,vegan mozzarella,parmesan,eggs,ghee,garlic,tomatoes,onion,dry white wine,basil",
+        "Vegan Pizza Crackers": "tomato paste,all purpose flour,baking powder,dried oregano,dried basil",
+        "Vegan Basil Ricotta Pinwheerls": "cashews,almond milk,firm tofu,white wine vinegar,basil,garlic,flour tortillas,spinach,tomatoes,black olives",
+        "Baked italian rice balls": "risotto rice,tomato sauce,nutritional yeast,breadcrumbs,chives,tahini,sugar,hot sauce",
+        "Veggie Croquettes": "potatoes,almond milk,vegan butter,garlic,onion,carrot,red onion,green onion,mushrooms,spinach,brocolli florets,red bell pepper,flour,corn starch,bread crumbs",
+        "Vegan Baked Mac and cheese bites": "elbow pasta,vegan butter,garlic,yellow onion,egg,almond milk,vegan mozzarella,vegan cream cheese,breadcrumbs,marinara sauce"
+    },
+    "recipe_url": {
+        "Garlic Parmesan Mushrooms": "https://drive.google.com/file/d/1Z6YN7XlsbqVhrPhjEqxVL6VvipiP2Y0w/view?usp=sharing",
+        "Potato Souffles": "https://drive.google.com/file/d/1CBenApBcZQdi8J8PNZ145Fi1egQlNa2B/view?usp=sharing",
+        "Vegan Pate": "http://laurencariscooks.com/vegan-pate-everyone-will-love/",
+        "Creamy Garlic Butter Tuscan Mushrooms": "https://cafedelites.com/creamy-garlic-butter-tuscan-mushrooms/",
+        "No knead italian focaccia": "https://theclevermeal.com/no-knead-italian-focaccia-recipe-ready-in-1-hour/",
+        "Avocado Crostini": "",
+        "Appe Pan Pizza Cups": "https://www.youtube.com/watch?v=uRNYp_6fg_k",
+        "Appe Pan Instant Pizza bombs": "http://blessmyfoodbypayal.com/instant-pizza-bombs/",
+        "Quinoa Pizza Bites": "https://wonkywonderful.com/gluten-free-quinoa-pizza-bites-recipe/",
+        "Tofu Pizza Sticks": "https://www.vegannie.com/entrees/vegan-tofu-pizza-sticks-gluten-free/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=427099164_14495356_209191",
+        "Cheesy Califlower Breadsticks with Fixate Marinara": "https://drive.google.com/file/d/1rXSJxFUvQ1-16rMCZ0zFhgw5g8Z1_h8M/view?usp=sharing",
+        "Vegan Pizza Crackers": "https://www.elephantasticvegan.com/vegan-pizza-cracker/#recipe",
+        "Vegan Basil Ricotta Pinwheerls": "https://veganheaven.org/recipe/vegan-basil-ricotta-pinwheels/#wprm-recipe-container-8149",
+        "Baked italian rice balls": "https://www.cearaskitchen.com/baked-italian-rice-balls-arancini-healthy-vegan/",
+        "Veggie Croquettes": "https://ilovevegan.com/veggie-croquettes/",
+        "Vegan Baked Mac and cheese bites": "https://sweetsimplevegan.com/baked-mac-and-cheese-bites/#tasty-recipes-17244-jump-target"
+    }
+}

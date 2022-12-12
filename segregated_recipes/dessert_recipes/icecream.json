@@ -1,0 +1,26 @@
+{
+    "ingredients": {
+        "Peanut Butter Chocolate Icecream": "banana,cocoa powder,peanut butter,dark chocolate",
+        "Oat milk icecream": "oat milk, nut butter, sweetener",
+        "Vegan Mint Chocolate chip icecream": "Coconut milk, coconut cream, sugar, maple syrup, peppermint extract, vegan chocolate chips",
+        "Vegan Fudgesicles": "Cocoa powder, coconut milk, vanilla extract, maple syrup",
+        "Almond Milk Chocolate Banana Ice cream": "Banana, almond milk, cocoa powder, maple syrup",
+        "Vegan Chocolate icecream": "coconut milk, tapioca starch, vanilla extract, instant coffee, cocoa powder, sugar, maple syrup",
+        "Cauliflower Icecream": "riced cauliflower,cashews,coconut milk,maple syrup,coconut milk,coconut oil,vanilla extract",
+        "Banana Peanut butter chocolate chunk ice cream": "bananas,peanut butter,almond milk,dark chocolate,almonds",
+        "Melon Sorbet": "cantaloupe,lemon juice,honey",
+        "Strawberry Cheesecake Pops": "cream cheese, coconut milk,maple syrup,greek yogurt,vanilla extract,strawberries,lemon juice"
+    },
+    "recipe_url": {
+        "Peanut Butter Chocolate Icecream": "http://www.joannasoh.com/foods/recipes-1/creamy-low-calorie-vegan-ice-cream-100-natural",
+        "Oat milk icecream": "https://chocolatecoveredkatie.com/oat-milk-ice-cream-recipe/",
+        "Vegan Mint Chocolate chip icecream": "https://lovingitvegan.com/vegan-mint-chocolate-chip-ice-cream/",
+        "Vegan Fudgesicles": "https://www.veganblueberry.com/vegan-fudgesicles/",
+        "Almond Milk Chocolate Banana Ice cream": "https://ilonaspassion.com/almond-milk-chocolate-banana-ice-cream/",
+        "Vegan Chocolate icecream": "http://www.cearaskitchen.com/vegan-chocolate-ice-cream/",
+        "Cauliflower Icecream": "https://drive.google.com/file/d/11--QdJuSQrgeluAIVVhTjPuhkqyS4ess/view?usp=sharing",
+        "Banana Peanut butter chocolate chunk ice cream": "https://drive.google.com/file/d/1mCyG9aYIUkMbLpYQeQSivqVXZ17AyhbY/view?usp=sharing",
+        "Melon Sorbet": "https://drive.google.com/file/d/1hZBsAVWvpyx_Qe9vJ5lM50-GJKVN8J4C/view?usp=sharing",
+        "Strawberry Cheesecake Pops": "https://drive.google.com/file/d/1ZoOA86aAHb4VtWLLSD6qSUClbDhgP0nt/view?usp=sharing"
+    }
+}

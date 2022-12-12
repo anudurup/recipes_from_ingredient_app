@@ -1,0 +1,26 @@
+{
+    "ingredients": {
+        "Mexican Vegetarian Lasagna": "spinach, cottage cheese, black beans, pinto beans, corn tortillas, salsa, cheese",
+        "Black Bean Tamale Pie": "garlic, bell pepper, zucchini, black beans, tomatoes, cornmeal, whole wheat flour, baking powder, maple syrup, almond milk, apple cider vinegar, green chillies,corn",
+        "Chimichanga": "fried",
+        "Vegan Garlic Spinach Empanadas": "flour, vegan butter, baking powder, almond milk, garlic, spinach, vegan cheese",
+        "Vegan Black Bean Burrito": "zucchini, red bell pepper, onion, black beans, tortilla, vegan cheese",
+        "Vegan Bean Burrito": "grain tortilla,non fat refried beans,avocado, lime,tomato,red onion,bell pepper,radish,green olives",
+        "Arepas": "corn flour,mushrooms/tofu, onion, garlic, avocado, mayo,lemon",
+        "Vegan Nacho Pizza": "all purpose flour,dry active dry yeast, TVP veg protein,onion,garlic, tomato sauce,dried oregano and thyme, avocados,red onion,black olives,cherry tomatoes,jalapeno,red pepper,vegan sour cream",
+        "Spring Breakfast Bowl": "brown rice,asparagus,eggs,avocado,watermelon radish,grapefruit",
+        "Black Bean Enchilada Bake": "quinoa,veg broth,enchilada sauce,red onion,bell pepper,garlic,lime,black beans,gluten free flour,dried oregano"
+    },
+    "recipe_url": {
+        "Mexican Vegetarian Lasagna": "https://www.thestatenislandfamily.com/mexican-vegetarian-lasagna/?fbclid=IwAR2HnTBybJHyPpsc1GAuztnKvaZNKGpZc8pEZVLtRnCQMlzjUiNUjxq448I",
+        "Black Bean Tamale Pie": "https://www.delishknowledge.com/black-bean-tamale-pie/",
+        "Chimichanga": "(onions, garlic, white button mushrooms, broccoli, bell pepper colored, onion powder, tortillas whole wheat or corn, cheddar cheese, guacamole, tomato salsa",
+        "Vegan Garlic Spinach Empanadas": "https://biancazapatka.com/en/vegan-empanadas/",
+        "Vegan Black Bean Burrito": "https://www.pinterest.co.uk/pin/496592296426657123/",
+        "Vegan Bean Burrito": "https://drive.google.com/file/d/1aR82C3Mu2OhlpWKjtPNaPM16UdwR--bo/view?usp=sharing",
+        "Arepas": "https://www.pinterest.co.uk/pin/496592296426657307/",
+        "Vegan Nacho Pizza": "",
+        "Spring Breakfast Bowl": "https://drive.google.com/file/d/1Qpr1BrMu-wGix_Fk-PqUE9_b6fUgOuo2/view?usp=sharing",
+        "Black Bean Enchilada Bake": "https://www.justwhatweeat.com/black-bean-enchilada-bake-gluten-free-vegan/"
+    }
+}

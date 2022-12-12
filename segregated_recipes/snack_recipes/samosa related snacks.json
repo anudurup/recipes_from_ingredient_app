@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Avocado Egg Samosa Roll": "spring roll wrapper,eggs,avocado,flour paste",
+        "Oven Baked Samosas": "spring roll wrappers,tofu,cabbage,zucchini,green beans,garlic,egg",
+        "Potato and peas samosa muffins": "potatoes,coconut oil,onion,garlic,ginger,green peas",
+        "AirFried Samosa": "maida,ajwain,potatoes,peas,ghee",
+        "Air Fried Healthy Samosas": "All purpose flour,oil.potato,peas",
+        "Air Fryer Samosa Chaat Phyllo Cups": "frozen phyllo shells,potatoes,onion,ginger,frozen peas,cilantro and tamarind chutney"
+    },
+    "recipe_url": {
+        "Avocado Egg Samosa Roll": "https://www.savorybitesrecipes.com/2018/01/avocado-egg-samosa-roll.html",
+        "Oven Baked Samosas": "http://www.joannasoh.com/foods/recipes-1/oven-baked-veggie-spring-rolls-samosas-healthy-party-snacks",
+        "Potato and peas samosa muffins": "https://healthiersteps.com/recipe/potato-and-peas-samosa-muffins/",
+        "AirFried Samosa": "https://rachnacooks.com/samosa-made-in-an-airfryer/",
+        "Air Fried Healthy Samosas": "https://urbanfarmie.com/healthy-samosas/",
+        "Air Fryer Samosa Chaat Phyllo Cups": "https://spicecravings.com/samosa-chaat-phyllo-cups"
+    }
+}

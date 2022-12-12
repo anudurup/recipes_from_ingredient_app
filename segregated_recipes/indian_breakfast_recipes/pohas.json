@@ -1,0 +1,10 @@
+{
+    "ingredients": {
+        "Poha": "coriander,onion,poha,potato,rice,",
+        "Kanda Poha": "coconut,coriander,onion,poha,rice,"
+    },
+    "recipe_url": {
+        "Poha": "https://www.indianhealthyrecipes.com/poha-recipe-kanda-batata-poha/",
+        "Kanda Poha": "https://hebbarskitchen.com/kanda-poha-recipe-maharashtrian-poha/"
+    }
+}

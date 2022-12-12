@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Palak Matar": "spinach,tomato,green peas",
+        "Green Peas Masala": "green peas,onion,peas,tomato,",
+        "Green Peas Ambti": "coconut,coriander,corn,garlic,green peas,onion,peas,tomato,"
+    },
+    "recipe_url": {
+        "Palak Matar": "https://vegecravings.com/palak-matar-recipe/",
+        "Green Peas Masala": "https://www.tarladalal.com/green-peas-masala-curry--quick-recipe-1742r",
+        "Green Peas Ambti": "https://www.tarladalal.com/green-peas-ambti-1486r"
+    }
+}

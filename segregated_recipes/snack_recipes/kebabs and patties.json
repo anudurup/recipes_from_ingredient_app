@@ -1,0 +1,36 @@
+{
+    "ingredients": {
+        "Air Fried Veg Kebab": "potato,beetroot,sweet corn,beans,corn flour,bread crumbs",
+        "Amritsari Tikki": "french beans,carrot,corn,walnuts,khoya,potatoes,cheese cubes,cornflakes,maida",
+        "Rajma Kebab": "beans,coriander,corn,cornflour,ginger,onion,potato,rajma,",
+        "Vegetable Beetroot Cutlet": "potato,beetroot,green peas,bread crumbs",
+        "Pizza Khichu": "Pizza cutlets",
+        "Bread Cutlets": "bread crumbs,carrot,coriander,garlic,ginger,onion,potato,tomato,",
+        "Sabudana Potato Cutlets": "coriander,potato,sago,",
+        "Poha Cutlet": "thin poha,potato,ginger garlic paste,bread crumbs,corn flour,flour",
+        "Air Fried Vegetable Cutlet": "onion,bell pepper,cabbage,carrot,soy sauce,chilli powder,jeera powder,oats",
+        "Appe Pan Farali Patties": "coconut,peanuts,cilantro,raisins,cashews,sugar,lemon juice,potatoes,arrowroot powder,yogurt",
+        "Appe Pan Spinach and Bean Patties": "kidney beans,chickpeas,spinach,potato,cilantro,ginger garlic paste",
+        "Appe Pan Hara Bhara Kabab": "peas,spinach,green bell pepper,potatoes,ginger",
+        "Crispy Quinoa Patties": "quinoa,sweet corn,peas,besan,onion,capsicum,carrots,coriander,potato,ginger garlic paste",
+        "Quinoa patties": "quinoa,sweet corn,peas,besan,onion,capsicum,carrots,potato,ginger garlic paste",
+        "Spicy Vegan lentil cakes": "red lentils/masoor dal, parsley, onion,egg,nutritional yeast, bell peppers,chickpea flour"
+    },
+    "recipe_url": {
+        "Air Fried Veg Kebab": "https://www.namscorner.com/veg-kabab-recipe-vegetable.../",
+        "Amritsari Tikki": "https://yummytalesoftummy.com/royal-amritsari-tikki-with-dip/",
+        "Rajma Kebab": "https://www.tarladalal.com/rajma-kebab-100-calorie-snacks-32610r",
+        "Vegetable Beetroot Cutlet": "https://thewhiskaddict.com/2019/04/11/vegetable-beetroot-cutlets/",
+        "Pizza Khichu": "(capsicum,rice,rice flour,",
+        "Bread Cutlets": "https://www.tarladalal.com/bread-cutlets-veg-shallow-fried-cutlets-42041r",
+        "Sabudana Potato Cutlets": "https://www.tarladalal.com/sabudana-potato-cutlets-34444r",
+        "Poha Cutlet": "https://hebbarskitchen.com/poha-cutlet-recipe-vegetable-poha-cutlet/",
+        "Air Fried Vegetable Cutlet": "https://youtu.be/wltSW_kbqTk",
+        "Appe Pan Farali Patties": "https://thebellyrulesthemind.net/no-fry-farali-patties-fasting-appe-pan/",
+        "Appe Pan Spinach and Bean Patties": "https://thebellyrulesthemind.net/2015/02/spinach-beans-patties-made-in-appe-pan/",
+        "Appe Pan Hara Bhara Kabab": "https://thebellyrulesthemind.net/2015/01/hara-bhara-kebab-green-vegetable-patty-made-in-appe-pan/",
+        "Crispy Quinoa Patties": "https://www.kuchpakrahahai.in/crispy-quinoa-patties-vegan-gluten-free-healthy-recipe/",
+        "Quinoa patties": "http://www.kuchpakrahahai.in/.../crispy-quinoa-patties\u00ef\u00bf\u00bd",
+        "Spicy Vegan lentil cakes": "http://gourmandelle.com/spicy-vegan-lentil-cakes/"
+    }
+}

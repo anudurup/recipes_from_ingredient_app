@@ -1,0 +1,28 @@
+{
+    "ingredients": {
+        "Veg Cheese Omelette": "capsicum,eggs,onion,tomato,",
+        "Healthy Veggie Frittata": "onion,bell peppers,zucchini,eggs,milk,goat cheese,scallions",
+        "Egg White Breakfast Cups, Bell Pepper Egg Boats, Quinoa Breakfast Bowl, Fruit and Yoghurt Gronola Parfait": "egg,quinoa,fruit,yogurt",
+        "Vegan Frittata": "potatoes, onion, bell pepper, zucchini, tomatoes, silken tofu, non dairy milk, cornstarch, nutritional yeast, mustard, tarragon",
+        "Portobello mushroom and goat cheese omelet": "eggs,ghee,portobello,goat cheese,italian parsley",
+        "Paleo Baked egg in avocado": "avocados,eggs,red bell pepper,chives",
+        "Poached eggs with asparagus toast": "asparagus spears,lemon juice,eggs,whole grain bread, Lemon Garlic Sauce",
+        "Savory Poached Eggs": "Shakshuka",
+        "Southwest Breakfast Scramble": "poblano chillies,eggs,egg whites,onion,red potato,homemade salsa,cilantro,avocado",
+        "Vegan Egg Souffles": "bell peppers,brocolli,onion,silken tofu,nutritional yeast,onion powder,all purpose flour,chives",
+        "Veggie Quiche": "egg,flaxseed powder,brown rice,mixed veggies,tarragon"
+    },
+    "recipe_url": {
+        "Veg Cheese Omelette": "https://www.tarladalal.com/veg-cheese-omelette-breakfast-recipe-42144r",
+        "Healthy Veggie Frittata": "https://cleananddelicious.com/healthy-vegetable-frittata-recipe/",
+        "Egg White Breakfast Cups, Bell Pepper Egg Boats, Quinoa Breakfast Bowl, Fruit and Yoghurt Gronola Parfait": "https://www.facebook.com/watch/?ref=saved&v=998512230623597",
+        "Vegan Frittata": "https://simple-veganista.com/vegan-vegetable-frittata/",
+        "Portobello mushroom and goat cheese omelet": "https://drive.google.com/file/d/1WdIFgrbXNdM2JiZ7VBAQZGcnx5-vEhsW/view?usp=share_link",
+        "Paleo Baked egg in avocado": "https://drive.google.com/file/d/1SrPNVBYiceYBjEhto5WwM44K0U6zls3W/view?usp=share_link",
+        "Poached eggs with asparagus toast": "https://drive.google.com/file/d/15lmE4lYM4HhTJGvW95h34PzgY6vvKbPP/view?usp=share_link",
+        "Savory Poached Eggs": "(tomatoes,onion,garlic,caraway,bell pepper,jalapeno,kale,eggs,kalamata olives,whole wheat pitas",
+        "Southwest Breakfast Scramble": "https://drive.google.com/file/d/1j_qO3wV4Er6bwISxdw3wxtj2fD-K4U9s/view?usp=sharing",
+        "Vegan Egg Souffles": "https://drive.google.com/file/d/1bislKoYlmKHEiAmzKtAjf9yQtTlVfFc9/view?usp=sharing",
+        "Veggie Quiche": "https://drive.google.com/file/d/1HcdnpotQVgcarqz-gaxO7Ufb7stESM_6/view?usp=sharing"
+    }
+}

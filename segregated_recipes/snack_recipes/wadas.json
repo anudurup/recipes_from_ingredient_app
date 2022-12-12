@@ -1,0 +1,40 @@
+{
+    "ingredients": {
+        "Dahi Bhalla": "urad dal,moong dal yellow,cilantro chutney,tamarind chutney",
+        "Dal Wada": "chana dal,sprouts,onion",
+        "Cabbage Wada": "besan,cabbage,carrot,chana dal,coriander,onion,",
+        "Sabudana Wada": "sabudana,potato",
+        "Air Fried Chana Dal Wada": "Chana Dal, dill leaves, cilantro leaves,curry leaves,ginger",
+        "Air Fried Sabudana Wada": "sabudana,potatoes,peanuts,ginger,green chili,cilantro,lemon juice",
+        "Air Fryer Dahi Wada": "urad dal,green chillies,ginger,yogurt,chat masala,green and tamarind chutney",
+        "Air Fried Dal Wada Lentil Fritters": "chana dal,masoor dal,ginger,serrano pepper,onion",
+        "Appe Pan Sabudana Wada": "sabudana, peanuts,cilantro,sugar,potatoes",
+        "Appe Pan Batata Vada": "potatoes,besan,coriander,baking soda",
+        "Appe Pan Dahi Wada": "split black gram,split green dram,ginger,yogurt,sugar,tamarind sauce",
+        "Appe Pan Moong Dal Vada": "yellow moong dal, cilantro,onion,ginger,yogurt,sec,papadi,onion,potato,tomato,chickpeas,meethi chutney",
+        "Appe Pan Kotimbir Vada": "peanut powder,sesame,garlic,ginger,besan,cilantro",
+        "Air Fried Masala Vada": "chana dal, onion,green chillies,dill leaves,cilantro,curry leaves,ginger",
+        "Appe Pan Methi Muthiya": "methi,sooji,besan,curd,baking soda",
+        "No bake Dahi Wada": "urad dal,yellow moong dal,yoghurt",
+        "Bread Dahi Bhalla": "bread, coriander chutney,meethi chutney,curd,cucumber,onion,paneer,"
+    },
+    "recipe_url": {
+        "Dahi Bhalla": "https://www.cookwithmanali.com/dahi-bhalla/#wprm-recipe-container-44894",
+        "Dal Wada": "https://www.easycookingwithmolly.com/2012/06/dal-vada-spicy-deep-fried-fritters/",
+        "Cabbage Wada": "https://www.tarladalal.com/cabbage-vada-1509r",
+        "Sabudana Wada": "https://www.onegreenplanet.org/vegan-recipe/baked-sabudana-vada/",
+        "Air Fried Chana Dal Wada": "https://rachnacooks.com/chana-dal-masala-vada-south-indian-style-recipe/?fbclid=IwAR2P4evFgcMvjtoFYwU6RKOc16dsTKU_5QG31WCG-C9JWPoUYVmFNZDDSbM",
+        "Air Fried Sabudana Wada": "https://simplyvegetarian777.com/philips-air-fryer.../.",
+        "Air Fryer Dahi Wada": "https://rachnacooks.com/dahi-vada-recipe-north-indian-dahi-vada/?fbclid=IwAR3v0rJ6tMyiEoF6BiM6bYRU0QSYnalIIRqNsjL_UWMOGhIGNdvBdvq6ucc",
+        "Air Fried Dal Wada Lentil Fritters": "https://culinaryshades.com/dal-vada-lentil-fritters-in-air-fryer/?fbclid=IwAR0ix9fy75QpRML_yACZBmrofxhdm94ISOB4fP267I8tFrQFX1Bm-61LWsQ",
+        "Appe Pan Sabudana Wada": "https://thebellyrulesthemind.net/2015/02/sabudana-vada-in-appe-pan/",
+        "Appe Pan Batata Vada": "https://www.youtube.com/watch?v=cWgvuLhfrQU",
+        "Appe Pan Dahi Wada": "https://www.youtube.com/watch?v=ypAwWBjTPLY",
+        "Appe Pan Moong Dal Vada": "https://thebellyrulesthemind.net/2015/01/moong-dal-vada-chaat-fritters-made-in-appe-pan/",
+        "Appe Pan Kotimbir Vada": "https://thebellyrulesthemind.net/2015/01/no-fry-kothimbir-vadi-cilantro-fritters-made-in-appe-pan/",
+        "Air Fried Masala Vada": "https://rachnacooks.com/chana-dal-masala-vada-south.../",
+        "Appe Pan Methi Muthiya": "https://www.betterbutter.in/recipe/8019/methi-muthiya-in-appe-pan/",
+        "No bake Dahi Wada": "https://www.airfryerbook.com/2019/03/air-fried-dahi-vada.html",
+        "Bread Dahi Bhalla": "https://simplytadka.com/dahi-bhalla/#.UJZjx8Wmh3g"
+    }
+}

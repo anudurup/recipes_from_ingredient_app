@@ -1,0 +1,10 @@
+{
+    "ingredients": {
+        "Chilli Garlic Sauce": "rice vinegar,dry red chillies,garlic",
+        "Orange Stir Fry Sauce": "rice vinegar,sugar,veg broth,orange juice,soy sauce,orange marmalade,cornstarch"
+    },
+    "recipe_url": {
+        "Chilli Garlic Sauce": "(garlic,",
+        "Orange Stir Fry Sauce": "https://drive.google.com/file/d/1smAMXr4hlbp9TrhnqQcb0JOFEpbUddWx/view?usp=sharing"
+    }
+}

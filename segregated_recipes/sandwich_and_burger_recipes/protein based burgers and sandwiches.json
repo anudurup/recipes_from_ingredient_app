@@ -1,0 +1,16 @@
+{
+    "ingredients": {
+        "Rajma Cheese Sandwich": "beans,garlic,onion,rajma,spring onion,tomato,",
+        "Black Bean Burger": "chia seeds,green bell pepper,onion,garlic,black beans,old fashioned oats",
+        "Quinoa Black Bean Burger": "black beans,quinoa,bread crumbs,yellow bell pepper,onion,garlic,hot pepper sauce",
+        "Quinoa Patties": "quinoa,zucchini,carrot,eggs,rolled oats",
+        "Mint and Masoor Tikkis": "bread crumbs,masoor,mint,paneer,"
+    },
+    "recipe_url": {
+        "Rajma Cheese Sandwich": "https://www.tarladalal.com/rajma-and-cheese-grilled-sandwich-41026r",
+        "Black Bean Burger": "https://showmetheyummy.com/black-bean-burger-recipe/",
+        "Quinoa Black Bean Burger": "https://www.allrecipes.com/recipe/220661/quinoa-black-bean-burgers/",
+        "Quinoa Patties": "(carrot,eggs,garlic,onion,quinoa,rolled oats,zucchini,",
+        "Mint and Masoor Tikkis": "https://www.tarladalal.com/mint-and-masoor-tikkis-3489r"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Roasted Pepper Cauliflower Soup": "cauliflower,red peppers,veg broth,thyme",
+        "Air Fryer/Instant Pot Roasted Pumpkin Soup": "pumpkin,carrots,potato,onion,garlic,paprika, nutmeg,veg stock,coconut milk",
+        "French Onion Soup": "white and red onions,veg stock,thyme",
+        "Cabbage and Capsicum Stir Fry Soup": "spring onions,cabbage,red capsicum",
+        "Oat and Roasted Capsicum Soup": "rolled oats, red capsicum",
+        "Butternut Squash Soup": "butternut squash,garlic,thyme,veg broth, red bell pepper,chipotle in adobo sauce,ginger,carrot,lemon peel,dried figs,greek yogurt",
+        "Vegan Cream of Asparagus Soup": "onion,asparagus, veg broth,cashews,lemon,dill",
+        "Cucumber Soup": "cucumbers,apples,green onions,dill,basil,parsley,garlic,lime juice,maple syrup,lime peel",
+        "Vegan Corn Chowder": "onions,carrot,celery,red bell pepper,garlic,corn,veg broth,coconut milk,corn starch,lime juice,lemon peel"
+    },
+    "recipe_url": {
+        "Roasted Pepper Cauliflower Soup": "https://thebusybaker.ca/roasted-red-pepper-cauliflower-soup/",
+        "Air Fryer/Instant Pot Roasted Pumpkin Soup": "https://carameltintedlife.com/roasted-pumpkin-veggie-soup/?fbclid=IwAR2_H0VE8ld45OBjCRs65VG09lsiBP2bNBZDtvX6uKMzAlO8q2jY7CibRtQ",
+        "French Onion Soup": "http://laurencariscooks.com/vegetarian-french-onion-soup/",
+        "Cabbage and Capsicum Stir Fry Soup": "https://www.tarladalal.com/cabbage-and-capsicum-stir-fry-soup-22659r",
+        "Oat and Roasted Capsicum Soup": "https://www.tarladalal.com/oats-and-roasted-capsicum-soup-7437r",
+        "Butternut Squash Soup": "https://drive.google.com/file/d/1RisKaNSdJawpJAp3yb66oJuSlPXN1E3h/view?usp=sharing",
+        "Vegan Cream of Asparagus Soup": "https://drive.google.com/file/d/1A5FCjHm515dldu60rGsmWmdRCKCFGGdr/view?usp=sharing",
+        "Cucumber Soup": "https://drive.google.com/file/d/1vDgX4ZqQ_nsrmwjs9HBjvKq5YOaXpOV7/view?usp=sharing",
+        "Vegan Corn Chowder": "https://drive.google.com/file/d/1ka9_pVoBv6iJl1imdX1IQqxf9W_wEXGL/view?usp=sharing"
+    }
+}

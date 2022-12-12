@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Egg Bhurji Paratha": "capsicum,coriander,eggs,flour,onion,tomato,whole wheat flour,",
+        "Egg Paratha": "capsicum,carrot,coriander,eggs,flour,onion,",
+        "Cheese Egg Paratha": "whole wheat flour, eggs, vegan cheese,onion,green chili,tomato ketchup"
+    },
+    "recipe_url": {
+        "Egg Bhurji Paratha": "https://www.tarladalal.com/egg-bhurji-paratha-42393r",
+        "Egg Paratha": "https://www.indianhealthyrecipes.com/egg-paratha-recipe-anda-paratha/",
+        "Cheese Egg Paratha": "https://www.funfoodfrolic.com/cheese-egg-paratha-recipe/"
+    }
+}

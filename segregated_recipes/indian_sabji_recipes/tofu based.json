@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Tofu in Manchurian Sauce": "coriander,corn,cornflour,dahi,garlic,ginger,rice,tofu,",
+        "Kadhai Tofu": "capsicum,coriander,garlic,ginger,methi,onion,tofu,tomato,",
+        "Tofu Achari Paneer": "bell pepper,broccoli,coriander,garlic,ginger,green bell pepper,onion,peas,tofu,tomato,dahi,zucchini,",
+        "Palak Tofu": "almond milk,coconut,coconut milk,garlic,ginger,spinach,tofu,tomato,",
+        "Tofu tikka masala": "tofu,dahi, tomatoes",
+        "Vegan Paneer Butter Masala": "vegan butter,onion,garlic,ginger,tomatoes,cashews,sugar,firm tofu"
+    },
+    "recipe_url": {
+        "Tofu in Manchurian Sauce": "https://www.tarladalal.com/tofu-in-manchurian-sauce-41896r",
+        "Kadhai Tofu": "https://www.tarladalal.com/kadhai-tofu-22427r",
+        "Tofu Achari Paneer": "https://www.veganricha.com/tofu-achari-paneer-tofu-veggies-in-achari-sauce/",
+        "Palak Tofu": "https://www.veganricha.com/palak-tofu-tofu-in-spinach-curry-vegan/",
+        "Tofu tikka masala": "https://www.thespruceeats.com/vegan-tofu-tikka-masala-recipe-3378484",
+        "Vegan Paneer Butter Masala": "https://holycowvegan.net/vegan-paneer-butter-masala/"
+    }
+}

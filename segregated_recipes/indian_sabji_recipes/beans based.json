@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Beans Poriyal": "beans,chana dal,coconut,",
+        "Beans Patoli": "Green beans,chana dal",
+        "Beans Potato Curry": "green beans,potato,onion"
+    },
+    "recipe_url": {
+        "Beans Poriyal": "https://www.indianhealthyrecipes.com/beans-poriyal-recipe-beans-stir-fry/",
+        "Beans Patoli": "https://veggieplatter.blogspot.com/search?q=beans+patoli",
+        "Beans Potato Curry": "https://www.cookwithmanali.com/aloo-beans"
+    }
+}

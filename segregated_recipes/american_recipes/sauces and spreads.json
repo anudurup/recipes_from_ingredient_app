@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Vegan BBQ Sauce": "apple cider vinegar,maple syrup,veg broth,ketchup,orange marmalade,worcestershire sauce vegan,onion powder,allspice",
+        "Banana BBQ Sauce": "coconut oil,banana,apple cider vinegar,veg broth,ketchup,orange marmalade,worcestershire sauce vegan,onion powder,mustard",
+        "Vegan French Onion Spread": "firm tofu, almond milk,apple cider vinegar,soy sauce,green onion,nutritional yeast",
+        "Cranberry Sauce": "orange peel,cloves,cranberries,honey,ginger",
+        "Fixate Tartar Sauce": "greek yogurt,dill pickle,mustard,chives,lemon juice,lemon peel,capers,dill weed",
+        "Lemon Garlic Sauce": "lemon juice,egg yolk,garlic,dijon mustard,mustard seeds",
+        "Vegan BBQ sauce": "apple cider vinegar,maple syrup,veg broth,orange marmalade,ketchup,allspice,worcestershire sauce vegan,onion powder",
+        "Vegan Worcestershire Sauce": "apple cider vinegar,soy sauce,brown sugar,mustard,allspice,onion powder",
+        "Vegan Buffalo Tofu Dip": "extra firm tofu,soy sauce,vegan BBQ sauce,cashews,hot sauce,white miso paste,onion powder,tortilla chips"
+    },
+    "recipe_url": {
+        "Vegan BBQ Sauce": "https://drive.google.com/file/d/1foIEbeY1Lx3aypbHrzQorn8bRfio0cYh/view?usp=sharing",
+        "Banana BBQ Sauce": "https://drive.google.com/file/d/1m9Ty4EOy91H0bj4UboJn0o18oZCLbbUR/view?usp=sharing",
+        "Vegan French Onion Spread": "https://drive.google.com/file/d/1w1_SGbGfjsWnitA652Bsd-aqO3Am3ef2/view?usp=sharing",
+        "Cranberry Sauce": "https://drive.google.com/file/d/1z9xh2kh3sjkRNPn_KESHK19FTNUKF284/view?usp=sharing",
+        "Fixate Tartar Sauce": "https://drive.google.com/file/d/1SVE41WjhKUjUT-vzOuSFAisDVy4S9K_M/view?usp=sharing",
+        "Lemon Garlic Sauce": "https://drive.google.com/file/d/1KBUAEkho6XxyVbzS2kH4TMHXRK30pMHX/view?usp=sharing",
+        "Vegan BBQ sauce": "https://drive.google.com/file/d/1foIEbeY1Lx3aypbHrzQorn8bRfio0cYh/view?usp=sharing",
+        "Vegan Worcestershire Sauce": "https://www.karissasvegankitchen.com/vegan-worcestershire-sauce/",
+        "Vegan Buffalo Tofu Dip": "https://itdoesnttastelikechicken.com/vegan-buffalo-tofu-dip-buffalo-chicken-dip/#recipe"
+    }
+}

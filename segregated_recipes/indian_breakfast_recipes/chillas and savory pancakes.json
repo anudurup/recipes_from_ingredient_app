@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Cabbage Besan Chillas": "besan,cabbage,coriander,flour,ginger,onion,",
+        "Besan Ka Cheela": "besan,coriander,flour,methi,onion,rice,rice flour,tomato,",
+        "Nutricious Chilla": "coriander,flour,millet,mint,onion,ragi,tomato,whole wheat flour,",
+        "Upvas Chilla": "sama rice, sabudana, ginger,potatoes,tomato, coriander,ground peanuts,coconut,peanuts",
+        "Moonglet": "capsicum,coriander,flour,ginger,onion,rice,rice flour,tomato,",
+        "Cabbage Besan Pancakes": "besan,cabbage,coriander,flour,ginger,onion,",
+        "Sooji Potato Pancakes": "potato,rava,spring onion,carrot",
+        "Potato Bajra Pancake": "potatoes, bajra flour, coriander",
+        "Leftover Roti Handvo": "leftover roti, dahi, semolina, ginger garlic paste, capsicum,carrot,bottle gourd, onion, baking soda, coriander seeds, sesame seeds"
+    },
+    "recipe_url": {
+        "Cabbage Besan Chillas": "https://www.tarladalal.com/cabbage-pancakes-healthy-cabbage-besan-chilla-1712r",
+        "Besan Ka Cheela": "https://hebbarskitchen.com/eggless-omelette-tomato-omelette-besan-ka-cheela/",
+        "Nutricious Chilla": "https://www.tarladalal.com/nutritious-chilla-22351r",
+        "Upvas Chilla": "https://www.pinterest.co.uk/pin/496592296426636472/",
+        "Moonglet": "https://hebbarskitchen.com/moonglet-recipe-moong-dal-omelette/",
+        "Cabbage Besan Pancakes": "https://www.tarladalal.com/cabbage-pancakes-healthy-cabbage-besan-chilla-1712r",
+        "Sooji Potato Pancakes": "https://www.yummytummyaarthi.com/sooji-potato-pancakes-recipes-finger/",
+        "Potato Bajra Pancake": "https://www.tarladalal.com/potato-bajra-pancake-22350r",
+        "Leftover Roti Handvo": "https://www.pinterest.co.uk/pin/496592296426636484/"
+    }
+}

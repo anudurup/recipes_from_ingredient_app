@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Vegan Enchiladas": "red enchilada sauce, portobello mushroom caps, red onion, orange bell pepper, black beans, garlic powder, veg broth, guacamole, corn tortillas, lettuce",
+        "Sweet potato vegan enchiladas": "sweet potato, red onion, garlic, roasted red pepper, sun dried tomatoes, spinach, black beans, enchilada sauce, lime juice, medium tortilla, sauce: cashews, cilantro, garlic, avocado,lime juice",
+        "Easy Vegan Taquitos": "potatoes, carrot, onion, garlic, peas, onion powder, veg broth, vegan cheese, small/medium tortillas",
+        "Vegan lentil enchiladas": "tortilla, vegan cheese, dry lentils, veg broth, sunflower seeds, rolled oats, tomato paste, bell peppers, carrot, tomato, garlic, onion, chia seeds, oregano, hot chili peppers, flour",
+        "Pumpkin Black Bean Enchiladas": "tomatoes, pumpkin puree, cashews, veg broth, chipotle in adobo sauce, red onion, red bell pepper, kale, black beans, tortillas, avocado",
+        "Buffalo Chickpea Vegan Taquitos": "chickpeas, artichoke hearts, butternut mac sauce, buffalo sauce, tortillas, vegan ranch, guacamole"
+    },
+    "recipe_url": {
+        "Vegan Enchiladas": "https://www.acouplecooks.com/vegan-enchiladas/",
+        "Sweet potato vegan enchiladas": "",
+        "Easy Vegan Taquitos": "https://elavegan.com/easy-vegan-taquitos/",
+        "Vegan lentil enchiladas": "https://elavegan.com/vegan-enchiladas-lentils-gluten-free/",
+        "Pumpkin Black Bean Enchiladas": "https://minimalistbaker.com/pumpkin-black-bean-enchiladas-gf-optional/",
+        "Buffalo Chickpea Vegan Taquitos": "https://www.veggieinspired.com/baked-buffalo-vegan-taquitos/"
+    }
+}

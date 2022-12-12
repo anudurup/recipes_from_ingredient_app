@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Cauliflower Curry": "coconut oil, onion,ginger,garlic,tomatoes,coconut milk,cauliflower,chickpeas,peas,brocollo, red peppers,potatoes,yellow curry powder",
+        "Roasted Cauliflower Curry": "cauliflower,greek dahi,lemon juice,tomato sauce,whipping cream, garlic",
+        "Cauliflower and Potato Ghassi": "cauliflower,coconut,coriander,ginger,onions,potato,tamarind,"
+    },
+    "recipe_url": {
+        "Cauliflower Curry": "https://www.theendlessmeal.com/cauliflower-curry/",
+        "Roasted Cauliflower Curry": "https://www.savorytooth.com/cauliflower-curry/",
+        "Cauliflower and Potato Ghassi": "https://www.tarladalal.com/cauliflower-and-potato-ghassi-1973r"
+    }
+}

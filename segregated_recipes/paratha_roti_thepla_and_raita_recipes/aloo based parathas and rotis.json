@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Aloo Paratha": "coriander,flour,ginger,methi,potato,whole wheat flour,",
+        "Aloo Methi Parathas": "coriander,dahi,flour,ginger,methi,potato,whole wheat flour,",
+        "Aloo Methi Paratha": "coriander,flour,garlic,methi,potato,whole wheat flour,",
+        "Aloo Palak Paratha": "whole wheat flour,potato,spinach",
+        "Aloo Cheese Paratha": "coriander,flour,ginger,onion,potato,whole wheat flour,",
+        "Aloo Kulcha": "flour,curd,milk,potato",
+        "Pudina Aloo Paratha": "whole wheat flour,potato,mint",
+        "Aloo Roti": "aloo,coriander,flour,ginger,methi,potato,",
+        "Garlic Aloo Roti": "potato,flour,coriander,baking powder,garlic,green chili,butter"
+    },
+    "recipe_url": {
+        "Aloo Paratha": "https://www.indianhealthyrecipes.com/aloo-paratha/",
+        "Aloo Methi Parathas": "https://www.tarladalal.com/aloo-methi-parathas-4776r",
+        "Aloo Methi Paratha": "https://www.indianhealthyrecipes.com/aloo-methi-paratha/",
+        "Aloo Palak Paratha": "https://www.manjulaskitchen.com/aloo-palak-paratha/",
+        "Aloo Cheese Paratha": "https://hebbarskitchen.com/aloo-cheese-paratha-recipe/",
+        "Aloo Kulcha": "https://rakskitchen.net/aloo-kulcha-recipe-indian-flatbread/",
+        "Pudina Aloo Paratha": "https://www.bawarchi.com/recipe/pudina-aloo-paratha-oesswddhegabi.html",
+        "Aloo Roti": "https://hebbarskitchen.com/aloo-roti-recipe-potato-roti-recipe/",
+        "Garlic Aloo Roti": "https://www.pinterest.co.uk/pin/496592296426636416/"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "ingredients": {
+        "Vegan Alfredo Sauce": "vegan butter,onion,garlic,cauliflower,veg broth,soy sauce",
+        "Vegan Protein Pesto": "cannellini beans,parsley,green onion,red wine vinegar/lemon juice,garlic",
+        "Fixate Marinara": "tomatoes,onion,garlic,dry white wine,basil",
+        "Vegan Bolognese Sauce": "onion, celery, mushrooms, carrots, garlic, italian seasoning, onion powder, sugar, veg broth, tomatoes, dry lentils brown, soy sauce, balsamic vinegar, plant based milk, cornstarch, spaghetti, vegan parmesan",
+        "Homemade Pesto": "basil,garlic,pine nuts,",
+        "Bechamel Sauce": "milk,butter,maida",
+        "Creamy Cilantro Lime Dressing": "cilantro leaves, white wine vinegar, olive oil, garlic, lime juice, honey, dijon mustard, avocado",
+        "Air Fried Sun dried tomatoes": "grape tomatoes,olive oil",
+        "Creamy Avocado Walnut Pesto": "avocado,basil,walnuts,parmesan,lemon juice,olive oil,garlic",
+        "Vegan Mushroom Gravy": "mushrooms dried,onion,garlic,all purpose flour,tomato paste,soy sauce,veg broth,coconut milk,dried thyme,dried rosemary"
+    },
+    "recipe_url": {
+        "Vegan Alfredo Sauce": "https://drive.google.com/file/d/1GlSYApNmZTK7Ug0Gk94b_0tfLdq2CJ01/view?usp=sharing",
+        "Vegan Protein Pesto": "https://drive.google.com/file/d/1x5jIKoMBJ51X8kjio4y05_vV2hioP5xX/view?usp=sharing",
+        "Fixate Marinara": "https://drive.google.com/file/d/1L7VZ8YoDBDv-VxIFlDcR0_0RZMj3VbIg/view?usp=sharing",
+        "Vegan Bolognese Sauce": "https://elavegan.com/vegan-lentil-bolognese/",
+        "Homemade Pesto": "https://www.tarladalal.com/pesto-sauce-indian-basil-pesto-1812r",
+        "Bechamel Sauce": "https://www.indianveggiedelight.com/easy-microwave-white-sauce-3-min/",
+        "Creamy Cilantro Lime Dressing": "https://sweetpeasandsaffron.com/creamy-cilantro-lime-dressing/",
+        "Air Fried Sun dried tomatoes": "https://www.allrecipes.com/recipe/283222/air-fryer-sun-dried-tomatoes/",
+        "Creamy Avocado Walnut Pesto": "http://thymeandtoast.com/creamy-avocado-walnut-pesto/",
+        "Vegan Mushroom Gravy": "https://veganheaven.org/recipe/vegan-gravy/#wprm-recipe-container-12618"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "ingredients": {
+        "Spicy Buffalo Tofu Wings": "tofu,tapioca flour,breadcrumbs,vegan butter, hot sauce, garlic powder,paprika",
+        "Baked Tofu Sticks": "firm tofu,all purpose flour,almond milk,garlic powder,breadcrumbs,buffalo sauce,oil,vegan mayo,dill,parsley",
+        "Crispy Baked Buffalo Tofu Wings": "tofu,cornstarch,plant milk,bread crumbs,red hot sauce",
+        "Chickpea Chicken Nuggets": "chickpeas,oat flour,onion powder,aquafaba,bread crumbs",
+        "Crispy Baked Tofu Nuggets": "tofu,dill pickle juice,vegetable broth,yeast",
+        "Chickpea Nuggets": "chickpeas,oat flour,onion powder,breadcrumbs,ketchup",
+        "Chickpea Veggie Nuggets": "chickpeas,onions,garlic,eggs,oat flour",
+        "Crispy Chickpeas": "chickpeas",
+        "Crispy Air fried chickpeas": "chickpeas",
+        "Smoky Baked Beans": "sweet onion,tomato sauce,worcestershire sauce vegan,dijon mustard,molasses blackstrap,cannellini beans",
+        "Vegan Buffalo Quinoa Bites": "white beans,shallot,garlic,vegan buffalo sauce,quinoa,besan,tahini,hemp hearts,nutritional yeast,onion powder,dried dill,lemon",
+        "Deviled Eggs Three Ways": "mayo,eggs,dijon mustard,lemon peel,sesame infusion,thai fish sauce OR greek yogurt,dijon mustard,lemon peel,lemon juice,salmon/tofu,dill OR greek yogurt,lime zest,lime juice,ghee,green onion,curry powder,chili,kaffir lime leaves AND sesame oil,garlic,ginger"
+    },
+    "recipe_url": {
+        "Spicy Buffalo Tofu Wings": "https://www.pinterest.com/pin/496592296424257028/",
+        "Baked Tofu Sticks": "https://veganheaven.org/all-recipes/baked-tofu-sticks/",
+        "Crispy Baked Buffalo Tofu Wings": "https://www.thecuriouschickpea.com/crispy-baked-buffalo-tofu-wings/",
+        "Chickpea Chicken Nuggets": "https://www.pinterest.com/pin/496592296424217110/",
+        "Crispy Baked Tofu Nuggets": "https://nosweatvegan.com/vegan-chick-fil-a-style-nuggets-with-vegan-honey-mustard-dipping-sauce-oil-free/",
+        "Chickpea Nuggets": "",
+        "Chickpea Veggie Nuggets": "https://thenaturalnurturer.com/chickpea-vegetable-nuggets/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=980088616_43756762_163858",
+        "Crispy Chickpeas": "https://simplyvegetarian777.com/vegan-air-fryer.../.",
+        "Crispy Air fried chickpeas": "https://www.myforkinglife.com/crispy-air-fryer-chickpeas/",
+        "Smoky Baked Beans": "https://drive.google.com/file/d/1AjLmi7TYlOGtZPRwcr006oOftPotYZiJ/view?usp=sharing",
+        "Vegan Buffalo Quinoa Bites": "https://www.simplyquinoa.com/vegan-buffalo-quinoa-bites-ranch/",
+        "Deviled Eggs Three Ways": "https://drive.google.com/file/d/1J0BWxNW8QI_jooyXX84L6SLdDHwUHlai/view?usp=sharing"
+    }
+}

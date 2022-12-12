@@ -1,0 +1,30 @@
+{
+    "ingredients": {
+        "Manchow Soup": "spring onions, cabbage,carrot,capsicum,veg stock,green chilli sauce,vinegar",
+        "Mixed Veg Clear Soup": "cauliflower,carrot,cabbage,capsicum,tomatoes,mint,coriander",
+        "Garlic Vegetable Soup": "mixed vegetables,rolled oats",
+        "Vegetable and Basil Soup": "onions,coloured capsicum,french beans,carrot,cabbage,celery,vegetable stock",
+        "Mixed veg soup": "spring onion,carrot,beans,capsicum,cabbage,peas,sweet corn,spring onion",
+        "Mexican vegetable soup": "yellow onion,carrots,garlic,veg broth,diced tomatoes,zucchini,green beans, oregano, frozen corn, lime juice",
+        "Hot and sour vegetable tofu soup": "ginger, green oinions, red cabbage, carrot, button mushrooms, veg broth, soy sauce, rice vinegar, chili garli sauce, tofu",
+        "Wild Rice Soup with Veggies": "Wild Rice, Bella mushrooms, garlic, white onion,carrots,garlic,celery,sweet potato, veg stock, coconut milk, baby spinach, italian seasoning",
+        "Garden Vegetable Soup": "onion,carrots,garlic,celery,green beans,veg broth,corn,lemon",
+        "Oats Vegetable Soup": "mixed veggies like carrot,corn,peas,beans, rolled oats, mixed herbs",
+        "Sabudana Soup": "spinach,basil,nutmeg",
+        "Vegetarian tortilla soup": "onion, garlic, tomato paste, veg broth, corn tortillas 6 inch, tomatoes, black beans, zucchini, jalapeno"
+    },
+    "recipe_url": {
+        "Manchow Soup": "https://www.tarladalal.com/manchow-soup-22751r",
+        "Mixed Veg Clear Soup": "https://www.tarladalal.com/mixed-vegetable-clear-soup-4203r",
+        "Garlic Vegetable Soup": "https://www.tarladalal.com/garlic-vegetable-soup---healthy-heart-5535r",
+        "Vegetable and Basil Soup": "https://www.tarladalal.com/vegetable-and-basil-soup-healthy-diabetic-recipe-33650r",
+        "Mixed veg soup": "https://hebbarskitchen.com/vegetable-soup-recipe-mix-veg-soup/",
+        "Mexican vegetable soup": "https://www.cookingclassy.com/mexican-vegetable-soup/",
+        "Hot and sour vegetable tofu soup": "https://www.budgetbytes.com/hot-sour-vegetable-soup-with-tofu/",
+        "Wild Rice Soup with Veggies": "https://profusioncurry.com/wild-rice-soup/?fbclid=IwAR04pjAkWHHEKjA07UB2EXHzxSZ1fjcllnoeseNp8iUwD4qWzyTb_US3BKY",
+        "Garden Vegetable Soup": "https://drive.google.com/file/d/1FGEHREbW78B2NUXfOP8o16fosk7dmtM5/view?usp=sharing",
+        "Oats Vegetable Soup": "https://www.indianhealthyrecipes.com/oats-soup-recipe/",
+        "Sabudana Soup": "https://www.tarladalal.com/sabudana-soup-35830r",
+        "Vegetarian tortilla soup": "https://www.epicurious.com/recipes/food/views/vegetarian-tortilla-soup-4421"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "ingredients": {
+        "Ricotta pancakes with mixed berry compote": "mixed berries,maple syrup,corn starch,all purpose flour,baking powder,ricotta,buttermilk,eggs,vanilla extract",
+        "Buttermilk apple pancakes": "curd,yogurt,flour,milk,whole wheat flour,",
+        "Banana Oat Pancakes": "almond milk,eggs,banana,vanilla extract,baking powder,cinnamon,rolled oats,mixed berries",
+        "Cashew N Oat Hotcakes": "rolled oats, cashews,sugar,cinnamon,baking powder, large egg,coconut oil,almond milk,mixed berries,vanilla extract",
+        "Crepes your way Pancakes": "eggs,almond milk,sugar,coconut flour",
+        "Fruit Pizza": "Cashew N Oat Hotcakes above,vanilla yogurt,mixed fruit",
+        "Banana Boats": "rolled oats,dried cranberries,pecans, pumpkin seeds,shredded coconut,maple syrup,ghee,vanilla extract,cinnamon,nutmeg,large bananas,greek yogurt,berries,honey"
+    },
+    "recipe_url": {
+        "Ricotta pancakes with mixed berry compote": "https://drive.google.com/file/d/1iAHxJkf6TOOrUmB7_YUOJyad0GtIOPYY/view?usp=sharing",
+        "Buttermilk apple pancakes": "https://www.tarladalal.com/buttermilk-apple-pancakes-3516r",
+        "Banana Oat Pancakes": "https://drive.google.com/file/d/1Y4HH9shjQPpUg-ZZxWArti16ZCSopMaL/view?usp=share_link",
+        "Cashew N Oat Hotcakes": "https://drive.google.com/file/d/13y5o0GTChUQQONd0zjvwDpPiYdxMxCUs/view?usp=share_link",
+        "Crepes your way Pancakes": "https://drive.google.com/file/d/1XLgE7hkBbBZHIvFj9MWe4zotCjd9xgOL/view?usp=share_link",
+        "Fruit Pizza": "https://drive.google.com/file/d/1MnT5Ut1FPTNov3FJqMsk_-9i9bRx1yUR/view?usp=share_link",
+        "Banana Boats": "https://drive.google.com/file/d/1hpdA5Xv94nOvwOZuutM7JtSNfivsoEPo/view?usp=share_link"
+    }
+}

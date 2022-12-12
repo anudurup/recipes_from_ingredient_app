@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Tahini Sauce": "sesame seeds, olive oil",
+        "Hummus at Home": "chickpeas, lemon juice, tahini, garlic, aquafaba",
+        "Roasted Red Pepper Hummus": "red bell peppers, tahini, garlic, chickpeas",
+        "Slow roasted tomato hummus": "cherry tomatoes,sugar,garlic,chickpeas,tahini,tomatoes,oregano,pita bread",
+        "Green pea Hummus and Spring Mezze": "chickpeas,green peas,tahini,lemon,garlic,cucuber,carrot,strawberries,asparagus,radishes",
+        "Baba Ghanoush": "eggplants,tahini paste,lemon juice,lemon peel",
+        "Vegan Tzatziki": "cucumber, dahi, garlic, dill, lemon juice",
+        "Morrocon Chermoula Sauce": "cumin, coriander, lemon juice,olive oil, parsley,garlic",
+        "Muhammara": "red bell pepper, garlic, walnuts, breadcrumbs, lemon juice"
+    },
+    "recipe_url": {
+        "Tahini Sauce": "https://www.inspiredtaste.net/26901/easy-tahini-recipe/",
+        "Hummus at Home": "https://www.inspiredtaste.net/15938/easy-and-smooth-hummus-recipe/#itr-recipe-15938",
+        "Roasted Red Pepper Hummus": "https://www.chilipeppermadness.com/recipes/roasted-red-pepper-hummus/",
+        "Slow roasted tomato hummus": "https://www.howsweeteats.com/2019/03/slow-roasted-tomato-hummus/",
+        "Green pea Hummus and Spring Mezze": "https://www.occasionallyeggs.com/green-pea-hummus/#wprm-recipe-container-7915",
+        "Baba Ghanoush": "https://drive.google.com/file/d/1c4fdeFuyDBj-hdl-seF3S_BfIoAS2hKL/view?usp=sharing",
+        "Vegan Tzatziki": "https://minimalistbaker.com/6-ingredient-vegan-tzatziki/",
+        "Morrocon Chermoula Sauce": "https://cooktoria.com/chermoula-sauce/",
+        "Muhammara": "https://www.pinterest.co.uk/pin/496592296425852896/"
+    }
+}

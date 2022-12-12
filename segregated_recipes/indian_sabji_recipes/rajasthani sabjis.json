@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Ker Saangri": "ker berries, sangri beans, dahi,fennel seeds",
+        "Aaani Bassar": "besan,poppy seeds,onion,tomato,ginger paste",
+        "Nashpati ki Sabji": "pears",
+        "Tamatar ka Choka": "tomatoes"
+    },
+    "recipe_url": {
+        "Ker Saangri": "https://www.whiskaffair.com/ker-sangri/#recipe",
+        "Aaani Bassar": "https://ribbonstopastas.com/sindhi-aani-bassar-fried-lentil-cakes-in-thick-gravy/#recipe",
+        "Nashpati ki Sabji": "https://www.parentlane.com/recipes/child-food-recipes/nashpati-ki-sabji",
+        "Tamatar ka Choka": "https://www.vegrecipesofindia.com/tomato-chokha-recipe/#wprm-recipe-container-135347"
+    }
+}

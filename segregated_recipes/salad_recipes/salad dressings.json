@@ -1,0 +1,28 @@
+{
+    "ingredients": {
+        "6 Healthy Salad Dressings": "cilantro avocado lime dressing, maple mustard balsamic vinegar dressing, mustard poppy seeds honey dressing,mayo greek yogurt mustard dressing, basil mustard orange lime dressing,peanut butter ginger garlic soy sauce sesame oil dressing",
+        "Honey Dijon Vinaigrette": "olive oil,apple cider vinegar,honey,dijon mustard,salt,pepper",
+        "Asian Vinaigrette": "rice vinegar,soy sauce,honey,ginger,sesame oil",
+        "Creamy Raspberry Vinaigrette": "lemon juice,dijon mustard,raspberry preserves, greek yogurt",
+        "Vegan Ceasar Salad dressing": "lemon juice,xantham gum,worcestershire sauce vegan,nutritional yeast,onion powder,sugar",
+        "Fixate Ranch Dressing": "greek yogurt,buttermilk,dijon mustard,lemon juice,chives,onion powder",
+        "Honey Mustard Salad Dressing": "greek yogurt,dijon mustard,rice vinegar,honey,olive oil",
+        "Lemon Dijon Salad dressing": "egg yolk,dijon mustard, lemon juice,lemon peel",
+        "Avocado Lime Salad Dressing": "dahi,avocados,olive oil,lime juice,garlic,chili powder,pepper",
+        "Cilantro Lime dressing": "jalapeno,garlic,mayo,dahi,lime juice,honey,salt,olive oil",
+        "French Dressing": "mayo,ketchup,ACV,honey,garlic,worcestershire sauce,dijon mustard,onion powder"
+    },
+    "recipe_url": {
+        "6 Healthy Salad Dressings": "https://greenhealthycooking.com/6-healthy-salad-dressings/",
+        "Honey Dijon Vinaigrette": "https://erhardtseat.com/honey-dijon-vinaigrette/",
+        "Asian Vinaigrette": "https://drive.google.com/file/d/1RYp8xjt2p1fhq_Ej0f_EQQg2-aCpSkdy/view?usp=sharing",
+        "Creamy Raspberry Vinaigrette": "",
+        "Vegan Ceasar Salad dressing": "https://drive.google.com/file/d/1uN3wPSzPY8LoLk_ouMr158e3Cz7IRy0P/view?usp=sharing",
+        "Fixate Ranch Dressing": "https://drive.google.com/file/d/1UEWvnOWjjoNlh8h2iw4uXqr39Lhm1KIx/view?usp=sharing",
+        "Honey Mustard Salad Dressing": "https://drive.google.com/file/d/1kOFS470f-Dgttd5Y5bG7JT75TXyDkSky/view?usp=sharing",
+        "Lemon Dijon Salad dressing": "https://drive.google.com/file/d/1CkwAWnvMts4nPUQ9kmXADnU0Q0p7yJLf/view?usp=sharing",
+        "Avocado Lime Salad Dressing": "https://diethood.com/light-creamy-avocado-lime-salad-dressing/",
+        "Cilantro Lime dressing": "https://www.ambitiouskitchen.com/cilantro-lime-dressing/",
+        "French Dressing": "https://drive.google.com/file/d/1FI46S7Gj5weROB3Q4-Y80oJ4moPLXgPe/view?usp=sharing"
+    }
+}

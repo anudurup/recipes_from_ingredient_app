@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Pumpkin Kootu": "coconut,kaddu,pumpkin,yellow moong dal,",
+        "Kadu ki Sabji": "coriander,ginger,kaddu,methi,pumpkin,",
+        "Khatta meetha kaddu": "pumpkin,red chillies,methi seeds,lemon juice"
+    },
+    "recipe_url": {
+        "Pumpkin Kootu": "https://www.tarladalal.com/pumpkin-kootu-pumpkin-and-yellow-moong-dal-sabzi-curry-32913r",
+        "Kadu ki Sabji": "https://hebbarskitchen.com/kaddu-ki-sabji-recipe-pethe-ki-sabji/",
+        "Khatta meetha kaddu": "https://www.sanjeevkapoor.com/recipe/Khatta-Meetha-Kaddu-KhaanaKhazana.html"
+    }
+}

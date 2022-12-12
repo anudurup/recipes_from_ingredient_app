@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "German Potato Soup": "onion,garlic,celery,carrot,potato,marjoram,nutmeg,veg broth,cream",
+        "Vegan Broccoli Potato Soup": "onion,garlic,potatoes,carrot,cashews,celery,veg stock,nutritional yeast,brocolli,chives",
+        "Herbed Potato Soup": "potato,onions,mixed herbs",
+        "German Vegan Potato Soup": "onion,garlic,celery,carrots,potatoes,marjoram,nutmeg,veg broth,bay leaves,dairy free cream,vegan sausage"
+    },
+    "recipe_url": {
+        "German Potato Soup": "https://elavegan.com/vegan-german-potato-soup/",
+        "Vegan Broccoli Potato Soup": "https://veggiesociety.com/creamy-broccoli-and-potato-soup-vegan/",
+        "Herbed Potato Soup": "https://www.tarladalal.com/herbed-potato-soup-31030r",
+        "German Vegan Potato Soup": "https://elavegan.com/vegan-german-potato-soup/"
+    }
+}

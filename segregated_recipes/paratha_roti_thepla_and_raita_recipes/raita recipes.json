@@ -1,0 +1,30 @@
+{
+    "ingredients": {
+        "Mixed Raita": "dahi,cucumbers,tomato,green bell pepper,cilantro",
+        "Spinach Raita": "corn,dahi,spinach,dahi,",
+        "Avocado Raita": "avocado,onion,tomato,yogurt",
+        "Beetroot Raita": "beetroot,dahi,dahi,",
+        "Cucumber Raita": "coriander,cucumber,mint,dahi,",
+        "Onion Raita": "coriander,dahi,onion,",
+        "Mint Raita": "coriander,cucumber,curd,mint,onion,dahi,",
+        "Masala Raita": "coriander,curd,onion,dahi,",
+        "Majjiga pulusu": "chana dal,curd,garlic,ginger,methi,onion,urad dal,dahi,",
+        "Bhurani Raita": "coriander,dahi,garlic,",
+        "Turnip Raita": "turnip,curd",
+        "Ridge Gourd Raita": "chana dal,coconut,coriander,curd,garlic,ginger,onion,ridge gourd,tamarind,tomato,urad dal,"
+    },
+    "recipe_url": {
+        "Mixed Raita": "https://myfoodstory.com/indian-raita-recipe/",
+        "Spinach Raita": "https://www.archanaskitchen.com/palak-raita-refreshing-spinach-yogurt-dip",
+        "Avocado Raita": "https://www.thespruceeats.com/avocado-raita-with-yogurt-1957931",
+        "Beetroot Raita": "https://www.archanaskitchen.com/beetroot-pachadi",
+        "Cucumber Raita": "https://www.indianhealthyrecipes.com/cucumber-raita-recipe/",
+        "Onion Raita": "https://www.indianhealthyrecipes.com/onion-raita-recipe-make-onion-raita-recipe/",
+        "Mint Raita": "https://www.indianhealthyrecipes.com/mint-raita-recipe/",
+        "Masala Raita": "https://www.vegrecipesofindia.com/masala-raita-recipe/",
+        "Majjiga pulusu": "https://hebbarskitchen.com/majjiga-pulusu-recipe-andhra-majjiga/",
+        "Bhurani Raita": "https://www.tarladalal.com/burhani-raita-hyderabadi-masala-curd-raita-41483r",
+        "Turnip Raita": "https://www.youtube.com/watch?v=V_sC1OMztY8",
+        "Ridge Gourd Raita": "https://hebbarskitchen.com/ridge-gourd-recipe-beerakaya-curry-turai/"
+    }
+}

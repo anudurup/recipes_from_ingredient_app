@@ -1,0 +1,28 @@
+{
+    "ingredients": {
+        "Rajasthani Kadhi": "besan,coriander,dahi,methi,dahi,",
+        "Gujrati Kadhi": "besan,coriander,dahi,ginger,methi,dahi,",
+        "Dhapka Kadhi": "besan,coriander,ginger,yellow moong dal,",
+        "Palak Kadhi": "besan,coriander,dahi,garlic,ginger,methi,spinach,",
+        "Mor Kozhambu": "coconut,dahi,",
+        "Rice Pakoda Kadhi": "besan,coriander,dahi,garlic,onion,rice,",
+        "Dahi Tadka": "coriander,dahi,garlic,dahi,",
+        "Air fried kadhi pakoda": "besan,ajwain,onion,dahi,besan,ginger garlic paste,cinnamon,dry red chillies",
+        "Ghatte ki sabji": "Besan",
+        "Majjiga Pulusu": "dahi,rice,potato,coconut",
+        "Farhal Kadhi": "buttermilk,salt,rajgira flour,jaggery"
+    },
+    "recipe_url": {
+        "Rajasthani Kadhi": "https://hebbarskitchen.com/dahi-kadhi-kadhi-chawal-rajasthani-kadhi/",
+        "Gujrati Kadhi": "https://hebbarskitchen.com/gujarati-kadhi-recipe-gujrati-kadhi/",
+        "Dhapka Kadhi": "https://www.tarladalal.com/dapka-kadhi--gujarati-recipe-608r",
+        "Palak Kadhi": "https://www.tarladalal.com/palak-kadhi-22178r",
+        "Mor Kozhambu": "https://www.tarladalal.com/mor-kuzhambu-south-indian-curd-curry-42447r",
+        "Rice Pakoda Kadhi": "https://www.tarladalal.com/rice-pakoda-kadhi-22616r",
+        "Dahi Tadka": "https://www.indianveggiedelight.com/dahi-tadka-spiced-dahi-curry/",
+        "Air fried kadhi pakoda": "https://rachnacooks.com/punjabi-kadhi-recipe-how-to-make-kadhi-pakoda-step-by-step-recipe/",
+        "Ghatte ki sabji": "https://www.vegrecipesofindia.com/gatte-ki-sabji-recipe/#wprm-recipe-container-193998",
+        "Majjiga Pulusu": "https://veggieplatter.blogspot.com/2016/12/aloo-majjiga-pulusu.html",
+        "Farhal Kadhi": "https://www.zeelskitchen.com/recipe/farali-kadhi-vrat-ki-kadhi-rajgira-kadhi/"
+    }
+}

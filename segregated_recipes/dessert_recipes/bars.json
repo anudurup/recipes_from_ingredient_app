@@ -1,0 +1,36 @@
+{
+    "ingredients": {
+        "Chocolate Almond Butter Bars": "almond butter, maple syrup,cocoa powder, almond flour, chocolate chips",
+        "Vegan Key Lime Pie Bars": "dates, cashews,almond flour,cinnamon,coconut milk,lime juice,lime zest,maple syrup,vanilla extract",
+        "Creamy vegan lemon bars": "cashews,coconut cream, cornstarch,lemon juice,lemon zest, maple syrup,sugar, oats, almonds,coconut sugar",
+        "Vegan No bake chocolate coconut bars": "shredded coconut, coconut oil, maple syrup, chocolate chips",
+        "No Bake Oatmeal Bars": "rolled oats,peanut butter,maple syrup",
+        "Peanutty Peanut Butter Squares": "peanut butter,vanilla extract,eggs,baking soda",
+        "Chocolate Cherry Bars": "brown sugar, vegan butter,egg,vanilla extract,almond flour,baking powder,chocolate chips,cherries",
+        "Snickerdoodles": "brown sugar,vegan butter,egg,vanilla extract, all purpose flour, baking powder,cinnamon",
+        "Lemon Bars": "graham crackers,maple syrup, coconut oil,lemon juice,lemon peel,corn starch, coconut cream, egg yolks,all purpose flour,powdered sugar",
+        "Vegan Snickers Protein Bars": "protein powder, almond flour, maple syrup, milk, peanut butter, coconut oil, peanuts, chocolate chips",
+        "Triple Layer Vegan chocolate bar": "almond flour, cocoa powder, baking powder, almond butter, almond milk, maple syrup, coconut flour, vanilla extract, chocolate chips, coconut oil",
+        "Vegan Twix Bars": "plain flour, sugar, butter, vanilla extract, condensed milk coconut, cornflour, dark chocolate",
+        "Almond Chocolate Squares": "oat flour,almond flour,vanilla shakeology,almond butter,vanilla extract,almond milk,dark chocolate chips",
+        "Chewy Whole grain bars": "rolled oats,quinoa,chia seeds,flax seeds, almond butter,cinnamon,maple syrup, banana,vanilla extract, raisins,apricots,cherries, sunflower seeds,walnuts,chocolate chips",
+        "Creamy Vegan lemon bars": "cashews,coconut cream,cornstarch,lemon juice,lemon zest,maple syrup,powdered sugar,oats,almonds,coconut oil"
+    },
+    "recipe_url": {
+        "Chocolate Almond Butter Bars": "https://www.breesveganlife.com/chocolate-almond-butter-bars-no-bake/?fbclid=IwAR01nP-nGxRc6CZDEIGr38viZbiw8Y9tVexNHMtmc-wHE1J-pkb_i98OC5M",
+        "Vegan Key Lime Pie Bars": "https://allthehealthythings.com/healthy-key-lime-pie-bars/",
+        "Creamy vegan lemon bars": "https://minimalistbaker.com/creamy-vegan-lemon-bars/",
+        "Vegan No bake chocolate coconut bars": "https://thebigmansworld.com/4-ingredient-paleo-vegan-chocolate-coconut-crack-bars-keto-sugar-free-no-bake/",
+        "No Bake Oatmeal Bars": "http://www.joannasoh.com/foods/recipes-1/4-high-fibre-oatmeal-breakfasts-quick-healthy",
+        "Peanutty Peanut Butter Squares": "https://drive.google.com/file/d/12RNvx1qAbH3QX2hICE6wQuFgwwqu8hta/view?usp=sharing",
+        "Chocolate Cherry Bars": "https://drive.google.com/file/d/1x108VJmwv0pnWMfnuOetE8sTzxl1fS8j/view?usp=sharing",
+        "Snickerdoodles": "https://drive.google.com/file/d/1s96z68l2yjhFggY3Ykv54QCcpiVJnSUX/view?usp=sharing",
+        "Lemon Bars": "https://drive.google.com/file/d/1shCJLMSp4FRwlXpuQ6_7PqiSUUpKrECT/view?usp=sharing",
+        "Vegan Snickers Protein Bars": "https://callascleaneats.com/snickers-protein-bars-vegan-gluten-free/",
+        "Triple Layer Vegan chocolate bar": "https://upbeetandkaleingitblog.com/triple-layer-vegan-chocolate-almond-butter-bars/",
+        "Vegan Twix Bars": "https://www.thelittleblogofvegan.com/2021/02/easy-vegan-twix-bars.html?m=1",
+        "Almond Chocolate Squares": "https://drive.google.com/file/d/1FmjM6S3Ps2kMcx1b-0GTNJUSzZsNmHqI/view?usp=sharing",
+        "Chewy Whole grain bars": "https://drive.google.com/file/d/1_RJ4nxcVWLFfn8V6iOdNE3ppTi0Ju-zO/view?usp=sharing",
+        "Creamy Vegan lemon bars": "https://minimalistbaker.com/creamy-vegan-lemon-bars/"
+    }
+}

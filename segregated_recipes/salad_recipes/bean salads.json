@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Mexican Salad": "red bell pepper,corn,tomato,mango,avocado,black beans,cilantro",
+        "Tuscan Bean Salad": "cannellini beans,tomatoes,garlic,red onion,rosemary,red wine vinegar,basil",
+        "French Lentil Salad": "red onion,celery,carrots,green lentils,bay leaf,thyme,dill,tarragon,celery, red wine vinegar,white miso paste,pine nuts"
+    },
+    "recipe_url": {
+        "Mexican Salad": "https://www.littlebroken.com/chopped-mexican-salad-with-honey-lime-cilantro-vinaigrette/",
+        "Tuscan Bean Salad": "https://drive.google.com/file/d/1yDLB4Ta81zx_Y20vRl8KmvRx99dHT7zy/view?usp=sharing",
+        "French Lentil Salad": "https://drive.google.com/file/d/1bU5XVeXMgkOmv7F8G7_p9F_szrslJ8ZD/view?usp=sharing"
+    }
+}

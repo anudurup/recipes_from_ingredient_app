@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Baked Dhokla": "besan,coconut,flour,garbanzo,ginger,yogurt,",
+        "Oats Rava Palak Dhokla": "dahi,yogurt,rava,rolled oats,spinach,",
+        "Dhokla in Appe pan": "besan, sooji, sugar, baking soda, lemon juice"
+    },
+    "recipe_url": {
+        "Baked Dhokla": "https://www.veganricha.com/chickpea-flour-snack-cakes-khaman-dhokla-recipe/",
+        "Oats Rava Palak Dhokla": "https://www.tarladalal.com/oats-rava-palak-dhokla-38819r",
+        "Dhokla in Appe pan": "https://achalafood.com/appe-dhokla-recipe/#wprm-recipe-container-38403"
+    }
+}

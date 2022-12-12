@@ -1,0 +1,28 @@
+{
+    "ingredients": {
+        "Veg Panini Sandwich": "capsicum,sweet corn,yellow bell pepper,onion,paneer,tomato sauce,peri peri,mayo,seeded panini bread,vegan butter",
+        "Tricolor Sandwich": "carrot,mint,paneer,tomato,",
+        "Veg Mayo Sandwich": "bell pepper,cabbage,capsicum,carrot,coriander,corn,garlic,onion,",
+        "": "Time Taking",
+        "Veg Burger": "aloo,beans,bread crumbs,carrot,cauliflower,coriander,corn,corn flour,cucumber,jalapeno,peas,potato,tomato,",
+        "High protein Veggie Burger": "firm tofu,brocolli florets,mini sweet peppers,spinach,onion,sriracha hot sauce",
+        "Ultimate Vegan Sando": "firm tofu,vegan french onion spread,fresh bread, vegan bacon,avocado,red onion,cucumber,tomato,lettuce,alfalfa sprouts",
+        "Roasted Tomato Sandwich with vegan lemon garlic aioli": "tomatoes,oregano dried,mayo,garlic,lemon,vegan butter,bread,avocado,basil",
+        "Broccoli and green peas sandwich": "bread,green peas,brocolli florets,vegan cheese,garlic,vegan butter",
+        "Capsicum Chilli Toast": "bell pepper,capsicum,garlic,",
+        "Millet Carrot Cucumber Patty Burger": "millet,veg broth,carrot,cucumber,spinach,eggs"
+    },
+    "recipe_url": {
+        "Veg Panini Sandwich": "https://www.youtube.com/watch?v=CKbD4ljeoTo",
+        "Tricolor Sandwich": "https://www.tarladalal.com/tricolour-sandwich-2599r",
+        "Veg Mayo Sandwich": "https://www.indianhealthyrecipes.com/veg-mayonnaise-sandwich-recipe/",
+        "": "Indian Veggie Burger(beans,bread crumbs,carrot,coriander,corn,corn flour,curd,garlic,ginger,onion,peas,poha,potato,rice,rice flour,tomato,dahi,",
+        "Veg Burger": "https://hebbarskitchen.com/veggie-burger-recipe-vegetarian-burger/",
+        "High protein Veggie Burger": "https://youtu.be/aRiRgrAcumY",
+        "Ultimate Vegan Sando": "https://drive.google.com/file/d/1w1_SGbGfjsWnitA652Bsd-aqO3Am3ef2/view?usp=sharing",
+        "Roasted Tomato Sandwich with vegan lemon garlic aioli": "https://www.thissavoryvegan.com/roasted-tomato-sandwiches-vegan-lemon-garlic-aioli/",
+        "Broccoli and green peas sandwich": "https://myspicetrunk.com/.../broccoli-and-green-peas.../",
+        "Capsicum Chilli Toast": "https://www.indianhealthyrecipes.com/capsicum-cheese-toast-recipe/",
+        "Millet Carrot Cucumber Patty Burger": "http://www.curiousnut.com/millet-patties/"
+    }
+}

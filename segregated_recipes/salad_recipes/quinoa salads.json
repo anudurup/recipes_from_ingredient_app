@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Fiesta Quinoa Salad": "quinoa,black beans,sweet corn,grape tomatoes,cucumbers,jalapenos,red onion,red bell pepper,avocado,oil,limes",
+        "Healthy Quinoa Salad": "lime juice,champagne vinegar,jalapeno,quinoa,black beans,chickpeas,red bell pepper,red onion,avocado,cilantro,mint",
+        "Quinoa and Black Bean Salad": "black beans,quinoa,red bell pepper,orange bell pepper,yellow bell pepper,corn kernels,lime juice,red wine vinegar",
+        "Spring Veggie Orzo Salad": "lemon juice,honey,garlic,veg broth,orzo whole wheat,carrots,peas,asparagus,zucchini,basil,lemon zest"
+    },
+    "recipe_url": {
+        "Fiesta Quinoa Salad": "https://www.pinterest.com/pin/496592296426658963/https://www.pinterest.com/pin/496592296424219786/",
+        "Healthy Quinoa Salad": "https://www.foodiecrush.com/healthy-quinoa-salad/",
+        "Quinoa and Black Bean Salad": "https://drive.google.com/file/d/1nZEm4CveqHtrUXjsGL_U2NhhxbpGFKr4/view?usp=sharing",
+        "Spring Veggie Orzo Salad": "https://drive.google.com/file/d/1E5ORLCerZRTuTFWinyrxVB1JSe2Qu4ow/view?usp=sharing"
+    }
+}

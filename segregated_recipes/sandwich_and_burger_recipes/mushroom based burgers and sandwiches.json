@@ -1,0 +1,16 @@
+{
+    "ingredients": {
+        "Balsamic Mushroom Toast": "ghee,cremini mushrooms,shallot,thyme,balsamic vinegar,sprouted wheat bread",
+        "Mushroom millet Cutlet Burger": "barnyard millet,button mushrooms,onion,ginger,cloves,green chili,potato,whole wheat bread",
+        "Vegetarian Portobello Sliders": "worcestershire sauce vegan,garlic,onion powder,rosemary,portobello mushrooms,whole grain dinner rolls, gouda cheese",
+        "Vegan Philly CheeseSteak": "portobello mushrooms,shiitake,balsamic vinegar,maple syrup,liquid smoke, vegan streak seasoning,plant milk,tapioca starch,nutritional yeast,miso paste,chipotle powder,bell pepper,onion,baguette",
+        "Vegan Mushroom and Eggplant Sloppy Joes": "yellow onion,garlic,red bell pepper,crimini mushrooms,eggplant,tomato paste,tomato sauce,maple syrup,vegan worcestershire sauce"
+    },
+    "recipe_url": {
+        "Balsamic Mushroom Toast": "https://drive.google.com/file/d/1mnms2l4iWid_ghI9ZHN1qJUHZx-7T4zK/view?usp=share_link",
+        "Mushroom millet Cutlet Burger": "https://www.archanaskitchen.com/barnyard-millet-and-mushroom-cutlet-recipe",
+        "Vegetarian Portobello Sliders": "https://drive.google.com/file/d/1IqSjgPs3U7vU2BNI_vEDlnYn-47JiFNH/view?usp=sharing",
+        "Vegan Philly CheeseSteak": "https://avegtastefromatoz.com/vegan-philly-cheesesteak/?fbclid=IwAR3-77jHMCjegNsJSLIrbjmU4yMP2EyC69KjKCvth5wb3Tv6obosWThMuY4",
+        "Vegan Mushroom and Eggplant Sloppy Joes": "https://thymeandlove.com/vegan-mushroom-and-eggplant-sloppy-joes/#mv-creation-235-jtr"
+    }
+}

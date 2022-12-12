@@ -1,0 +1,34 @@
+{
+    "ingredients": {
+        "Chili Garlic Paratha": "flour,red chilli flakes,garlic,butter",
+        "Ajwain Paratha": "flour,milk,whole wheat flour,",
+        "Bhatura": "dahi,flour,",
+        "Laccha Paratha": "flour,milk,",
+        "Masala Paratha": "flour,coriander,milk or warm water",
+        "Kottu Paratha": "coriander,eggs,garlic,ginger,mint,onion,tomato,",
+        "Bidari Paratha": "flour,rava,whole wheat flour,",
+        "Chatpata Roll Paratha": "whole wheat flour,mint garlic chutney,sweet chili sauce,garlic powder",
+        "Dahi Paratha with Dahi Chutney": "curd,paneer,potato,wheat flour,red chilli,garlic,ginger",
+        "Cheese Paratha": "coriander,flour,whole wheat flour,",
+        "Dudh ki Roti": "flour,milk,whole wheat flour,",
+        "Missi Roti": "besan,coriander,flour,onion,whole wheat flour,",
+        "Rajigiri Roti": "amaranth/rajgira atta,potato",
+        "Makki ki Roti: Makki ki Roti": "maize flour, ajwain"
+    },
+    "recipe_url": {
+        "Chili Garlic Paratha": "https://www.facebook.com/watch/?ref=saved&v=125918359406342",
+        "Ajwain Paratha": "https://www.indianhealthyrecipes.com/ajwain-paratha-recipe/",
+        "Bhatura": "https://www.tarladalal.com/bhatura--bhatura-yeast-free-recipe-30917r",
+        "Laccha Paratha": "https://hebbarskitchen.com/lachha-paratha-lachha-parantha-recipe/",
+        "Masala Paratha": "https://fauziaskitchenfun.com/recipe/breads-buns-wraps/masala-parathas",
+        "Kottu Paratha": "https://www.indianhealthyrecipes.com/kothu-parotta/",
+        "Bidari Paratha": "https://www.tarladalal.com/bidari-paratha-hyderabadi-bidari-parantha-41551r",
+        "Chatpata Roll Paratha": "https://www.pinterest.co.uk/pin/496592296426649671/",
+        "Dahi Paratha with Dahi Chutney": "https://hebbarskitchen.com/stuffed-dahi-paneer-paratha-recipe/ ; https://hebbarskitchen.com/dahi-ki-chatni-recipe-dahi-chutney/",
+        "Cheese Paratha": "https://www.tarladalal.com/cheese-paratha-40866r",
+        "Dudh ki Roti": "https://www.tarladalal.com/milk-roti-dudh-ki-roti-42294r",
+        "Missi Roti": "https://www.tarladalal.com/punjabi-missi-roti-how-to-make-punjabi-missi-roti-228r",
+        "Rajigiri Roti": "https://www.vegrecipesofindia.com/rajgira-paratha-recipe/#wprm-recipe-container-136333",
+        "Makki ki Roti: Makki ki Roti": "https://www.vegrecipesofindia.com/makki-di-roti-punjabi-makki-di-roti/#wprm-recipe-container-137206"
+    }
+}

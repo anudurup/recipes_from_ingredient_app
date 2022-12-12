@@ -1,0 +1,32 @@
+{
+    "ingredients": {
+        "Chakli/Manugu Poolu": "Rice flour,roasted chickpeas,sesame seeds",
+        "Nippattu/Chekkalu": "rice flour,roasted peanuts,dalia",
+        "Potato Wedges": "garlic,onion,potato,",
+        "Spicy Masala Makhana": "makhana,ghee,chili powder,chat masala",
+        "Nadir Monje": "lotus stem,rice flour",
+        "Healthy pav bhaji khakra": "whole wheat flour,pav bhaji masala, chili powder",
+        "Baked Palak Methi Puris": "spinach,methi,jowar flour,bajra flour,whole wheat flour,curds",
+        "Methi na Dhebra": "Methi puri biscuits",
+        "Khakra Chivda": "chana dal,",
+        "Ragi Bhakri Chivda": "coriander,garlic,ginger,green peas,millet,onion,peas,ragi,spinach,",
+        "Air Fried Namak Para": "all purpose flour, ajwain,oil",
+        "Palak Methi na muthia": "besan,ginger,methi,rava,spinach,",
+        "Lapsi Methi Muthia": "dalia, methi,bajra flour,garlic,baking soda,yogurt,sesame seeds,mustard seeds"
+    },
+    "recipe_url": {
+        "Chakli/Manugu Poolu": "https://veggieplatter.blogspot.com/2014/07/manugu-poolu-manuboolu.html",
+        "Nippattu/Chekkalu": "https://veggieplatter.blogspot.com/2010/10/nippattu-chekkalu.html",
+        "Potato Wedges": "https://www.indianhealthyrecipes.com/potato-wedges-recipe/",
+        "Spicy Masala Makhana": "https://www.indianveggiedelight.com/spicy-masala-makhana-recipe/",
+        "Nadir Monje": "https://ribbonstopastas.com/n-nadir-monje/#recipe",
+        "Healthy pav bhaji khakra": "https://www.tarladalal.com/pav-bhaji-khakhra-zero-oil-40917r",
+        "Baked Palak Methi Puris": "https://www.tarladalal.com/baked-palak-methi-puris-5663r",
+        "Methi na Dhebra": "(bajra flour,methi,jowar flour,besan,yogurt,ginger garlic paste",
+        "Khakra Chivda": "https://www.tarladalal.com/healthy-khakhra-chivda-healthy-jar-snack-41966r?serves=2",
+        "Ragi Bhakri Chivda": "https://www.tarladalal.com/ragi-bhakri-chivda--maharashtrian-snack-41497r",
+        "Air Fried Namak Para": "https://youtu.be/jadwNTW5ALo",
+        "Palak Methi na muthia": "https://www.tarladalal.com/palak-methi-na-muthia-gujarati-recipe-554r",
+        "Lapsi Methi Muthia": "https://www.tarladalal.com/lapsi-methi-muthia-dalia-bajra-methi-muthia-33318r"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Zucchini and Eggplant Lasagna": "baingan,basil,brinjal,flour,garlic,milk,onion,tomato,zucchini,lasagna sheets",
+        "Vegan Butternut Squash Lasagna": "butternut squash, yellow onion, italian seasoning blend, garlic, almond milk, white wine vinegar",
+        "Zucchini Noodle Lasagna": "eggplant,fixate marinara,zucchini,ricotta,vegan cheese,lasagna",
+        "Vegetable Lasagna": "broccoli,capsicum,corn,flour,garlic,milk,onion,tomato,zucchini,",
+        "Vegan Butternut Squash and Kale Lasagna": "butternut squash,cashews,garlic,oregano,lemons,basil,nutritional yeast, onion,kale,marinara,lasagna noodles,pinenuts,garlic powder",
+        "Vegetarian Pizza Casserole": "zucchini,eggs,parmesan,vegan mozzarella,yellow onion,carrot, yellow onion,green pepper,carrot,button mushrooms,italian seasoning,marinara sauce,ricotta cheese"
+    },
+    "recipe_url": {
+        "Zucchini and Eggplant Lasagna": "https://www.tarladalal.com/zucchini-and-eggplant-lasagne-3294r",
+        "Vegan Butternut Squash Lasagna": ", mushrooms, lacinato kale, vegan ricotta, vegan mozzarella, vegan parmesan",
+        "Zucchini Noodle Lasagna": "https://drive.google.com/file/d/1xUxy_QbVsfhto-BVAUn0x9YXLB0LImF0/view?usp=sharing",
+        "Vegetable Lasagna": "https://www.tarladalal.com/vegetable-lasagne--indian-style-veg-lasagna-31090r",
+        "Vegan Butternut Squash and Kale Lasagna": "http://www.makingthymeforhealth.com/vegan-butternut-squash-kale-lasagna/",
+        "Vegetarian Pizza Casserole": "https://skinnyms.com/vegetarian-pizza-casserole/#wprm-recipe-container-545681"
+    }
+}

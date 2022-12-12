@@ -1,0 +1,40 @@
+{
+    "ingredients": {
+        "Tandoori Paneer Pizza": "capsicum,curd,dahi,garlic,methi,onion,paneer,tomato,",
+        "Mini Oats Bhakri Pizza": "broccoli,capsicum,flour,garlic,onion,rolled oats,tomato,",
+        "Pizza Muffins": "whole wheat flour, dry yeast, sugar, bell peppers, onions, cheese",
+        "Basil Pesto Whole Wheat Pizza": "whole wheat flour,yeast,basil pesto,red bell pepper,green bell pepper, jalapeno, onion,cherry tomatoes",
+        "Vegan Pizza Dough": "yeast,flour,salt,olive oil",
+        "Vegan Tomato Flatbread": "pizza dough,tahini,garlic,tomatoes and cherry tomatoes,pine nuts,chopped herbs",
+        "Vegan Mini Calzones": "all purpose flour,instant yeast,mushrooms,spinach,vegan cheese,tomato puree,liquid smoke,oregano",
+        "Vegan Caramelized onions and spinach Pizza Rolls": "almond milk, sugar, active dry yeast, oregano, dried basil, all purpose flour, onion, spinach, vegan butter, tomato sauce, basil, nutritional yeast",
+        "Vegan Spinach Artichoke Pizza": "white beans,nutritional yeast,cashews,lemon juice,spinach,onion,garlic,artichoke hearts can,pizza dough,vegan mozzarella",
+        "BBQ pizza with crispy cauliflower Vegan": "cauliflower, BBQ sauce,liquid smoke,all purpose flour,instant yeast,dahi,garlic",
+        "Vegan Socca Pizza": "chickpea flour,italian seasoning,tomato passata,tomato puree,garlic,red onion,basil,green bell pepper,cashews,nutritional yeast,miso paste,onion powder,almond milk",
+        "Vegan Deep dish Pizza": "onion,garlic,red bell pepper,spinach,basil,dried thyme,active dry yeast,sugar,flour,semolina flour,vegan mozzarella,pizza sauce,olives",
+        "Vegan Brocolli Pizza": "cashews,veg broth,tahini,garlic,nutritional yeast,brocolli,onion,vegan parmesan",
+        "Grilled Veggie Pizza yeast free crust": "all purpose flour,baking powder,tomato puree,dried oregano, dried basil, zucchini,red bell pepper,mushrooms,red onion,vegan cheese",
+        "Vegan Pepperoni Pizza": "gluten free flour,baking powder,tomato paste,zucchini,hot sauce,tamari,balsamic vinegar,vegan cheese",
+        "Vegan BBQ Pizza": "ketchup,brown sugar,apple cider vinegar, onion,zucchini,portabella mushrooms,potato,ginger,cauliflower,whole wheat pastry flour,all purpose flour,yeast",
+        "Buffalo Chickpea Pizza white garlic sauce": "pizza dough,hot sauce,chickpeas,sriracha,cashew,almond milk,flour,garlic,onion powder,nutritional yeast,apple cider vinegar"
+    },
+    "recipe_url": {
+        "Tandoori Paneer Pizza": "https://www.tarladalal.com/tandoori-paneer-pizza-paneer-tikka-pizza-6238r",
+        "Mini Oats Bhakri Pizza": "https://www.tarladalal.com/mini-oats-bhakri-pizza-40709r",
+        "Pizza Muffins": "https://www.cookclickndevour.com/pizza-muffins-recipe/?fbclid=IwAR39w2x4o2B4d-McUpNZdogm-YG68BHKbOd6YhxHo9PFfCCZKStn4ckmzro",
+        "Basil Pesto Whole Wheat Pizza": "https://jyokitchen.com/2018/06/29/basil-pesto-whole-wheat-pizza-pesto-pizza/",
+        "Vegan Pizza Dough": "https://www.veganosity.com/easy-vegan-homemade-pizza-dough-recipe/",
+        "Vegan Tomato Flatbread": "http://greenevi.com/vegan-tomato-flatbread/#tasty-recipes-7041-jump-target",
+        "Vegan Mini Calzones": "https://www.elephantasticvegan.com/vegan-mini-calzones/#recipe",
+        "Vegan Caramelized onions and spinach Pizza Rolls": "https://shortgirltallorder.com/vegan-caramelized-onion-spinach-pizza-buns",
+        "Vegan Spinach Artichoke Pizza": "https://veganheaven.org/recipe/spinach-artichoke-pizza-vegan/#wprm-recipe-container-7925",
+        "BBQ pizza with crispy cauliflower Vegan": "https://veganheaven.org/recipe/bbq-pizza-with-crispy-cauliflower-vegan/#wprm-recipe-container-7839",
+        "Vegan Socca Pizza": "https://wallflowerkitchen.com/socca-pizza-vegan-gf/#mv-creation-296-jtr",
+        "Vegan Deep dish Pizza": "https://www.veganricha.com/vegan-deep-dish-pizza-recipe/#recipe",
+        "Vegan Brocolli Pizza": "https://www.contentednesscooking.com/broccoli-cheese-vegan-pizza/#mv-creation-69-jtr",
+        "Grilled Veggie Pizza yeast free crust": "https://www.elephantasticvegan.com/grilled-veggie-pizza-yeast-free-crust/#recipe",
+        "Vegan Pepperoni Pizza": "https://www.contentednesscooking.com/vegan-pepperoni-pizza/#mv-creation-16-jtr",
+        "Vegan BBQ Pizza": "https://veganinthefreezer.com/vegan-bbq-veggie-pizza/",
+        "Buffalo Chickpea Pizza white garlic sauce": "https://www.veganricha.com/buffalo-chickpea-pizza-white-garlic-sauce-celery-ranch-vegan-recipe/"
+    }
+}

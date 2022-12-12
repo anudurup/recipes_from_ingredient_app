@@ -1,0 +1,28 @@
+{
+    "ingredients": {
+        "Vegan Kale Chickpea Sandwich": "whole wheat bread,kale,chickpeas,lemon juice,rice wine vinegar,agave syrup,almonds",
+        "Chickpea Masala Sandwich": "chickpeas,garlic,ginger,tomato sauce,dahi,spinach,cucumber,tomato,whole wheat bread",
+        "Chickpea Avocado Sandwich": "chickpeas,avocado,onion,celery,tomato",
+        "Hummus Avocado Sandwich": "bread,avocado,hummus,tomato,cucumber,broccoli sprouts",
+        "Mediterranean Chickpea Salad Sandwich": "bread,chickpeas,tahini,lemon juice,scallion,vegan tzatziki",
+        "Chickpea Egg Salad Sandwich": "chickpeas,red onion,celery,pickles,mayo,onion powder,dill,multi grain bread",
+        "Chickpea Burger": "onion,chickpeas,flour,cilantro",
+        "Chickpea Spinach Burger": "onion,garlic,chickpeas,spinach,carrot,soy sauce,peanut butter,nutritional yeast,sriracha hot sauce,chickpea flour",
+        "Crispy Chickpea Corn Patties": "chickpeas,brown rice,red onion,cilantro,corn,bread crumbs,mayo,garlic,kale,basil, ACV",
+        "Vegan Falafel Burgers": "chickpeas,onion,parsley,baking powder,all purpose flour",
+        "Corn and Chickpea Burger": "besan,bread crumbs,chick peas,coriander,corn,cucumber,onion,peas,potato,rolled oats,tomato,"
+    },
+    "recipe_url": {
+        "Vegan Kale Chickpea Sandwich": "https://www.pinterest.com/pin/496592296423953853/",
+        "Chickpea Masala Sandwich": "https://www.facebook.com/watch/?ref=saved&v=1035637640560276",
+        "Chickpea Avocado Sandwich": "https://beplantwell.com/chickpea-avocado-sandwich/",
+        "Hummus Avocado Sandwich": "https://www.cookincanuck.com/vegan-hummus-avocado-sandwich/",
+        "Mediterranean Chickpea Salad Sandwich": "",
+        "Chickpea Egg Salad Sandwich": "https://simple-veganista.com/mashed-chickpea-salad-sandwic/#tasty-recipes-8838-jump-target",
+        "Chickpea Burger": "https://lovingitvegan.com/easiest-vegan-chickpea-burgers/",
+        "Chickpea Spinach Burger": "https://taleoftwovegans.wordpress.com/2009/12/10/chickpea-spinach-burgers/",
+        "Crispy Chickpea Corn Patties": "https://www.thissavoryvegan.com/crispy-chickpea-corn-patties/",
+        "Vegan Falafel Burgers": "https://loveandgoodstuff.com/falafel-burgers/",
+        "Corn and Chickpea Burger": "https://www.tarladalal.com/corn-and-chick-pea-burger--burgers-and-smoothies-recipe-36341r"
+    }
+}

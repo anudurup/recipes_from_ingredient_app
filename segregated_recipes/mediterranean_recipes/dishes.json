@@ -1,0 +1,34 @@
+{
+    "ingredients": {
+        "Moussaka": "baingan,brinjal,capsicum,corn,doodhi,flour,garlic,lauki,milk,mushroom,onion,tomato,",
+        "Vegan Moussaka with lentils": "potatoes,eggplants,cooked lentils,passata,tomatoes,onion,garlic,bay leaves,dried thyme, sugar,oregano,cinnamon,vegan butter,plant based milk,cornstarch,nutritional yeast,nutmeg,vegan cheese",
+        "Chickpea and Eggplant Moussaka": "chickpeas, eggplant, onion, galic, red bell pepper, green bell pepper, tomato, tomato paste, thyme/oregano",
+        "Vegan Shakshuka": "tomato,red bell pepper,tomato paste,garlic,onion,chickpea flour,nutritional yeast,plant milk +vinegar",
+        "Indian Style Shakshuka": "eggs, onion, green chilli, bell pepper, tomato, coconut milk",
+        "Roasted Chickpea Gyros": "chickpeas, pita flatbreads, tzatziki, red onion, lettuce leaves, tomato",
+        "Vegan Portobello Mushroom Gyro": "portabella mushroom caps, worcestershire sauce, maple syrup, oregano, red onion, red bell pepper, vegan mayo, hempseeds, lemon juice, dill weed, pita flatbreads, spinach",
+        "Vegan Mushroom Shawarma": "shitake mushrooms, cinnamon, soy sauce, garlic, maple syrup, lettuce, cucumber,cherry tomato, red onion, dahi, tahini sauce, pita bread",
+        "Middle eastern Style Vegan Bake": "spring onions,garlic,tomato pulp,vegan mince meat,sundried tomatoes,red pepper,tomato paste,coconut oil,dried mint,almond milk,plain flour,nutritional yeast,garlic,vegan butter,vegan stock powder,eggplant,zucchini,vegan mozarella",
+        "Hummus Pizza with veggies": "all purpose flour, instant yeast, sugar, hummus, mushrooms, spinach, black olives, artichoke hearts, cherry tomatoes, red onion, oregano",
+        "Ethopian Berbere Pizza with Tahini garlic dressing": "methi powder,pizza crust,chickpeas,onion powder,toamtoes,onion,tahini,garlic,parsley,lemon juice",
+        "Homemade Mediterranean Flatbread": "active dry yeast,sugar,all purpose flour,vegan mozzarella,sun dried tomatoes,feta cheese,dried basil and oregano,egg",
+        "Mediterrenean Brunch Bake": "eggs,red onion,zucchini,red pepper,tomatoes,green pepper,black olives,basil,thyme,feta cheese",
+        "Healthy Belly Bowl": "tahini paste,lemon juice,garlic,sugar,kale,sweet potato,,quinoa,sauerkraut, pumpkin seeds, avocado"
+    },
+    "recipe_url": {
+        "Moussaka": "https://www.tarladalal.com/moussaka-3470r",
+        "Vegan Moussaka with lentils": "https://elavegan.com/vegan-moussaka-lentils-gluten-free/",
+        "Chickpea and Eggplant Moussaka": "https://www.onegreenplanet.org/vegan-recipe/chickpea-and-eggplant-moussaka/",
+        "Vegan Shakshuka": "https://zenandzaatar.com/best-vegan-shakshuka/",
+        "Indian Style Shakshuka": "https://www.madhuseverydayindian.com/indian-shakshuka/?fbclid=IwAR1YzodQmhQlR3U0h15TB3z4KsdlgvM_a_De3OhV1opiXW-eL_L2IcswW8g",
+        "Roasted Chickpea Gyros": "https://www.liveeatlearn.com/roasted-chickpea-gyros/",
+        "Vegan Portobello Mushroom Gyro": "https://www.onegreenplanet.org/vegan-recipe/portabella-mushroom-gyro-vegan/",
+        "Vegan Mushroom Shawarma": "https://www.veganartistry.com/vegan-mushroom-shawarma/",
+        "Middle eastern Style Vegan Bake": "https://www.onegreenplanet.org/vegan-recipe/legendary-middle-eastern-style-vegan-bake/",
+        "Hummus Pizza with veggies": "https://veganheaven.org/recipe/hummus-pizza-with-veggies/#wprm-recipe-container-8001",
+        "Ethopian Berbere Pizza with Tahini garlic dressing": "https://www.veganricha.com/ethiopian-berbere-chickpea-pizza-with-tahini-garlic-dressing/#recipe",
+        "Homemade Mediterranean Flatbread": "https://www.lordbyronskitchen.com/homemade-mediterranean-flatbread/#recipe",
+        "Mediterrenean Brunch Bake": "https://www.simplystacie.net/mediterranean-brunch-bake/",
+        "Healthy Belly Bowl": "https://drive.google.com/file/d/17HeixzVlk8riKNVTygllSWrFaXTOST11/view?usp=sharing"
+    }
+}

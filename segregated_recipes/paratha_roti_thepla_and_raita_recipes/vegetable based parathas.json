@@ -1,0 +1,36 @@
+{
+    "ingredients": {
+        "Spinach Carrot Paratha": "besan,carrot,dahi,flour,spinach,whole wheat flour,",
+        "Kaddu Paratha": "flour,kaddu,pumpkin,spinach,whole wheat flour,",
+        "Mushroom and Green Peas Paratha": "dahi,flour,ginger,green peas,mushroom,paneer,peas,whole wheat flour,",
+        "Palak Paratha": "flour,garlic,ginger,spinach,whole wheat flour,",
+        "Beetroot Paratha": "beetroot,flour,garlic,ginger,whole wheat flour,",
+        "Lauki Paratha": "coriander,flour,lauki,methi,whole wheat flour,",
+        "Gobhi Paratha": "cauliflower,flour,whole wheat flour,",
+        "Capsicum Cheese Paratha": "wheat flour,capsicum,vegan cheese",
+        "Mooli Paratha": "flour,radish,whole wheat flour,",
+        "Carrot Paratha": "carrot,coriander,flour,ginger,onion,whole wheat flour,",
+        "Cabbage Paratha": "cabbage,coriander,flour,ginger,",
+        "Mint Coriander Paratha": "flour,mint,coriander",
+        "Mixed Veg Paratha": "carrot,cauliflower,coriander,flour,garlic,ginger,green peas,methi,peas,potato,whole wheat flour,",
+        "Pizza Paratha": "capsicum,coriander,flour,onion,",
+        "Mooli Thepla": "dahi,flour,radish,whole wheat flour,"
+    },
+    "recipe_url": {
+        "Spinach Carrot Paratha": "https://www.tarladalal.com/paushtic-parathas-7567r",
+        "Kaddu Paratha": "https://www.tarladalal.com/kaddu-roti-kaddu-paratha-healthy-pumpkin-palak-roti-1984r",
+        "Mushroom and Green Peas Paratha": "https://www.tarladalal.com/mushroom-and-green-pea-parathas-3005r",
+        "Palak Paratha": "https://www.indianhealthyrecipes.com/palak-paratha-recipe-spinach-paratha/",
+        "Beetroot Paratha": "https://www.indianhealthyrecipes.com/beetroot-paratha/",
+        "Lauki Paratha": "https://www.indianhealthyrecipes.com/lauki-paratha-recipe-bottle-gourd-paratha/",
+        "Gobhi Paratha": "https://www.vegrecipesofindia.com/gobi-paratha-punjabi-gobi-paratha/",
+        "Capsicum Cheese Paratha": "https://rakskitchen.net/capsicum-cheese-paratha-recipe-kids-recipes/",
+        "Mooli Paratha": "https://www.vegrecipesofindia.com/mooli-paratha-a-punjabi-radish-paratha-recipe/",
+        "Carrot Paratha": "http://www.vegrecipesofindia.com/carrot-paratha-recipe-gajar-paratha/amp/",
+        "Cabbage Paratha": "https://hebbarskitchen.com/cabbage-paratha-recipe-patta-gobhi-ka/",
+        "Mint Coriander Paratha": "https://www.cookingwithsiddhi.com/mint-coriander-aratha-recipe-hara-dhania-paratha/",
+        "Mixed Veg Paratha": "https://www.indianhealthyrecipes.com/veg-paratha-recipe/",
+        "Pizza Paratha": "https://www.indianhealthyrecipes.com/pizza-paratha-recipe/",
+        "Mooli Thepla": "https://www.tarladalal.com/mooli-thepla-3456r"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "ingredients": {
+        "Sprouted Moong Khichdi": "coconut,coriander,rice,",
+        "Millet Pongal": "corn,ginger,millet,rice,",
+        "Millet Khichdi": "beans,capsicum,carrot,ginger,methi,millet,peas,rice,spinach,tomato,",
+        "Oats Khichdi": "dahi,dahi,garlic,rolled oats,yellow moong dal,",
+        "Handi Khichdi": "Cauliflower and green peas",
+        "Masoor Dal Khichdi": "coriander,garlic,ginger,masoor,onion,rice,tomato,",
+        "Sabudana Khichdi": "coconut,coriander,ginger,potato,sago,",
+        "Badshahi Khichdi": "arhar,coriander,dahi,dahi,ginger,onion,potato,rice,",
+        "Masoor Dal and Palak Khichdi": "dahi,dahi,masoor,potato,rice,spinach,",
+        "Panch Dhan Khichdi": "beans,chick peas,coconut,coriander,dahi,dahi,garlic,ginger,masoor,onion,peas,rajma,rice,",
+        "Ven Pongal": "corn,ginger,rice,yellow moong dal,",
+        "Oats Vegetable Khichdi": "beans,carrot,garlic,onion,rolled oats,yellow moong dal,",
+        "Quinoa Khichdi": "onion,tomato,carrot,green beans,green peas,quinoa,moong dal",
+        "Fada ni Khichdi": "Dalia,yellow moong dal,onion,tomato,pav bhaji masala"
+    },
+    "recipe_url": {
+        "Sprouted Moong Khichdi": "https://www.tarladalal.com/sprouted-moong-khichdi-microwave-recipe-669r",
+        "Millet Pongal": "https://www.indianhealthyrecipes.com/millet-pongal/",
+        "Millet Khichdi": "https://www.indianhealthyrecipes.com/millet-khichdi-korra-khichdi-korra-biyyam-khichdi/",
+        "Oats Khichdi": "https://www.tarladalal.com/oats-khichdi-36983r",
+        "Handi Khichdi": "(brown rice,cauliflower,coriander,garlic,ginger,green peas,onion,peas,rice,",
+        "Masoor Dal Khichdi": "https://www.archanaskitchen.com/lehsun-pyaaz-tadkewali-masoor-dal-khichdi-recipe",
+        "Sabudana Khichdi": "https://www.indianhealthyrecipes.com/sabudana-khichdi-recipe/",
+        "Badshahi Khichdi": "https://www.tarladalal.com/badshahi-khichdi-1972r",
+        "Masoor Dal and Palak Khichdi": "https://www.tarladalal.com/masoor-dal-and-palak-khichdi-39569r",
+        "Panch Dhan Khichdi": "https://www.tarladalal.com/panch-dhan-khichdi-22449r",
+        "Ven Pongal": "https://www.tarladalal.com/ven-pongal-south-indian-breakfast-32896r",
+        "Oats Vegetable Khichdi": "https://www.tarladalal.com/oats-vegetable-khichdi-healthy-oats-khichdi-for-weight-loss-22327r",
+        "Quinoa Khichdi": "https://www.indianveggiedelight.com/quinoa-khichdi-instant-pot/",
+        "Fada ni Khichdi": "https://www.tarladalal.com/fada-ni-khichdi--gujarati-recipe-579r"
+    }
+}

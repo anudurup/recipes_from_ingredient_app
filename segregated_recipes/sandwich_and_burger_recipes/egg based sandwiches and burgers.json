@@ -1,0 +1,16 @@
+{
+    "ingredients": {
+        "Bull's Eye Egg with Avocado Sandwich": "bread,eggs,avocado",
+        "Egg Mayo Sandwich": "coriander,eggs,garlic,onion,dahi,",
+        "Pesto and Boiled Egg Bhurji Sandwich": "bread,egg,onion,tomato,pesto sauce",
+        "Egg Mayo Sandwich, Scrambled Egg Sandwich": "egg,mayo",
+        "Veggie Frittata Breakfast Sandwich": "green cabbage,carrots,green onions,ketchup,mayo,eggs,vegan cheese,whole grain bread"
+    },
+    "recipe_url": {
+        "Bull's Eye Egg with Avocado Sandwich": "https://jerryjamesstone.com/recipe/egg-in-a-hole-avocado-toast/",
+        "Egg Mayo Sandwich": "https://www.indianhealthyrecipes.com/egg-mayo-sandwich-recipe/",
+        "Pesto and Boiled Egg Bhurji Sandwich": "https://jyokitchen.com/2018/04/22/pesto-and-boiled-egg-bhurji-sandwich%e2%80%8b-pesto-hard-boiled-egg-bhurji-with-pesto-sandwich/",
+        "Egg Mayo Sandwich, Scrambled Egg Sandwich": "https://www.facebook.com/watch/?ref=saved&v=1701251556751106",
+        "Veggie Frittata Breakfast Sandwich": "https://drive.google.com/file/d/1nOMDZdfLNt3anXo82apQyO3qOLPwXMhU/view?usp=sharing"
+    }
+}

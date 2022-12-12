@@ -1,0 +1,10 @@
+{
+    "ingredients": {
+        "Chickpea Frittatas": "besan,yeast,basil dried,red bell pepper,jalapeno,onion,spinach",
+        "Zesty Chickpea Meatballs": "chickpeas,pistachios,onion,bread crumbs,brown rice"
+    },
+    "recipe_url": {
+        "Chickpea Frittatas": "https://simple-veganista.com/mini-chickpea-flour-frittatas/",
+        "Zesty Chickpea Meatballs": "https://www.thissavoryvegan.com/zesty-vegan-chickpea-meatballs/"
+    }
+}

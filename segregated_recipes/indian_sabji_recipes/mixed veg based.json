@@ -1,0 +1,26 @@
+{
+    "ingredients": {
+        "Vegetable Hariyali": "beans,capsicum,carrot,cauliflower,corn,garlic,green peas,peas,spinach,",
+        "Veg Kolhapuri": "coriander,garlic,ginger,onion,tomato,",
+        "Kadai Vegetable": "bell pepper,capsicum,carrot,coriander,corn,garlic,ginger,green peas,methi,onion,peas,potato,tomato,",
+        "Sabji ka Kurma": "beans,carrot,cauliflower,coriander,ginger,green peas,onion,peas,potato,",
+        "Veg jalfrezi": "beans,capsicum,carrot,coriander,corn,garlic,ginger,methi,onion,peas,tomato,",
+        "Hyderabadi Mixed Veg Korma": "beans,capsicum,carrot,cauliflower,coriander,corn,garlic,ginger,green peas,onion,peas,",
+        "Veg Tawa Fry": "beans,bhindi,bitter gourd,brinjal,carrot,coriander,garlic,ginger,methi,okra,onion,potato,tomato,",
+        "White Kurma": "aloo,beans,carrot,coconut,coriander,ginger,onion,peas,potato,",
+        "Mix Vegetable": "onion,peas,carrots,cauliflower,french beans,potato",
+        "Veggie Tikka Masala": "yellow onion,garlic,ginger,tomato, tomato sauce,dahi,coconut milk,cauliflower,carrot,chickpeas,frozen peas"
+    },
+    "recipe_url": {
+        "Vegetable Hariyali": "https://www.tarladalal.com/vegetable-hariyali-22794r",
+        "Veg Kolhapuri": "https://www.tarladalal.com/basic-kolhapuri-gravy-33505r",
+        "Kadai Vegetable": "https://www.vegrecipesofindia.com/vegetable-kadai-gravy-recipe/",
+        "Sabji ka Kurma": "https://www.tarladalal.com/subzi-ka-korma-269r",
+        "Veg jalfrezi": "https://hebbarskitchen.com/veg-jalfrezi-recipe-vegetable-jalfrezi/",
+        "Hyderabadi Mixed Veg Korma": "https://www.tarladalal.com/hyderabadi-mixed-veg-korma-22367r",
+        "Veg Tawa Fry": "https://hebbarskitchen.com/veg-tawa-fry-recipe-tawa-sabzi/",
+        "White Kurma": "https://hebbarskitchen.com/white-kurma-recipe-white-veg-kurma-white/",
+        "Mix Vegetable": "https://indianambrosia.com/mixed-vegetable-curry/",
+        "Veggie Tikka Masala": "https://foodwithfeeling.com/loaded-veggie-tikka-masala/"
+    }
+}

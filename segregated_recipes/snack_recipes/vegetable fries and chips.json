@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Parmesan Carrot Fries": "carrots,parmesan cheese,garlic",
+        "Carrot Fries": "carrots",
+        "Avocado Fries": "avocado, breadcrumbs,italian seasoning",
+        "Airfried French Fries": "potato",
+        "Fauz Tato Chips": "daikon radishes,garlic powder",
+        "Air fried Onion Rings": "onion,flour,milk,bread crumbs"
+    },
+    "recipe_url": {
+        "Parmesan Carrot Fries": "https://www.pinterest.co.uk/pin/496592296425823211/",
+        "Carrot Fries": "https://www.thefoodhussy.com/air-fryer-carrot-fries",
+        "Avocado Fries": "https://rachnacooks.com/vegan-avocado-wedges-healthy.../",
+        "Airfried French Fries": "https://sweetcsdesigns.com/the-best-easy-air-fryer-french-fries-recipe/",
+        "Fauz Tato Chips": "https://drive.google.com/file/d/1V__meYJPT0r0g6ew9hB834BKhurOmYGS/view?usp=sharing",
+        "Air fried Onion Rings": "https://thesugarfreediva.com/low-carb-air-fried-onion-rings/"
+    }
+}

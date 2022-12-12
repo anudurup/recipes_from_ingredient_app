@@ -1,0 +1,26 @@
+{
+    "ingredients": {
+        "Baked Spinach Pancakes in Tomato Gravy": "flour,garlic,milk,onion,spinach,tomato,",
+        "Italian Sizzler": "beans,carrot,flour,garlic,mushroom,onion,paneer,pasta,potato,zucchini,",
+        "Vegetarian Skillet Pot Pie": "olive oil, yellow onion, celery,carrot,garlic,dried thyme, dried sage, butter, all purpose flour, veg broth, heavy cream, frozen peas, chickpeas, canned biscuit dough, egg,parsley",
+        "Italian meatballs with cauliflower mash": "garlic cloves, onion, tofu, buckwheat flour, rolled oats, parsley, nutritional yeast, soy sauce, tomatoes ,thyme/oregano dried, coconut nectar, cauliflower, dijon mustard, canned coconut milk, nutmeg",
+        "Baked Ratatouille": "zucchini, yellow squash, eggplants, tomatoes, tomato basil pasta sauce, red bell pepper, parsley, thyme, basil, garlic",
+        "Vegan Mushroom Stroganoff": "onion, garlic cloves, mushrooms, soy sauce, veg broth, plant based milk, cornstarch, onion powder, nutritional yeast, thyme, pasta",
+        "Veggie Sheperd's Pie": "onion, garlic, mixed vegetables, rosemary, green lentils, coriander, worcester sauce, tomato, veg stock, lemon juice, potatoes, cheese cheddar",
+        "Vegan Eggplant Parmesan": "eggplant, all purpose flour, panko breadcrumbs, oregano, almond milk, cornstarch, pasta, marinara sauce",
+        "Vegan Chickpea Meatballs": "brown rice, pecans, garlic, chickpeas, nutritional yeast, tomato paste, basil dried, bread crumbs, red peppers, coconut milk, thyme dried",
+        "Chickpea Bruscetta": "baguette,chickpeas,sun dried tomatoes,parsley pesto,garlic,lemon"
+    },
+    "recipe_url": {
+        "Baked Spinach Pancakes in Tomato Gravy": "https://www.tarladalal.com/baked-spinach-pancakes-in-tomato-gravy-67r",
+        "Italian Sizzler": "https://www.tarladalal.com/italian-sizzler-4840r",
+        "Vegetarian Skillet Pot Pie": "https://midwestfoodieblog.com/vegetarian-pot-pie/?fbclid=IwAR2uyHXWd15y6cJWYoOVcwtlqEctWkOExAC5FFCSiSQfC_d2xLEj7BEL4B0",
+        "Italian meatballs with cauliflower mash": ", cashews",
+        "Baked Ratatouille": "https://plantbasedonabudget.com/recipe/baked-ratatouille/",
+        "Vegan Mushroom Stroganoff": "https://elavegan.com/vegan-mushroom-stroganoff-gluten-free-recipe/",
+        "Veggie Sheperd's Pie": "https://sandhyahariharan.co.uk/vegetarian-shepherds-pie/?fbclid=IwAR3OngmDxNZ39B398HrUJ5-ecdEg0-lJV8ZRoyiIKzbjgG-TOYgjRq0FRjI#recipe",
+        "Vegan Eggplant Parmesan": "https://minimalistbaker.com/vegan-eggplant-parmesan/",
+        "Vegan Chickpea Meatballs": "https://www.thecuriouschickpea.com/vegan-meatballs-in-roasted-red-pepper-sauce/",
+        "Chickpea Bruscetta": "https://theclevermeal.com/chickpea-bruschetta/"
+    }
+}

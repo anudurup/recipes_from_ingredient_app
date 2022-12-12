@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Cucumber Hummus Roll ups": "cucumber,hummus,red peppers",
+        "Vegan Air Fryer Cauliflower": "cauliflower,almond milk,eggs,acv,onion powder,oregano,all spice,marjoram,sugar",
+        "Easy Baked Falafel": "chickpeas,onion,garlic,parsley,oat flour",
+        "Vegan easy falafel": "chickpeas, onion, garlic, parsley",
+        "Falafel in Appe Pan": "chickpeas, onion, garlic, cilantro, rice flour",
+        "Roast Beetroot Falafels": "beetroot, garlic,chickpeas,coriander,tahini sauce",
+        "Eggplant Fries with Fixate Tzatziki Sauce": "bread crumbs,coriander powder,onion powder,eggplant,all purpose flour,eggs, greek yogurt,lemon juice,lemon peel,cucumber,mint,dill",
+        "Vegan Spinach Pinwheels cream cheese": "puff pastry sheets,spinach,vegan cream cheese,cinnamon,nutmeg,[dried]parsley,thyme,tarragon,dill",
+        "Vegan Spanakopita": "spinach,yellow onion,garlic,parsley,kite hill almond ricotta[vegan ricotta],lemon zest,nutmeg,vegan filo dough"
+    },
+    "recipe_url": {
+        "Cucumber Hummus Roll ups": "https://drive.google.com/file/d/1vp_vktDWrO1XPMMKNo-I_c_oP45nKHD0/view?usp=sharing",
+        "Vegan Air Fryer Cauliflower": "https://chickpeaexpress.com/vegan-recipes/vegan-air-fryer-cauliflower/",
+        "Easy Baked Falafel": "https://www.eatingbirdfood.com/easy-baked-falafel/",
+        "Vegan easy falafel": "https://www.cookclickndevour.com/easy-falafel-recipe/?fbclid=IwAR3Oizadx2N38m5wlsCvjbxk3eyjjh-YFHSBEL4rpgfkhCbbCZiFLuklWn0",
+        "Falafel in Appe Pan": "https://www.enhanceyourpalate.com/falafel-appe-ebelskiver-pan-recipe/#recipe",
+        "Roast Beetroot Falafels": "https://www.kindearth.net/roast-beetroot-falafels-with-tahini-sauce-easy-gluten-free-vegan-deliciousness/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes#mv-creation-2-jtr",
+        "Eggplant Fries with Fixate Tzatziki Sauce": "https://drive.google.com/file/d/1mX5vj5ZfK3eVSFjJB_4P1UN1KOd0bbFz/view?usp=sharing",
+        "Vegan Spinach Pinwheels cream cheese": "https://www.veganricha.com/vegan-spinach-pinwheels-cream-cheese/",
+        "Vegan Spanakopita": "https://www.staceyhomemaker.com/vegan-spanakopita-recipe/#recipe"
+    }
+}

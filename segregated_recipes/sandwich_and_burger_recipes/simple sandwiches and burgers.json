@@ -1,0 +1,22 @@
+{
+    "ingredients": {
+        "Curd Sandwich": "bell pepper,carrot,coriander,curd,onion,dahi,",
+        "Dahi Sandwich": "cabbage,capsicum,carrot,corn,curd,dahi,dahi,",
+        "Chapati Sandwich": "cabbage,capsicum,carrot,corn,garlic,ginger,onion,paneer,tomato,tomato sauce,",
+        "Masala Toast": "cabbage,capsicum,carrot,coriander,ginger,onion,tomato,tomato sauce,",
+        "Indian Masala Sandwich": "bread,vegan cheese,coriander,mint,green chillies,potatoes,onions,chat masala",
+        "Masala Sandwich Toast": "coriander,mint,roasted gram dal,ginger,garlic,lemon juice,potatoes,bread,vegan butter,tomato",
+        "Guacamole Sandwich": "coriander,garlic,onion,tomato,avocado",
+        "Avocado Toast": "coriander,garlic,onion,tomato,"
+    },
+    "recipe_url": {
+        "Curd Sandwich": "https://www.indianhealthyrecipes.com/veg-curd-sandwich-recipe/",
+        "Dahi Sandwich": "https://hebbarskitchen.com/dahi-sandwich-recipe-cold-sandwiches/",
+        "Chapati Sandwich": "https://hebbarskitchen.com/roti-sandwich-recipe-chapati-sandwich/",
+        "Masala Toast": "https://hebbarskitchen.com/masala-toast-recipe-iyengar-bakery-style/",
+        "Indian Masala Sandwich": "https://vegcookbook.net/2021/04/15/indian-masala-sandwich/?fbclid=IwAR0nqNtSXsBgXX_Dh4XDhwFqrPSpFAmKNULZMyGv8IVL-3mBR0SMo-mRiDA",
+        "Masala Sandwich Toast": "https://hebbarskitchen.com/mumbai-masala-sandwich-toast-recipe/",
+        "Guacamole Sandwich": "https://www.indianhealthyrecipes.com/guacamole-sandwich-recipe/",
+        "Avocado Toast": "https://hebbarskitchen.com/avocado-toast-recipe-avocado-sandwich/"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Methi Matar Malai": "corn,garlic,ginger,green peas,methi,onion,peas,tomato,",
+        "Methi Leaves Sambar": "toor dal,lauki,kaddu,methi,onion,pumpkin,tomato,",
+        "Methi Chi Patal Bhaji": "besan,coconut,coriander,garlic,methi,",
+        "Oondhiyu": "besan,brinjal,coconut,coriander,garlic,ginger,methi,potato,"
+    },
+    "recipe_url": {
+        "Methi Matar Malai": "https://www.tarladalal.com/methi-mutter-malai-4241r",
+        "Methi Leaves Sambar": "https://www.tarladalal.com/methi-leaves-sambhar-5708r",
+        "Methi Chi Patal Bhaji": "https://www.tarladalal.com/methi-chi-patal-bhaji-40163r",
+        "Oondhiyu": "https://www.tarladalal.com/oondhiya-undhiyu-gujarati-undhiyu-recipe-602r"
+    }
+}

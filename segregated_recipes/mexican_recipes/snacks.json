@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Tofu Steaks with Avocado Chimichurri": "tofi, soy sauce, maple syrup, onion powder, nutritional yeast, thyme dried, cilantro, parsley, onion, garlic, lemon juice, avocado, dried oregano",
+        "Corn Elote Nachos": "corn, jalapenos, vegan mayo, vegan sour cream, vegan cheese, vegan feta",
+        "Fixate Vegan Kale Nachos": "kale,cauliflower,taco seasoning,roma tomatoes, onion,black beans,vegan nacho cheese dip, lime juice",
+        "Spicy Black Bean Nachos": "black beans, onion, garlic cloves, chipotles in adobo, tortilla chips, Shredded cheese, tomatillos, avocado, cilantro, tomato, jalapeno, lime"
+    },
+    "recipe_url": {
+        "Tofu Steaks with Avocado Chimichurri": "https://healthiersteps.com/recipe/tofu-steaks-with-avocado-chimichurri/",
+        "Corn Elote Nachos": "https://www.pinterest.co.uk/pin/496592296426661368/",
+        "Fixate Vegan Kale Nachos": "https://drive.google.com/file/d/1SnIhJShpTJmW2Z--wWNm0lafeWDPSE35/view?usp=sharing",
+        "Spicy Black Bean Nachos": "https://www.mexicanplease.com/spicy-black-bean-nachos/"
+    }
+}

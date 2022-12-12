@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Spicy Potato Sandwich": "potato,onion,coriander",
+        "Simple Aloo Grilled Sandwich": "coriander,ginger,potato,schezwan,",
+        "Potato Sandwich": "coriander,onion,potato,tomato,",
+        "Pav Sandwich": "coriander,garlic,onion,potato,tomato,",
+        "Suji Aloo Sandwich": "onion,ginger garlic paste,capsicum,cabbage,sweet corn,paneer,carrot,tomato sauce,green chutney,mayo,vegan cheddar",
+        "Aloo Toast": "aloo,capsicum,coriander,garlic,onion,potato,tamarind,tomato,"
+    },
+    "recipe_url": {
+        "Spicy Potato Sandwich": "https://www.indianveggiedelight.com/spicy-potato-sandwich/",
+        "Simple Aloo Grilled Sandwich": "https://www.indianhealthyrecipes.com/potato-sandwich-aloo-sandwich/",
+        "Potato Sandwich": "https://www.tarladalal.com/potato-sandwich-aloo-sandwich-on-a-tava-indian-snack-41930r",
+        "Pav Sandwich": "https://www.tarladalal.com/pav-sandwich--masala-pav-with-potatoes-tomatoes-and-onions-33429r",
+        "Suji Aloo Sandwich": "https://hebbarskitchen.com/roti-sandwich-recipe-chapati-sandwich/",
+        "Aloo Toast": "https://hebbarskitchen.com/aloo-toast-recipe-aloo-bread-toast/"
+    }
+}

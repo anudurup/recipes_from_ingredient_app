@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Bajra Aloo ki roti": "bajra flour,coconut,coriander,flour,ginger,millet,onion,potato,",
+        "Palak Methi Puris": "bajra,flour,ginger,methi,millet,spinach,whole wheat flour,",
+        "Methi Thalipeeth": "bajra,besan,coriander,curd,flour,methi,millet,onion,ragi,",
+        "Saatdhan Parathas": "whole wheat flour, jowar flour, bajra flour, ragi flour, corn flour, rice flour, garlic,lauki,carrot,dahi,coriander",
+        "Bajra Kaddu ki Roti": "garlic,bajra flour, kaddu,whole wheat flour,ginger-green chilli paste,lemon juice",
+        "Bajra ka rotla": "bajra,flour,garlic,millet,",
+        "Bajra Khakras": "bajra,flour,garlic,ginger,millet,whole wheat flour,",
+        "Potato Ragi Roti": "beans,cabbage,carrot,flour,green peas,millet,onion,peas,potato,ragi,rice,rice flour,",
+        "Mini green ragi theplas": "bajra,capsicum,coriander,flour,garlic,ginger,millet,onion,paneer,ragi,rolled oats,spinach,"
+    },
+    "recipe_url": {
+        "Bajra Aloo ki roti": "https://www.tarladalal.com/bajra-aloo-ki-roti-3015r",
+        "Palak Methi Puris": "https://www.tarladalal.com/palak-methi-puris-3563r",
+        "Methi Thalipeeth": "https://www.tarladalal.com/methi-thalipeeth-maharashtrian-breakfast-42086r",
+        "Saatdhan Parathas": "https://www.tarladalal.com/saatdhan-parathas-3588r",
+        "Bajra Kaddu ki Roti": "i: https://www.tarladalal.com/bajra-kaddu-ki-roti-lehsun-bajra-bhopla-paratha-5582r",
+        "Bajra ka rotla": "https://www.tarladalal.com/rotla--gujarati-recipe-bajra-na-rotla-recipe-629r",
+        "Bajra Khakras": "https://m.tarladalal.com/bajra-khakhras-2941r",
+        "Potato Ragi Roti": "https://www.tarladalal.com/potato-ragi-roti-15703r",
+        "Mini green ragi theplas": "https://www.tarladalal.com/mini-green-theplas--fibre-rich-recipe--35076r"
+    }
+}

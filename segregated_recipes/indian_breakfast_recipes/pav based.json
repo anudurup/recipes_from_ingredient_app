@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Masala Omelette Pav": "coriander,eggs,onion,tomato,",
+        "Schezuan stuffed pav": "cabbage,capsicum,garlic,onion,red chilli sauce,schezwan,spring onion,tomato,",
+        "Oil Free Vada Pavs": "besan, potatoes, lemon juice, garlic,whole wheat burger buns"
+    },
+    "recipe_url": {
+        "Masala Omelette Pav": "https://www.tarladalal.com/masala-omelette-pav-mumbai-roadside-41941r",
+        "Schezuan stuffed pav": "https://www.tarladalal.com/stuffed-cheesy-schezuan-pav-cheesy-stuffed-schezwan-pav-42157r",
+        "Oil Free Vada Pavs": "https://www.tarladalal.com/oil--free-vada-pav-22252r"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "ingredients": {
+        "Vegan Oreos": "maple syrup, cocoa powder, brown rice flour, coconut milk, sugar, peanut butter, banana",
+        "Vegan Nutella": "coconut milk, chocolate chips",
+        "Vegan Flan": "sugar, coconut milk, oat milk, besan, sugar, vanilla extract, agar agar powder",
+        "Vegan Date caramel": "dates, maple syrup, coconut oil, vegan milk",
+        "Vegan Caramel": "brown sugar,almond milk,vegan butter,vanilla extract",
+        "Cookie Dough hummus": "chickpeas,oats,cashews,maple syrup,vanilla extract,coconut milk,chocolate chips",
+        "Chickpea Brownie Dip": "chocolate chips,coconut oil,chickpeas,maple syrup,coconut milk,cocoa powder,vanilla extract",
+        "Chocolate Donuts": "sugar,coconut milk,maple syrup,ghee,egg,vanilla extract,all purpose flour,almond flour,baking powder,chocolate chips,coconut oil",
+        "Coconut Macaroons": "shredded coconut,sugar,all purpose flour,egg whites,vanilla extract",
+        "Cranberry Orange Biscotti": "sugar,cranberries,egg,orange peel,vanilla extract,whole wheat flour,baking powder",
+        "Peanut Butter Hazelnut Cookie Sandwiches": "brown sugar, peanut butter,egg,vanilla extract,all purpose flour, baking powder,nutella",
+        "Deconstructed cheesecake dip": "graham crackers,coconut oil, maple syrup,cream cheese,sour cream,vanilla extract,mixed fruits"
+    },
+    "recipe_url": {
+        "Vegan Oreos": "http://www.feastingonfruit.com/easy-vegan-oreos-gluten-free-oil-free/",
+        "Vegan Nutella": "https://bloomingnolwenn.com/vegan-nutella-recipe/",
+        "Vegan Flan": "https://dorastable.com/vegan-flan/",
+        "Vegan Date caramel": "https://plantbasedjess.com/vegan-caramel-sauce-healthier-recipe/",
+        "Vegan Caramel": "https://wallflowerkitchen.com/vegan-caramel-5-minute/",
+        "Cookie Dough hummus": "https://drive.google.com/file/d/1rPY-0LnnkHXmo57VYCjsDOffS-U0QDb_/view?usp=sharing",
+        "Chickpea Brownie Dip": "https://drive.google.com/file/d/1sDDh4YGasx3SPFXsgPmWUqg3psICXxBt/view?usp=sharing",
+        "Chocolate Donuts": "https://drive.google.com/file/d/1N6EtPmyEirsxwpkV_ipQwLRUkwTJiqQk/view?usp=sharing",
+        "Coconut Macaroons": "https://drive.google.com/file/d/1BqYFpytEgHUkWeWY7W0EAGjsk6caGmEM/view?usp=sharing",
+        "Cranberry Orange Biscotti": "https://drive.google.com/file/d/182n6fP0Ro_JT7MeSW0IxpazW1cnMhwJD/view?usp=sharing",
+        "Peanut Butter Hazelnut Cookie Sandwiches": "https://drive.google.com/file/d/1ssMJ1ih_XU0-e0ZWfNH0uX_cxLmvkJM1/view?usp=sharing",
+        "Deconstructed cheesecake dip": "https://drive.google.com/file/d/1PoeVVA_FF7e9ELt2bGvxh6rzxTtBsiQN/view?usp=sharing"
+    }
+}

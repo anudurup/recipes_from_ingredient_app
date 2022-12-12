@@ -1,0 +1,22 @@
+{
+    "ingredients": {
+        "Appe Pan Paneer Manchurian": "paneer,cabbage,cilantro,rice flour,sweet chilly sauce,soy sauce,scallions",
+        "Appe Pan Vegetable Manchurian": "cauliflower,carrot,corn flour,sesame oil,ginger,garlic,thai green chillies,cilantro,vinegar,soy sauce,sugar,corn starch",
+        "Air Fried Cauliflower Manchurian": "cauliflower,corn starch,garlic,ginger,green chili, green onion,cilantro, green peppers, soy sauce,tomato ketchup, red chili sauce, sugar,corn starch,onion",
+        "Tofu Manchurian": "extra firm tofu,corn flour,soy sauce,tomato ketchup,hot chili sauce,sweet and sour sauce, sesame oil,ginger,garlic,onion,capsicum,red capsicum,sesame seeds",
+        "No Maida Veg Manchurian": "cabbage,capsicum,carrot,cauliflower,ginger,green chili,potato,ginger,onion,soy sauce,green chili sauce,red chili sauce,ketchup,white vinegar",
+        "Bread Manchurian": "cabbage,capsicum,carrot,corn,corn flour,flour,garlic,ginger,onion,spring onion,tomato,tomato sauce,",
+        "No Fry Veg Manchurian": "manchurian balls,carrots,cauliflower,bell peppers,cabbage,french beans,poha,red and green bell pepper,spring onion",
+        "Crispy Gobi Manchurian": "all purpose flour, corn starch,chili sauce, ketchup, soy sauce, sugar,cauliflower, garlic,ginger, spring onions, bell peppers, green chili"
+    },
+    "recipe_url": {
+        "Appe Pan Paneer Manchurian": "https://thebellyrulesthemind.net/2015/02/paneer-manchurian-made-in-appe-pan/",
+        "Appe Pan Vegetable Manchurian": "https://thebellyrulesthemind.net/2015/02/appechurian-manchurian/",
+        "Air Fried Cauliflower Manchurian": "https://myspicetrunk.com/.../air-fried-cauliflower.../",
+        "Tofu Manchurian": "https://www.secondrecipe.com/tofu-manchurian-air-fry-bake/",
+        "No Maida Veg Manchurian": "https://www.youtube.com/watch?v=1rVZXwRRAKY",
+        "Bread Manchurian": "https://hebbarskitchen.com/dry-bread-manchurian-recipe/",
+        "No Fry Veg Manchurian": "https://www.carveyourcraving.com/easy-no-fry-veg-manchurian-gravy-indo-chinesevegan-gf/",
+        "Crispy Gobi Manchurian": "https://www.facebook.com/watch/?ref=saved&v=295925022095251"
+    }
+}

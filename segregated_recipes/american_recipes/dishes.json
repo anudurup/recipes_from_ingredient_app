@@ -1,0 +1,36 @@
+{
+    "ingredients": {
+        "Vegan Quinoa Chili": "onion, garlic, tomatoes, quinoa, green chillies, cocoa powder, hot sauce, red kidney beans, black beans, corn",
+        "Tofu Chili": "onion,bell pepper,garlic,firm tofu,tomato puree,black beans, worcestershire sauce vegan",
+        "Butternut Squash Stew": "onion, red bell pepper, garlic, green onions, butternut squash, black beans, thyme, coconut milk, veg broth, vegan bouillon, collard greens, allspice",
+        "Cheesy Potato Taco Casserole": "impossible meat, gold potatoes petite, onion, taco seasoning, tomatoes, vegan cheddar, green onions",
+        "Corn Casserole": "corn kernels,creamed corn,vegan cheddar,cornmeal,sour cream,egg,chives,vegan butter,baking soda",
+        "Vegan Chickpea Pot Pie": "non dairy milk, nutritional yeast,besan,chickpeas,yellow onion,celery,carrots,onion,yellow potatoes,frozen peas,thyme",
+        "Vegan Holiday Roast": "onions,white mushrooms,garlic,soy sauce,cannellini beans,nutritional yeast,better than bouillon-no chicken base",
+        "Vegan meatloaf": "veg broth,brown lentils, quinoa,onion,celery, carrot,garlic,tomato paste, dried thyme,worcestershire sauce vegan,bread crumbs,flaxseed powder,nutritional yeast,soy sauce,ketchup",
+        "Southern Style Vegan Meatloaf": "chickpeas,black beans,rolled oats,corn meal,liquid smoke, aquafaba chickpea liquid,veg broth,white onion,worcestershire sauce vegan,toamto sauce,apple cider vinegar,dark molasses,brown sugar,onion powder,lime juice, chipotle peppers in adobo sauce, cornstarch",
+        "Tempeh BBQ Ribs": "tempeh,onion powder,Vegan BBQ Sauce",
+        "Vegan Pulled Pork": "jackfruit in brine, coconut oil,onion,garlic,sugar,instant espresso powder,cocoa powder,cinnamon,allspice,veg broth,banana BBQ sauce",
+        "Vegan Crab Cakes": "chickpeas,hearts of palm, mayo,dijon mustard,worcestershire sauce vegan,old bay seasoning,green onions,bread crumbs",
+        "Au Gratin Potato Cups": "ghee,onion,soy milk,nutmeg,cornstarch,potatoes,vegan cheddar",
+        "Tomato Cobbler": "onions,garlic,tomatoes,thyme,sugar,cherry tomatoes,balsamic vinegar,cornstarch,all purpose flour,baking powder,vegan butter,coconut milk",
+        "Vegan BBQ Chickpea Pizza": "Vegan Mozarella,chickpeas,vegan BBQ sauce,pizza dough,tomato sauce,red onion,hot banana peppers"
+    },
+    "recipe_url": {
+        "Vegan Quinoa Chili": "https://chefsavvy.com/vegetarian-quinoa-chili/#wprm-recipe-container-27423",
+        "Tofu Chili": "https://drive.google.com/file/d/1mierzgHQF41wkXBc1Hq8xWK3LY_TaI-w/view?usp=sharing",
+        "Butternut Squash Stew": "https://healthiersteps.com/recipe/black-bean-butternut-squash-stew/",
+        "Cheesy Potato Taco Casserole": "https://www.pinterest.co.uk/pin/496592296426650156/",
+        "Corn Casserole": "https://drive.google.com/file/d/15Ggcp4mfKHflgDieVl7smrJVlGWYltmR/view?usp=sharing",
+        "Vegan Chickpea Pot Pie": "https://frommybowl.com/vegan-chickpea-pot-pie/#tasty-recipes-4996",
+        "Vegan Holiday Roast": ",vegan worcestershire sauce vegan,onion powder.dried rosemary, dreid thyme,vital wheat gluten,soy sauce,brown sugar",
+        "Vegan meatloaf": "https://drive.google.com/file/d/1JpZaYmLY6cIB9OfFYIHCl1nZrZX0yyx3/view?usp=shar",
+        "Southern Style Vegan Meatloaf": "https://www.veganosity.com/smoky-southern-style-meatless-meatloaf/#recipe",
+        "Tempeh BBQ Ribs": "https://drive.google.com/file/d/1tsUvrPlz4U6xmw_-F-FkddNLgwcpcHtO/view?usp=sharing",
+        "Vegan Pulled Pork": "https://drive.google.com/file/d/1HzDKXGOWsvX1-qHjxQdpDyVYBrCGZ9KL/view?usp=sharing",
+        "Vegan Crab Cakes": "https://drive.google.com/file/d/1KOduSmpJ6e1KL1Z_5KgAHCbvhGurFODd/view?usp=sharing",
+        "Au Gratin Potato Cups": "https://drive.google.com/file/d/1NJo2r8l0tWXoEcsQu3uK-3HVGYZUMtJF/view?usp=sharing",
+        "Tomato Cobbler": "https://drive.google.com/file/d/1z8TEbXK_G__DT_MHfGulp7Dfd2nCZrrZ/view?usp=sharing",
+        "Vegan BBQ Chickpea Pizza": "https://itdoesnttastelikechicken.com/vegan-bbq-chickpea-pizza/#recipe"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "ingredients": {
+        "Air Fryer Cauliflower Wings": "flour,onion powder,almond milk,cauliflower,hot sauce",
+        "Sweet Potato Tater Tots": "sweet potatoes,onion powder,corn starch",
+        "Buffalo Cauliflower wings": "cauliflower,all purpose flour,corn starch,vegan milk,breadcrumbs,hot sauce,honey,vegan butter",
+        "Crispy Veg Nuggets": "potatoes,brocolli,green peas,carrots,sweet corn,coriander,oats powder, bread crumbs,vegan cheese",
+        "Broccoli Tots": "brocolli,vegan cheddar,bread crumbs,onion,parsley"
+    },
+    "recipe_url": {
+        "Air Fryer Cauliflower Wings": "https://www.pinterest.com/pin/496592296424257029/",
+        "Sweet Potato Tater Tots": "https://jessicainthekitchen.com/sweet-potato-tater-tots-vegan/",
+        "Buffalo Cauliflower wings": "https://carameltintedlife.com/air-fryer-cauliflower.../",
+        "Crispy Veg Nuggets": "https://youtu.be/XmpEXXg0x04",
+        "Broccoli Tots": "https://drive.google.com/file/d/1oh4JOmKnlh1veRGwJDpHPrJj5-fGPhRn/view?usp=sharing"
+    }
+}

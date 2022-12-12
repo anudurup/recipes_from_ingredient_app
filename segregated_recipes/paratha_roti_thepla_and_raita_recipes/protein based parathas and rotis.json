@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Green Moong Dal Paratha": "coriander,flour,onion,potato,whole wheat flour,",
+        "Nariyal Chane ke Parathe": "chick peas,coconut,coriander,flour,garlic,ginger,peas,whole wheat flour,",
+        "Dal Paratha": "coriander,flour,garlic,ginger,methi,whole wheat flour,",
+        "Moong Palak Thepla": "atta,cooked sprouts,ginger garlic,chili,palak,kasoori methi"
+    },
+    "recipe_url": {
+        "Green Moong Dal Paratha": "https://www.tarladalal.com/moong-dal-paratha-765r",
+        "Nariyal Chane ke Parathe": "https://www.tarladalal.com/nariyal-chane-ke-parathe-protein-rich-recipe-33259r",
+        "Dal Paratha": "https://www.indianhealthyrecipes.com/dal-paratha-recipe/",
+        "Moong Palak Thepla": "https://www.pinterest.co.uk/pin/496592296426636439/"
+    }
+}

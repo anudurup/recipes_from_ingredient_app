@@ -1,0 +1,22 @@
+{
+    "ingredients": {
+        "Bhakri Pizza": "bajra flour, jowar flour,tomatoes,oil,garlic,onion,oregano,chilli flakes,ketchup",
+        "Masala Chai": "ginger,fennel seeds,cardomom,cloves,black tea,sugar,milk",
+        "Veg Pinwheel Tikki Roll": "aloo,cabbage,capsicum,carrot,coriander,onion,potato,",
+        "Quick Bread Snack Like Bread Upma": "coriander,ginger,onion,tomato,",
+        "Baked methi puris": "bajra,curd,yogurt,ginger,methi,millet,spinach,",
+        "Air Fried Egg Puffs:": "onion,chaat masala,boiled eggs,puff pastry sheets",
+        "Air Fryer Bread Rolls": "bread,potato",
+        "Appe Pan Bread Rolls": "potatoes,paneer,vegan cheese,peas,onion,bread slices"
+    },
+    "recipe_url": {
+        "Bhakri Pizza": "https://www.tarladalal.com/bhakhri-pizza---gluten-free-recipe-38089r",
+        "Masala Chai": "https://realandvibrant.com/masala-chai/",
+        "Veg Pinwheel Tikki Roll": "https://hebbarskitchen.com/veg-roll-tikki-recipe-veg-pinwheel-tikki/",
+        "Quick Bread Snack Like Bread Upma": "https://www.tarladalal.com/quick-bread-snack-1505r?serves=2",
+        "Baked methi puris": "https://www.tarladalal.com/baked-palak-methi-puris-5663r",
+        "Air Fried Egg Puffs:": "https://youtu.be/7zdXdcVKCdI",
+        "Air Fryer Bread Rolls": "https://simplyvegetarian777.com/air-fryer-bread-rolls-easy-recipe/",
+        "Appe Pan Bread Rolls": "https://thebellyrulesthemind.net/2015/02/bread-rolls-made-in-appe-pan/"
+    }
+}

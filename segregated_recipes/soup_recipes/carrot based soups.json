@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Carrot and Bell pepper Soup": "carrot, red pepper, veg broth",
+        "Carrot and Ginger Soup": "carrot,ginger,onion,veg stock,herbs",
+        "Carrot and Onion Soup": "carrot, potato, veg broth",
+        "Roast Carrot and Coriander Soup": "carrots,onion,garlic,veg stock, coriander powder,coriander",
+        "Carrot and Coriander Soup": "carrot,coriander",
+        "Ginger and Tumeric Carrot Soup": "For digestion"
+    },
+    "recipe_url": {
+        "Carrot and Bell pepper Soup": "https://pipingpotcurry.com/roasted-carrot-bell-pepper-soup/",
+        "Carrot and Ginger Soup": "https://www.vegrecipesofindia.com/carrot-ginger-soup-recipe/#wprm-recipe-container-147867",
+        "Carrot and Onion Soup": "https://www.thetomatotart.com/recipe/vegan-carrot-soup/",
+        "Roast Carrot and Coriander Soup": "https://www.facebook.com/watch/?ref=saved&v=2053519718113789",
+        "Carrot and Coriander Soup": "https://www.tarladalal.com/carrot-and-coriander-soup-37602r",
+        "Ginger and Tumeric Carrot Soup": "(leek,fennel,carrots,butternut squash,veg broth,coconut milk"
+    }
+}

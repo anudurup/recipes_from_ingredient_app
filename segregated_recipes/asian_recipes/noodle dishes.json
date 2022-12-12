@@ -1,0 +1,26 @@
+{
+    "ingredients": {
+        "Soba Noodle Chowmein": "soba noodles,cabbage,carrot,celery,onion,ginger,garlic",
+        "Veg Chowmein": "cabbage,capsicum,carrot,coriander,corn,corn flour,flour,garlic,ginger,noodles,onion,spring onion,",
+        "Garlic sesame noodles": "spaghetti, red bell pepper, carrot, broccoli, green onions, sesame seeds, soy sauce, garlic, sugar, chili garlic sauce, hoisin sauce, toasted sesame oil",
+        "Veggie Lo Mein": "dark soy sauce, light soy sauce, oyster sauce, sesame oil, sugar, garlic, uncooked ramen noodles, green onions, carrots, red peppers, cabbage, bok choy, mushrooms, broccoli, mirin",
+        "Vegetable chowmein": "soy sauce, hoisin sauce, dry sherry, sugar,sesame oil, sriracha, garlic cloves, shallot, carrot, red pepper, white cabbage, broccoli,bean sprouts, chowmein noodles, spring onions, sesame seeds",
+        "Vegan Pho": "veg stock, onion,ginger,carrots, cabbage,cardamom, soy sauce, sriracha, sugar, rice noodles flat, baby carrots, tofu, bell peppers,sprouts, lemon",
+        "Green Sauce chilli garlic chowmein": "noodles, sesame oil, garlic, green chillies,onion,spring onion,carrot, cabbage, green bell pepper, red bell pepper, orange bell pepper,soy sauce,vinegar,green chilli sauce",
+        "Tomato Sauce Veg Chowmein": "noodles, garlic paste, onion,soy sauce,celery, vinegar, chili sauce, green and red capsicum, mushroom, carrot, green chillies, tomato sauce, spring onion, garlic",
+        "Schezuan noodles": "garlic, ginger,tahini,peanut butter, soy sauce, dry sherry, sherry wine vinegar, honey, hot chili oil, dark sesame oil, spaghetti, red bell pepper, yellow bell pepper,scallions",
+        "Soba Noodles with sea veggies": "soy sauce,mirin,kombu,bonito flakes,wakame,hijiki,eggs,soba noodles,sesame seeds,green onion,nori"
+    },
+    "recipe_url": {
+        "Soba Noodle Chowmein": "https://mycookingspot.com/soba-noodle-chow-mein/",
+        "Veg Chowmein": "https://hebbarskitchen.com/vegetarian-chow-mein-recipe/",
+        "Garlic sesame noodles": "https://yupitsvegan.com/garlic-sesame-noodles/",
+        "Veggie Lo Mein": "https://pinchofyum.com/lo-mein",
+        "Vegetable chowmein": "https://cupfulofkale.com/vegan-vegetable-chow-mein/",
+        "Vegan Pho": "https://www.cookclickndevour.com/vegan-pho-vietnamese-noodle-soup/",
+        "Green Sauce chilli garlic chowmein": "https://www.dhabastyle.com/chilli-garlic-chow-mein/",
+        "Tomato Sauce Veg Chowmein": "https://food.ndtv.com/recipe-vegetable-chowmein-99157",
+        "Schezuan noodles": "https://www.food.com/recipe/szechuan-noodles-114262",
+        "Soba Noodles with sea veggies": "https://drive.google.com/file/d/1bjSSrPbbq5zOWAfLttM4AW6Kbm6AtB0m/view?usp=sharing"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "ingredients": {
+        "Aloo Gobhi": "aloo,cauliflower,coriander,garlic,ginger,",
+        "Masala Aloo Sabji": "coriander,potato,",
+        "Khatte Aloo": "besan,coriander,",
+        "Aloo Palak": "aloo,coriander,garlic,ginger,potato,spinach,",
+        "Dum Aloo": "coriander,garlic,ginger,",
+        "Dahi Aloo ki Sabji": "coriander,dahi,ginger,methi,potato,dahi,",
+        "Aloo Roganjosh": "potatoes,dahi,",
+        "Aloo Fry": "coriander,potato,",
+        "Batata Nu Shaak": "coriander,potato,",
+        "Masaledar Arbi": "besan,colocassia,coriander,",
+        "Rasedar Aloo matar ki sabji": "potato,green peas,tomato",
+        "Vrat ke Aloo": "Aloo,curry leaves"
+    },
+    "recipe_url": {
+        "Aloo Gobhi": "https://www.tarladalal.com/aloo-gobi-aloo-gobhi-recipe-22792r",
+        "Masala Aloo Sabji": "https://www.tarladalal.com/masala-aloo-subzi-spicy-potato-vegetable-2760r",
+        "Khatte Aloo": "https://www.tarladalal.com/khatte-aloo-22782r",
+        "Aloo Palak": "https://www.tarladalal.com/aloo-palak-30887r",
+        "Dum Aloo": "https://www.tarladalal.com/dum-aloo--microwave-recipe-34575r",
+        "Dahi Aloo ki Sabji": "https://hebbarskitchen.com/dahi-aloo-recipe-dahi-aloo-ki-sabzi/",
+        "Aloo Roganjosh": "http://www.jopreetskitchen.com/aloo-roganjosh-recipe/",
+        "Aloo Fry": "https://www.tarladalal.com/aloo-fry-recipe-how-to-make-potato-fry-41958r",
+        "Batata Nu Shaak": "https://www.tarladalal.com/batata-nu-shaak-bateta-nu-shaak-601r",
+        "Masaledar Arbi": "https://www.tarladalal.com/masaledar-arbi-22491",
+        "Rasedar Aloo matar ki sabji": "https://www.mycookingjourney.com/benarasi-aloo-matar-rasedar-aloo-matar/",
+        "Vrat ke Aloo": "https://www.indianfoodforever.com/holiday-recipes/navratri/vrat-ke-aloo.html"
+    }
+}

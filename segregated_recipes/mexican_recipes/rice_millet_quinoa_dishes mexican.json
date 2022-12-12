@@ -1,0 +1,22 @@
+{
+    "ingredients": {
+        "Black Bean Brown Rice Burrito Bowl": "black beans, brown rice, stir fried bell peppers and onions, pico de gallo homemade and yoghurt dressing",
+        "Pico De Gallo": "roma tomatoes, red onion,cilantro,jalapeno,lime juice,garlic",
+        "Mexican Quinoa Bowl": "quinoa,lime juice,avocado,spinach,eggs,hot sauce",
+        "Spinach Mushroom Quinoa Bowl": "mushrooms, spinach,eggs,quinoa,balsamic vinegar",
+        "Mexican Rice": "garlic, onion, rice, tomato sauce, veg broth, corn, carrots, peas, tomatoes",
+        "Spinach Artichoke Chickpea Rice": "brown rice,yellow onion, garlic,rosemary,thyme dried,artichokes in brine,spinach,chickpeas,balsamic vinegar,lemon juice,vegan parmesan, mayo",
+        "Burrito Bowl": "beans,capsicum,carrot,coriander,corn,dahi,dahi,garlic,onion,rajma,rice,spring onion,tomato,",
+        "Veggie Burrito Bowl with Mexican Rice": "tomatoes, onion, white rice, garlic, jalapeno, veg broth, tomato paste, cilantro, black beans, zucchini, yellow squash, avocado, banana peppers, cherry tomatoes"
+    },
+    "recipe_url": {
+        "Black Bean Brown Rice Burrito Bowl": "No link",
+        "Pico De Gallo": "https://www.allrecipes.com/recipe/203800/pico-de-gallo/",
+        "Mexican Quinoa Bowl": "https://www.simplyquinoa.com/mexican-quinoa-breakfast-bowls/",
+        "Spinach Mushroom Quinoa Bowl": "https://cookinglsl.com/spinach-mushroom-quinoa-breakfast-bowl-recipe/",
+        "Mexican Rice": "https://damndelicious.net/2014/03/12/mexican-rice/",
+        "Spinach Artichoke Chickpea Rice": "https://upbeetkitchen.com/2020/09/13/chickpea-brown-rice-spinach-artichoke-casserole-vegan/",
+        "Burrito Bowl": "https://www.tarladalal.com/burrito-bowl-40598r",
+        "Veggie Burrito Bowl with Mexican Rice": "https://www.healthygffamily.com/recipe/veggie-burrito-bowl/"
+    }
+}

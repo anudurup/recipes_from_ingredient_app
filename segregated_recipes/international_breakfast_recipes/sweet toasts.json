@@ -1,0 +1,22 @@
+{
+    "ingredients": {
+        "French Toast with Strawberry Topping": "almond milk,eggs,maple syrup,cinnamon,whole grain bread,strawberry topping",
+        "Ricotta, apple and honey toast": "sprouted wheat bread, ricotta cheese,apples,honey",
+        "Southern Spiced French Toast with Bananas and pecans": "eggs,almond milk,maple syrup,pumpkin pie spice,whole grain bread,coconut oil,bananas,pecans",
+        "Strawberry Cream Cheese Toast": "strawberries,sugar,sprouted wheat bread,cream cheese",
+        "Healthy French Toast": "eggs, almond milk, sugar, vanilla extract, almond extract, cinnamon, bread, butter, maple syrup, banana, strawberry, blueberries",
+        "Vegan French Toast": "non dairy milk, all purpose flour, vanilla, cinnamon, bread",
+        "Peanut Butter Toast with caramelized Bananas": "coconut oil, maple syrup, cinnamon, bread, peanut butter",
+        "Chocolate Sandwich": "bread,chocolate chips,pistachios,banana,cream cheese"
+    },
+    "recipe_url": {
+        "French Toast with Strawberry Topping": "https://drive.google.com/file/d/1fIzWLMttfYqHQ0sNM1kIFZw4q2snRXAZ/view?usp=share_link",
+        "Ricotta, apple and honey toast": "https://drive.google.com/file/d/1ONuO8ch9Uq1yFv3582OqCaKi3qcFHI4i/view?usp=share_link",
+        "Southern Spiced French Toast with Bananas and pecans": "https://drive.google.com/file/d/1E-mZ2ilt2_mtkB_l_xoq4tRCSlyXG-YY/view?usp=share_link",
+        "Strawberry Cream Cheese Toast": "FXR_StrawberryCreamCheeseToast_R_06.18.18.pdf",
+        "Healthy French Toast": "https://www.ambitiouskitchen.com/french-toast-recipe/",
+        "Vegan French Toast": "https://www.karissasvegankitchen.com/vegan-french-toast/",
+        "Peanut Butter Toast with caramelized Bananas": "https://www.pinterest.com/pin/496592296424217039/",
+        "Chocolate Sandwich": "https://www.indianhealthyrecipes.com/chocolate-sandwich-how-to-make-chocolate-sandwich/"
+    }
+}

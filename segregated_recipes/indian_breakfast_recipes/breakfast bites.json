@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Idli Dhokla": "besan,coconut,coriander,dahi,ginger,rava,",
+        "Instant pot khaman Dhokla": "besan,semolina,sugar,lime juice,ginger,green chili,baking soda,sesame seeds",
+        "Kuthiraivali Kozhukattai": "barnyard millet",
+        "Masala Goli Kadubu": "methi,rice flour",
+        "Rice Pundi and Aloo Kootu": "chan dal,dry red chili, rice rava, potato,chickpeas,coconut,dry red chili",
+        "Rice Pundi": "coconut,methi,rava,rice,urad dal,",
+        "Aloo Bonda": "potato,besan,rice flour",
+        "Masala Methi Balls": "rice flour,curry leaves,onion,methi leaves,sugar,coconut",
+        "Ragi Mudde": "finger millet flour,millet,"
+    },
+    "recipe_url": {
+        "Idli Dhokla": "https://hebbarskitchen.com/instant-idli-dhokla-recipe/",
+        "Instant pot khaman Dhokla": "https://pipingpotcurry.com/khaman-dhokla/#recipe",
+        "Kuthiraivali Kozhukattai": "https://www.yummytummyaarthi.com/kuthiraivali-kozhukattai-recipe",
+        "Masala Goli Kadubu": "https://www.youtube.com/watch?v=Da7hy2lfiMg",
+        "Rice Pundi and Aloo Kootu": "https://www.facebook.com/watch/?ref=saved&v=426700361936894",
+        "Rice Pundi": "https://hebbarskitchen.com/mangalorean-pundi-recipe-rice-dumplings/",
+        "Aloo Bonda": "https://www.betterbutter.in/recipe/1265/baked-aloo-bonda/",
+        "Masala Methi Balls": "https://www.facebook.com/watch/?ref=saved&v=4027794650604731",
+        "Ragi Mudde": "https://hebbarskitchen.com/ragi-mudde-recipe-ragi-ball-recipe/"
+    }
+}

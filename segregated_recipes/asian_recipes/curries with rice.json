@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Chinese brocolli with garlic sauce": "chinese broccoli, garlic cloves, coconut aminos, toasted sesames",
+        "Chinese eggplant with schechuan sauce": "japanese eggplant, cornstarch, peanut oil, garlic, ginger, dried red chillies, szechuan peppercorns, soy sauce, garlic chilli paste, rice vinegar, mirin, sugar, five spice",
+        "Vegan general Tso Tofu": "tofu, garlic, soy sauce, vinegar, ginger powder, sugar, white vinegar, cornstarch, rice, steamed veggies",
+        "Vegan Tofu Katsu Curry": "sesame oil, onion,garlic,ginger,red chilli,tomato paste,carrots,sweet potato,coconut milk,curry paste,bay leaves,mirin,soy sauce,breadcrumbs,onion powder,flour, firm tofu"
+    },
+    "recipe_url": {
+        "Chinese brocolli with garlic sauce": "https://iheartumami.com/easy-chinese-broccoli-stir-fry/",
+        "Chinese eggplant with schechuan sauce": "https://www.feastingathome.com/chinese-eggplant/",
+        "Vegan general Tso Tofu": "https://instantveg.com/vegan-general-tso-tofu-recipe/",
+        "Vegan Tofu Katsu Curry": "https://www.pinterest.co.uk/pin/496592296425526936/"
+    }
+}

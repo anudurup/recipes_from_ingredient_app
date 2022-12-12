@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Potato cakes with carrot And rice": "potato,rice,onion,carrot,parsley",
+        "Vegan Hashbrown Omelette": "russet potatoes, uncooked rice, yellow onions, carrots, parsley",
+        "Vegan Hash Browns": "starchy potatoes, onion, black pepper",
+        "Vegan Stuffed Potato Cakes": "potatoes, rice flour, corn starch, nutmeg, mushrooms, zucchini, bell pepper, onion, garlic, italian spice, onion powder",
+        "Sweet Potato Hash": "ghee,kale,onion,bell pepper,garlic,sweet potato,eggs,green onion",
+        "Jicama Hash Browns": "jicama,onion powder,ghee"
+    },
+    "recipe_url": {
+        "Potato cakes with carrot And rice": "https://littlesunnykitchen.com/potato-cakes/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=602538322_20843224_128372",
+        "Vegan Hashbrown Omelette": "https://littlesunnykitchen.com/potato-cakes/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=563728914_20843242_301909",
+        "Vegan Hash Browns": "https://www.lazycatkitchen.com/baked-vegan-hash-browns/",
+        "Vegan Stuffed Potato Cakes": "https://elavegan.com/stuffed-potato-cakes-vegan-gluten-free/",
+        "Sweet Potato Hash": "https://drive.google.com/file/d/1j3hZmYgtthuJDLfMvSB5VHYrYcqLyOjo/view?usp=sharing",
+        "Jicama Hash Browns": "https://drive.google.com/file/d/1Jn4KVzY1YhsBnBx8j2P78DMpnXxQIfjX/view?usp=sharing"
+    }
+}

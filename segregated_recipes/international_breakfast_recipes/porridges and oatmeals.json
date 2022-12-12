@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Creamy Quinoa Porridge": "red quinoa,almond milk,honey,cardamom,cinnamon,nutmeg,ginger,corn starch ,strawberries, blueberries,almonds,shredded coconut,raisins",
+        "Baked Oats": "chocolate chips, rolled oats, cocoa powder, baking powder, maple syrup, eggs, banana",
+        "Puffed Cocoa Amaranth": "amaranth,almond milk,maple syrup,cocoa powder,blueberries",
+        "Pumpkin Pie Amaranth Porridge": "almond milk,maple syrup,cinnamon,ginger,nutmeg,cloves,amaranth,pumpkin puree,vanilla extract,pumpkin seeds",
+        "Gluten free cinnamon crunch cereal": "gluten free all purpose flour,sugar, coconut oil,cinnamon,baking powder,vanilla extract",
+        "Carrot Cake Baked Oatmeal": "coconut milk,eggs,maple syrup,vanilla extract,carrots,pineapple,rolled oats,baking powder,cinnamon,ginger,nutmeg,sour cream,sugar powdered",
+        "Vanilla Yogurt": "greek yogurt,honey,vanilla extract",
+        "Swiss Oatmeal": "rolled oats,almond milk,greek yogurt,vanilla extract,cinnamon,strawberries,banana,almonds",
+        "Baked apple oatmeal cups": "rolled oats,almond milk,eggs,apple"
+    },
+    "recipe_url": {
+        "Creamy Quinoa Porridge": "https://drive.google.com/file/d/1CoVUqg4qBKLboTK2qineZ-mEZ2Fwpm7L/view?usp=share_link",
+        "Baked Oats": "https://www.pinterest.com/pin/496592296423953826/",
+        "Puffed Cocoa Amaranth": "https://drive.google.com/file/d/1MFCfuoxrJxrqFfwis8XEsknKESpDEGPJ/view?usp=share_link",
+        "Pumpkin Pie Amaranth Porridge": "https://drive.google.com/file/d/1MNrwX7qlMsx7GvnPpyHEDfIvoX3TTc2L/view?usp=share_link",
+        "Gluten free cinnamon crunch cereal": "https://drive.google.com/file/d/1PV2G8XsNvLujI9Bs_WFmU2IjBE5zE5T6/view?usp=sharing",
+        "Carrot Cake Baked Oatmeal": "https://drive.google.com/file/d/1UFH5EYBNkILn0yftpIV5KGfuMHYyBvMU/view?usp=sharing",
+        "Vanilla Yogurt": "https://drive.google.com/file/d/14jK1L-kUndgVOf3O2oeYfyuUJU9PBchn/view?usp=sharing",
+        "Swiss Oatmeal": "https://drive.google.com/file/d/16lBWKT-cN1HfYB13kpS_Hg9OcTpZMsbj/view?usp=sharing",
+        "Baked apple oatmeal cups": "https://www.livewellbakeoften.com/apple-cinnamon-baked-oatmeal-cups/"
+    }
+}

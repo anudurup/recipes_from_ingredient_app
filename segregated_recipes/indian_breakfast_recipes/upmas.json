@@ -1,0 +1,40 @@
+{
+    "ingredients": {
+        "Rava Upma": "ginger,onion,rava,urad dal,",
+        "Ragi Rava Upma": "carrot,coriander,millet,onion,ragi,rava,",
+        "Coriander Upma": "coriander,onion,rava,urad dal,",
+        "Quinoa Upma": "beans,carrot,ginger,onion,peas,quinoa,urad dal,",
+        "Palak Upma": "rava,spinach,tomato,",
+        "Chatpata Dahiwala Bread": "coriander,dahi,yogurt,ginger,onion,",
+        "Veg Upma": "rava,onion,carrot,green peas",
+        "Pulusu Upma": "rava,onion,coriander,tamarind",
+        "Vermicelli Upma": "vermicelli,onion,green chili,curry leaves,ginger,chana dal,urad dal,peanuts,lemon juice,carrot,peas,green peas,coriander",
+        "Rava Pongal": "yellow moong dal, rava,ghee,cashews",
+        "Bread Upma": "coriander,ginger,milk,onion,tomato,urad dal,",
+        "Idli Upma": "coriander,ginger,onion,urad dal,",
+        "Maharashtrian Pitla": "besan,coriander,flour,garlic,onion,",
+        "Seviyan Pulao": "carrot,green peas,peas,semiya,vermicelli,",
+        "Semiya Upma": "beans,carrot,coconut,coriander,ginger,onion,peas,semiya,urad dal,vermicelli,",
+        "Haryali Dalia": "broken wheat, mint, dill leaves",
+        "Bajra Khichu with Masala Dahi": "bajra,coriander,dahi,yogurt,flour,millet,"
+    },
+    "recipe_url": {
+        "Rava Upma": "https://www.indianhealthyrecipes.com/upma-recipe-how-to-make-upma/",
+        "Ragi Rava Upma": "https://www.tarladalal.com/ragi-rava-upma-healthy-nachni-suji-upma-39296r",
+        "Coriander Upma": "https://www.tarladalal.com/coriander-upma-39001r",
+        "Quinoa Upma": "https://www.indianhealthyrecipes.com/quinoa-upma-recipe/",
+        "Palak Upma": "https://www.indianveggiedelight.com/spinach-upma-palak-upma-recipe/",
+        "Chatpata Dahiwala Bread": "https://www.tarladalal.com/chatpata-dahiwala-bread-2876r",
+        "Veg Upma": "https://thebellyrulesthemind.net/best-vegetable-upma-recipe/",
+        "Pulusu Upma": "http://www.chefandherkitchen.com/2014/12/pulusu-upma-tamarind-upma-pulusu-pindi.html",
+        "Vermicelli Upma": "https://www.indianhealthyrecipes.com/semiya-upma-vermicelli-upma-recipe/",
+        "Rava Pongal": "https://www.facebook.com/watch/?ref=saved&v=286527048723026",
+        "Bread Upma": "https://www.indianhealthyrecipes.com/bread-upma-recipe/",
+        "Idli Upma": "https://www.vegrecipesofindia.com/idli-upma-recipe-upma-recipes/",
+        "Maharashtrian Pitla": "https://www.tarladalal.com/maharashtrian-pitla-pitla-recipe-besan-pitla-recipe-40781r",
+        "Seviyan Pulao": "https://www.tarladalal.com/seviyan-pulao-semiya-pulao-vermicelli-pulao-40372r",
+        "Semiya Upma": "https://www.indianhealthyrecipes.com/semiya-upma-vermicelli-upma-recipe/",
+        "Haryali Dalia": "https://www.tarladalal.com/hariyali-dalia-38997r",
+        "Bajra Khichu with Masala Dahi": "https://www.tarladalal.com/bajra-khichu-with-masala-dahi-41294r"
+    }
+}

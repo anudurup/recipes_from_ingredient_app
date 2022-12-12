@@ -1,0 +1,20 @@
+{
+    "ingredients": {
+        "Tomato Soup": "basil,carrot,corn,corn flour,flour,garlic,onion,potato,tomato,",
+        "Healthy Tomato Soup": "tomatoes,yellow moong dal",
+        "Herbed Tomato, pasta Soup": "tomatoes,carrots,pasta",
+        "Carrot and Tomato Soup": "carrots,tomatoes,onion,spinach,french beans,garlic,cilantro",
+        "Roasted Tomato Soup": "yellow heirloom tomatoes,yellow onion,garlic,oregano,parmesan,basil",
+        "Vegan Creamy Tomato Soup": "garlic,onion,tomatoes,almond milk,basil",
+        "Gazpacho": "tomatoes,cucumber,green bell peppers,red onion,ACV,Bread"
+    },
+    "recipe_url": {
+        "Tomato Soup": "https://www.indianhealthyrecipes.com/tomato-soup-recipe/",
+        "Healthy Tomato Soup": "https://www.tarladalal.com/healthy-indian-tomato-soup-4616r",
+        "Herbed Tomato, pasta Soup": "https://www.tarladalal.com/herbed-tomato-carrot-and-macaroni-soup-39778r",
+        "Carrot and Tomato Soup": "https://www.vegrecipesofindia.com/carrot-tomato-soup/#wprm-recipe-container-138851",
+        "Roasted Tomato Soup": "https://www.pinterest.co.uk/pin/496592296425852888/",
+        "Vegan Creamy Tomato Soup": "https://drive.google.com/file/d/1ZtOgq64mETpEUx51ENH8J5eoIz1pSjQ4/view?usp=sharing",
+        "Gazpacho": "https://drive.google.com/file/d/12hrSQLR4DFoCCrhI7-Ej_6zdetEiqdPU/view?usp=sharing"
+    }
+}

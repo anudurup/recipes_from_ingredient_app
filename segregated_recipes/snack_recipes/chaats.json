@@ -1,0 +1,36 @@
+{
+    "ingredients": {
+        "Masala Pav": "garlic, ginger paste,onion,capsicum,tomato,pavs",
+        "Air Fryer Bombay Potatoes": "baby potatoes,lemon juice,chat masala",
+        "Aloo Chana Chaat": "boiled chickpeas,tamarind pulp,onion,potato,tomato",
+        "Aloo Chaat": "besan,chana dal,coriander,curd,yogurt,garlic,potato,sprouts,",
+        "Masala Chana Chaat": "onion,potato,chickpeas,pomegranate,yoghurt,mango chutney",
+        "Low Carb Baked Kachori": "almond flour,psyllium husk,broccoli,walnuts,almonds",
+        "Kala Chana Chaat": "chick peas,coriander,onion,peas,potato,tomato,",
+        "Mexican Style Golgappa": "avocado,tomato,onion,corn,jalapeno,mint",
+        "Air Fried Pani puri": "coriander leaves,mint leaves,green chillies,pani puri masala,sugar",
+        "Ragada Pattice": "coriander,corn,cornflour,onion,peas,potato,",
+        "Khandvi": "besan, sour curd,ginger green chilli paste,coconut,white sesame seeds",
+        "Instant Kandvi": "besan, ginger, sour curd",
+        "Appe Pan Ragada Patties": "potatoes,green peas,onion,vatana,tomato,ginger",
+        "Aloo Tikki Chaat": "aloo,coriander,corn,corn flour,curd,flour,garlic,ginger,onion,potato,tamarind,tomato,yogurt,",
+        "Ragda Pattice": "vatana,potato,cornflour,green and tamarind chutneys"
+    },
+    "recipe_url": {
+        "Masala Pav": "https://hebbarskitchen.com/masala-pav-recipe-bhaji-masala-pav/",
+        "Air Fryer Bombay Potatoes": "https://spicecravings.com/bombay-potatoes",
+        "Aloo Chana Chaat": "https://www.mirchitales.com/aloo-chana-chaat-vegan-recipe/",
+        "Aloo Chaat": "https://www.tarladalal.com/aloo-chaat--mumbai-roadside-recipes--33441r",
+        "Masala Chana Chaat": "https://www.greedygourmet.com/recipes-by-national-cuisine/indian/masala-chana-chaat/",
+        "Low Carb Baked Kachori": "https://www.mydaintysoulcurry.com/low-carb-baked-kachori-stuffed-puff-pastry/",
+        "Kala Chana Chaat": "https://www.tarladalal.com/chana-chaat--kala-chana-chaat-recipe-33111r",
+        "Mexican Style Golgappa": "https://www.indianveggiedelight.com/mexican-style-golgappa-with-fruit-pani/",
+        "Air Fried Pani puri": "https://rachnacooks.com/how-to-make-pani-puri-home/",
+        "Ragada Pattice": "https://www.tarladalal.com/ragda-patties--gujarati-recipe--558r",
+        "Khandvi": "https://www.vegrecipesofindia.com/khandvi-recipe-how-to-make-khandvi/#wprm-recipe-container-139243",
+        "Instant Kandvi": "https://www.pinterest.co.uk/pin/496592296426636457/",
+        "Appe Pan Ragada Patties": "https://thebellyrulesthemind.net/2015/02/ragda-peas-stuffed-patties/",
+        "Aloo Tikki Chaat": "https://hebbarskitchen.com/aloo-tikki-chaat-recipe-patties-chaat/",
+        "Ragda Pattice": "https://www.sanjeevkapoor.com/Recipe/Ragda-Pattice.html"
+    }
+}

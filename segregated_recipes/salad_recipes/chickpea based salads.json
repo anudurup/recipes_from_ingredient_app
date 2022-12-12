@@ -1,0 +1,24 @@
+{
+    "ingredients": {
+        "Vegan Chickpea Salad": "chickpeas,onion,cucumbers,green peppers, cherry tomatoes,strawberries, olive oil,lemon juice,black peppercorns,green chillies,sugar",
+        "India Chickpea Salad": "chick peas,coriander,cucumber,curd,dahi,mint,onion,peas,spring onion,tomato,",
+        "Chickpea Salad": "avocado,chickpeas,onion,grape tomatoes,green bell pepper",
+        "Hummus and Carrots": "carrot,garbanzo beans,tahini sauce,parsley",
+        "Italian Chickpea salad": "chickpeas,cherry tomatoes,potatoes,red onion,cucumber,black olives,arugula,olive oil,lemon juice,oregano,salt,pepper",
+        "Indian chickpea salad": "chickpeas,tomato,cucumber,spring onion,mint,coriander,sugar,dahi,salt,pepper",
+        "Peanut Chickpea Bowls": "peanut butter,soy sauce,maple syrup,sesame oil,rice vinegar,ginger,garlic,lime juice,red pepper flakes, chickpeas,kale,jasmine rice",
+        "Chopped Thai Chickpea Salad: Sprouts Salad": "capsicum,carrot,coriander,cucumber,mint,onion,spring onion,sprouts,tomato,",
+        "Vegan Tuna Salad": "chickpeas,avocado, green onion,red onion,celery,lemon juice,dijon mustard,dill weed"
+    },
+    "recipe_url": {
+        "Vegan Chickpea Salad": "https://www.cookclickndevour.com/easy-chickpea-salad-vegan/",
+        "India Chickpea Salad": "https://www.tarladalal.com/indian-chickpea-salad-for-weight-loss-3596r",
+        "Chickpea Salad": "https://www.spendwithpennies.com/chickpea-salad/",
+        "Hummus and Carrots": "https://www.eatingwell.com/recipe/259375/carrot-hummus/",
+        "Italian Chickpea salad": "https://anitalianinmykitchen.com/easy-italian-chickpea-salad/",
+        "Indian chickpea salad": "https://www.tarladalal.com/indian-chickpea-salad-for-weight-loss-3596r",
+        "Peanut Chickpea Bowls": "https://eatwithclarity.com/peanut-chickpea-buddha-bowl/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=1137229638_55822488_544776",
+        "Chopped Thai Chickpea Salad: Sprouts Salad": "https://hebbarskitchen.com/sprout-salad-recipe-moong-bean-sprout/",
+        "Vegan Tuna Salad": "https://drive.google.com/file/d/1goaWGR9MgjmAhMl-DZOduz5sp9yWQ-YJ/view?usp=sharing"
+    }
+}

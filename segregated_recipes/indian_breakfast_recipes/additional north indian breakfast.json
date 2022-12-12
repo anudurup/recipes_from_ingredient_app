@@ -1,0 +1,14 @@
+{
+    "ingredients": {
+        "Bread Besan Toast": "besan,coriander,flour,ginger,onion,tomato,",
+        "Bajra Onion Muthia": "bajra,coriander,flour,ginger,millet,onion,",
+        "Healthy Bread Bhurji": "bread,curd",
+        "Aloo Paneer Rava Roll": "rava,baking soda, dahi,paneer, potato,carrot,cabbage,capsicum"
+    },
+    "recipe_url": {
+        "Bread Besan Toast": "https://www.indianhealthyrecipes.com/besan-bread-toast-recipe/",
+        "Bajra Onion Muthia": "https://www.tarladalal.com/bajra-onion-muthia-bajra-onion-kadhai-muthia-33321r",
+        "Healthy Bread Bhurji": "https://www.tarladalal.com/bread-bhurji-4678r",
+        "Aloo Paneer Rava Roll": "https://hebbarskitchen.com/suji-roll-recipe-aloo-paneer-rava-roll/"
+    }
+}

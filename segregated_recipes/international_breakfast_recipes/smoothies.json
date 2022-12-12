@@ -1,0 +1,38 @@
+{
+    "ingredients": {
+        "Spinach, apple, pineapple, banana smoothie": "apple juice,spinach,apple,pineapple,banana",
+        "Chocolate peanut butter smoothie": "peanut butter,banana,almond milk,greek yogurt,cocoa powder",
+        "Carrot Cake Smoothie": "carrot,walnut,dates,almond milk",
+        "Coconut Matcha Smoothie": "almond milk, matcha powder, banana, shredded coconut, flaxseed powder, vanilla extract",
+        "Apple peanut butter smoothie": "almond milk,apple,peanut butter",
+        "Pear Ginger Smoothie": "almond milk, spinach, frozen pears, greek yogurt, almond butter, honey, ginger, vanilla extract",
+        "Anti Bloat Smoothie": "coconut water, banana, cucumber, ginger",
+        "Vegan apple pie smoothie": "apple,chia seeds,walnuts,almond milk,dates",
+        "Coffee Smoothie": "coffee, banana, rolled oats, cocoa powder, flaxseed powder, cinnamon, almond milk, honey",
+        "Chocolate overnight oatmeal smoothie": "rolled oats, chia seeds, almond butter, cocoa powder, vanilla almond milk, maple syrup, vanilla extract",
+        "Mocha Banana Breakfast Smoothie": "rolled oats, almond milk, banana, yogurt, cocoa powder, espresso powder",
+        "Chocolate Peanut Butter Oatmeal Smoothie": "rolled oats, almond milk, peanut butter, cocoa powder, honey, vanilla extract",
+        "Vanilla mint overnight oats smoothie": "rolled oats, almond milk, vanilla extract, spinach, banana, avocado, mint extract, sweetener",
+        "Pumpkin Apple Smoothie": "oats, pumpkin puree, greek yogurt, apple, banana, almond milk, pumpkin pie spice",
+        "Breakfast Pumpkin Pie Smoothie": "milk, banana, pumpkin puree, instant oatmeal, greek yogurt, maple syrup, pumpkin pie spice, cinnamon, nutmeg",
+        "Peach and Oat Breakfast Smoothie": "peach chunks, almond milk, greek yogurt peach or coconut flavor, oats"
+    },
+    "recipe_url": {
+        "Spinach, apple, pineapple, banana smoothie": "https://www.yellowblissroad.com/apple-smoothie/",
+        "Chocolate peanut butter smoothie": "https://lmld.org/chocolate-peanut-butter-banana-smoothie/",
+        "Carrot Cake Smoothie": "http://wallflowerkitchen.com/carrot-cake-smoothie/",
+        "Coconut Matcha Smoothie": "http://thefrostedvegan.com/2016/01/05/coconut-matcha-green-tea-smoothie-vitamix-giveaway/",
+        "Apple peanut butter smoothie": "https://www.eatingwell.com/recipe/255705/apple-peanut-butter-smoothie/",
+        "Pear Ginger Smoothie": "http://reciperunner.com/pear-ginger-smoothie/",
+        "Anti Bloat Smoothie": "http://happyhealthymama.com/2015/07/the-anti-bloat-smoothie.html?utm_content=buffer1950a&amp;utm_medium=social&amp;utm_source=pinterest.com&amp;utm_campaign=WNMbuffer#_a5y_p=4138410",
+        "Vegan apple pie smoothie": "https://thatgirlcookshealthy.com/apple-and-cinnamon-smoothie/",
+        "Coffee Smoothie": "https://diethood.com/coffee-smoothie/",
+        "Chocolate overnight oatmeal smoothie": "https://www.runningwithspoons.com/chocolate-overnight-oatmeal-smoothie/",
+        "Mocha Banana Breakfast Smoothie": "http://foxeslovelemons.com/mocha-banana-breakfast-smoothie",
+        "Chocolate Peanut Butter Oatmeal Smoothie": "http://www.whattheforkfoodblog.com/2016/01/08/chocolate-peanut-butter-oatmeal-smoothies/",
+        "Vanilla mint overnight oats smoothie": "https://www.runningwithspoons.com/vanilla-mint-overnight-oatmeal-smoothie/",
+        "Pumpkin Apple Smoothie": "https://kristineskitchenblog.com/pumpkin-smoothie/",
+        "Breakfast Pumpkin Pie Smoothie": "https://www.dishingdelish.com/breakfast-pumpkin-pie-smoothie/",
+        "Peach and Oat Breakfast Smoothie": "http://www.cookingclassy.com/2014/04/peach-oat-breakfast-smoothie"
+    }
+}

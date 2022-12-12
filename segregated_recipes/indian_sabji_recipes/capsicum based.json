@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Pav Bhaji": "bell pepper,capsicum,carrot,cauliflower,coriander,garlic,ginger,green peas,methi,onion,peas,potato,tomato,",
+        "Capsicum Besan Bhaji": "besan,capsicum,coriander,garlic,onion,",
+        "Street side pav bhaji": "capsicum,coriander,garlic,green peas,onion,peas,potato,tomato,",
+        "Dahiwale Shimla Mirch": "besan,capsicum,dahi,potato,",
+        "Capsicum Masala Sabji": "capsicum,coconut,coriander,garlic,ginger,methi,onion,tamarind,tomato,",
+        "Aloo Capsicum Sabji": "aloo,coconut,coriander,garlic,ginger,methi,onion,potato,tomato,"
+    },
+    "recipe_url": {
+        "Pav Bhaji": "https://www.indianhealthyrecipes.com/pav-bhaji-recipe-how-to-make-pav-bhaji-step-by-step-pictures/",
+        "Capsicum Besan Bhaji": "https://www.vegrecipesofindia.com/capsicum-besan-sabzi-recipe/",
+        "Street side pav bhaji": "https://m.tarladalal.com/pav-bhaji--mumbai-roadside-recipes--33423r",
+        "Dahiwale Shimla Mirch": "https://www.tarladalal.com/dahi-simla-mirch-ki-sabzi-dahiwale-simla-mirch-22481r",
+        "Capsicum Masala Sabji": "https://hebbarskitchen.com/capsicum-masala-shimla-mirch-ki-sabji/",
+        "Aloo Capsicum Sabji": "https://hebbarskitchen.com/aloo-shimla-mirch-ki-sabji/"
+    }
+}

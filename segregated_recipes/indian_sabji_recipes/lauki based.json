@@ -1,0 +1,18 @@
+{
+    "ingredients": {
+        "Dahi Wali Lauki ki Sabji": "lauki,curd",
+        "Baked Doodhi Kofta Curry": "besan,coriander,corn,cornflour,garlic,ginger,lauki,tomato,",
+        "Lauki ki sabji": "coriander,garlic,ginger,lauki,methi,onion,tomato,",
+        "Lauki sabji": "onion,tomato,ginger,lauki",
+        "Chayote Kootu": "chana dal,lauki,coconut,rice flour",
+        "Lauki Chana Dal Gravy": "chana dal,coriander,ginger,lauki,onion,tomato,"
+    },
+    "recipe_url": {
+        "Dahi Wali Lauki ki Sabji": "https://www.zaykakatadka.com/recipe/dahi-wali-lauki-ki-sabzi/",
+        "Baked Doodhi Kofta Curry": "https://www.tarladalal.com/baked-doodhi-kofta-curry-6404r",
+        "Lauki ki sabji": "https://hebbarskitchen.com/lauki-ki-sabji-recipe-ghiya-sabzi/",
+        "Lauki sabji": "https://www.vegrecipesofindia.com/lauki-ki-sabji-recipe/#wprm-recipe-container-192519",
+        "Chayote Kootu": "https://veggieplatter.blogspot.com/2012/01/chayote-kootu.html",
+        "Lauki Chana Dal Gravy": "https://www.vegrecipesofindia.com/lauki-chana-dal-curry-recipe/"
+    }
+}

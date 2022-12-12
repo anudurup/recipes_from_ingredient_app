@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Mooli Moong Dal": "ginger,radish,yellow moong dal,",
+        "Tava Paneer, Mushroom and Green Peas": "coriander,green peas,methi,onion,peas,potato,",
+        "Zucchini Besan Sabji": "zucchini,besan"
+    },
+    "recipe_url": {
+        "Mooli Moong Dal": "https://www.tarladalal.com/mooli-moong-dal-low-salt-recipe-22324r",
+        "Tava Paneer, Mushroom and Green Peas": "https://www.tarladalal.com/tava-paneer-mushroom-and-green-pea-subzi-22785r",
+        "Zucchini Besan Sabji": "https://www.cookingandme.com/2011/11/29/zucchini-besan-sabji-indian-zucchini/"
+    }
+}

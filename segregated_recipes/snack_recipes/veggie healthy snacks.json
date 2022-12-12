@@ -1,0 +1,32 @@
+{
+    "ingredients": {
+        "Maple glazed brussel sprouts": "maple syrup,ACV,rosemary,vegan butter,brussel sprouts",
+        "Sesame Peanut Brussel sprouts": "brussel sprouts,sesame oil,peanut butter,white vinegar,maple syrup,soy sauce,sriracha sauce,garlic",
+        "Stuffed mushroom": "button mushrooms,onion,ginger,garlic,vegan cheese",
+        "Air Fried Crispy Corn": "sweet corn,soy sauce,corn flour,lenon juice",
+        "Air Fried Potatoes & Shallots": "yellow baby potatoes,shallots,rosemary,balsamic vinegar",
+        "Crispy Corn": "corn,cornflour,garlic,ginger,onion,schezwan,spring onion,",
+        "Stuffed Baked Potatoes": "potatoes,coconut oil,garlic,cremini mushrooms,almond butter,balsamic vinegar,lemon juice,spinach,miso paste,veg broth,nutritional yeast,corn starch,onion powder,tamari,vegan butter",
+        "Green Bean casserole": "green beans,cipollini onions,balsamic vinegar,button mushrooms,almond milk,garlic,onion powder,nutmeg,corn starch,almonds",
+        "Sweet Potato Latkes": "onion,sweet potatoes,eggs,whole wheat flour,bread crumbs,garlic,greek yogurt",
+        "Hasselback potatoes": "large baking potatoes,thyme,kale,red onion,black beans,cherry tomatoes,pesto",
+        "Cauliflower Hash Browns": "cauliflower riced, cheese,parmesan,garlic powder,onion powder,paprika",
+        "Stuffed mini bell peppers": "colored bell peppers,capsicum,onion,sweet corn,paneer,vegan cheese",
+        "Air Fryer Mini Peppers": "potatoes,mini peppers,vegan cheese,garlic"
+    },
+    "recipe_url": {
+        "Maple glazed brussel sprouts": "https://drive.google.com/file/d/1giKFqpqYhZxgVGHjp2mBBlVr-u_jngY5/view?usp=sharing",
+        "Sesame Peanut Brussel sprouts": "https://drive.google.com/file/d/18Vonbafy0-_x7WJ1RXLFdZP1OKye-l3c/view?usp=sharing",
+        "Stuffed mushroom": "https://www.ishrikitchen.com/post/stuffed-mushroom",
+        "Air Fried Crispy Corn": "https://www.aaichisavali.com/2020/07/Air-Fryer-Crispy-Corn.html?fbclid=IwAR1Ie2RudJNmcRB7ru88OQgJJWnFN-nvACT9XMQ5gwWa0RYdNiW_MfUspjU",
+        "Air Fried Potatoes & Shallots": "https://youtu.be/Ne-rCkWAKMo",
+        "Crispy Corn": "https://www.tarladalal.com/crispy-fried-corn-4132r",
+        "Stuffed Baked Potatoes": "https://www.twospoons.ca/recipe/baked-potatoes-with-mushroom-spinach-and-vegan-gravy/",
+        "Green Bean casserole": "https://drive.google.com/file/d/1JWpwD7ughWoXttExs8gYOgmCHqN9vkov/view?usp=sharing",
+        "Sweet Potato Latkes": "https://drive.google.com/file/d/1dED4Ecv9eVyrMv4rXG29Qj0ZhcAlSYN5/view?usp=sharing",
+        "Hasselback potatoes": "https://greenkitchenstories.com/hasselback-potatoes-with-kale-pesto/",
+        "Cauliflower Hash Browns": "https://www.pinterest.com/pin/496592296423946754/",
+        "Stuffed mini bell peppers": "https://youtu.be/8eHj7Vsvtac",
+        "Air Fryer Mini Peppers": "https://www.secondrecipe.com/air-fryer-mini-peppers/?fbclid=IwAR3jcrRyIATORkxpC24tqAbEo2vsgcvErE8Q2tLua8cmPOzHda0rxGWQ8ME"
+    }
+}

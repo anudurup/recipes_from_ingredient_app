@@ -1,0 +1,12 @@
+{
+    "ingredients": {
+        "Lemony Lentil Soup": "onion,carrot,garlic,veg stock,red lentils,corn",
+        "Vegan Lentil Tortilla Soup": "yellow onion,garlic,jalapeno,red bell pepper,fire roasted tomatoes, red lentils,black beans,corn,cashew cream,tomato paste,veg broth,brown sugar,oregano",
+        "Minestrone Soup": "onion,carrots,celery,garlic,veg broth,tomatoes,swiss chard,cannellini beans"
+    },
+    "recipe_url": {
+        "Lemony Lentil Soup": "https://www.gimmesomeoven.com/lemony-lentil-soup/",
+        "Vegan Lentil Tortilla Soup": "https://eatwithclarity.com/vegan-tortilla-soup/",
+        "Minestrone Soup": "https://drive.google.com/file/d/1nSLK4Sp9tEOzgwXzD4rC9MgbjW4bwOaP/view?usp=sharing"
+    }
+}

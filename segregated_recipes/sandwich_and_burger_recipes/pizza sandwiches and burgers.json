@@ -1,0 +1,10 @@
+{
+    "ingredients": {
+        "Pizza Toast": "bell pepper,capsicum,onion,tomato,",
+        "Pizza Burger": "aloo,capsicum,carrot,coriander,corn,cornflour,flour,garlic,ginger,onion,potato,tomato,tomato sauce,"
+    },
+    "recipe_url": {
+        "Pizza Toast": "https://www.indianhealthyrecipes.com/bread-pizza-recipe/",
+        "Pizza Burger": "https://hebbarskitchen.com/pizza-burger-recipe-burger-pizza/"
+    }
+}

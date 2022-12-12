@@ -1,0 +1,30 @@
+{
+    "ingredients": {
+        "Mexican Tacos": "beans,coriander,garlic,onion,rajma,red chilli sauce,spring onion,tomato,",
+        "Roast Veggie Tacos": "butternut squash,brussel sprouts,onion,poblano chilies,corn tortillas,avocado,tomato",
+        "Vegetarian Tacos": "onion, zucchini, mushrooms, red bell pepper, garlic, oregano, black beans, lime juice, corn tortillas",
+        "Mexican spiced cauliflower tacos": "cauliflower,onion powder, tortillas, pico de gallo, red cabbage, avocado, cilantro",
+        "Chickpea Tacos with avocado cream": "chickpeas, onion, zucchini, bell pepper, oregano, avocado, lime juice, taco tortillas",
+        "Vegan Potato Tacos": "potatoes, bell pepper, taco seasoning, black beans, refired beans, flour tortillas taco sized, lettuce, avocado, jalapeno cilantro sauce",
+        "Vegan Brocolli Tacos": "brocolli, almond milk, apple cider vinegar, panko bread crumbs, bbq sauce, sugar, lime, tortillas,cilantro, cabbage, green goddess dressing trader joes",
+        "Tahini Chickpea Tacos": "avocado, tomatoes, chickpeas, green pepper, onion, red cabbage, balsamic vinegar, soy sauce, tahini, lime juice, maple syrup, garlic, onion powder, hot sauce",
+        "Cilantro Lime Vegan Tacos": "garlic, scallions, black beans, green chillies, corn, lime juice, cilantro, avocado, hummus, tortillas",
+        "Black bean tacos with avocado cilantro lime crema": "black beans, tomato salsa, avocado, greek yogurt,cilantro,lime juice, garlic",
+        "Cauliflower Tacos": "riced cauliflower,onion powder,corn tortillas,tomato,onion,lime juice,avocado",
+        "Spicy Tofu Wraps": "tofu, onion, garlic, red pepper, coriander, tomato paste, basil, mint, tortillas, spinach, lettuce, cucumber, tomato, roasted red peppers, olives, avocado sauce"
+    },
+    "recipe_url": {
+        "Mexican Tacos": "https://www.tarladalal.com/tacos-mexican-tacos-recipe-vegetarian-tacos-1257r",
+        "Roast Veggie Tacos": "https://drive.google.com/file/d/1QiXUXns6fem8WhooUGFlJfLu4y9RD1wL/view?usp=sharing",
+        "Vegetarian Tacos": "https://www.twopeasandtheirpod.com/easy-vegetarian-tacos/",
+        "Mexican spiced cauliflower tacos": "https://www.plantbasedblonde.com/cauliflower-tacos/",
+        "Chickpea Tacos with avocado cream": "https://dreenaburton.com/chickpea-tacos/",
+        "Vegan Potato Tacos": "https://www.thissavoryvegan.com/crispy-vegan-potato-tacos-with-jalapeno-cilantro-sauce/?9907740894",
+        "Vegan Brocolli Tacos": "https://www.rabbitandwolves.com/vegan-crack-broccoli-tacos/",
+        "Tahini Chickpea Tacos": "https://elavegan.com/vegan-chickpea-tacos-gluten-free-recipe/",
+        "Cilantro Lime Vegan Tacos": "https://www.spinach4breakfast.com/cilantro-lime-vegan-tacos/",
+        "Black bean tacos with avocado cilantro lime crema": "https://www.cookingclassy.com/black-bean-tacos-with-avocado-cilantro-lime-crema/",
+        "Cauliflower Tacos": "https://drive.google.com/file/d/1OwZeJw-1JLQXQKrdQYfhp4KEsnjL2rWB/view?usp=sharing",
+        "Spicy Tofu Wraps": "https://www.hh-hm.com/spicy-tofu-wraps-recipe/"
+    }
+}
