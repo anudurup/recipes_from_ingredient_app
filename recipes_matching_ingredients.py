@@ -51,7 +51,7 @@ def write_ingredient(ingredient_list):
 ingredient_list = get_ingredient_list()
 
 def add_ingredient():
-    ingr = st.session_state["ingr"] + "\n"
+    ingr = st.session_state["ingr"].lower() + "\n"
     ingredient_list.append(ingr)
     write_ingredient(ingredient_list)
 
