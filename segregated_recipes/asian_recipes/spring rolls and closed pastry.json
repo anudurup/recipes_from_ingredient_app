@@ -1,12 +1,12 @@
 {
     "ingredients": {
-        "Chinese Spring Rolls": "capsicum,carrot,cabbage,hakka noodles,rice wrappers",
+        "Chinese Spring Rolls": "cabbage,capsicum,carrot,flour,garlic,ginger,noodles,onion,rice,schezwan,tomato",
         "Oven Baked Spring Rolls": "spring roll wrappers,tofu,cabbage,carrot,zucchini,green beans,garlic,egg",
         "Veg Momos": "all purpose flour, spring onions, garlic, cabbage, carrots, french beans, capsicum, white button mushrooms, soy sauce",
         "Vegan Pork Bao": "all purpose flour, sugar,instant yeast, almond milk,omni pork ground, ginger, shaoxing wine, dark soy sauce, soy sauce, vegan oyster sauce, sesame oil, scallions"
     },
     "recipe_url": {
-        "Chinese Spring Rolls": "(cabbage,capsicum,carrot,flour,garlic,ginger,noodles,onion,rice,schezwan,tomato,",
+        "Chinese Spring Rolls": "https://www.tarladalal.com/spring-rolls-chinese-veg-spring-roll-recipe-313r",
         "Oven Baked Spring Rolls": "http://www.joannasoh.com/foods/recipes-1/oven-baked-veggie-spring-rolls-samosas-healthy-party-snacks",
         "Veg Momos": "https://www.vegrecipesofindia.com/veg-momos-recipe-vegetable-momos/",
         "Vegan Pork Bao": "https://woonheng.com/vegan-pork-jian-bao/#recipe"

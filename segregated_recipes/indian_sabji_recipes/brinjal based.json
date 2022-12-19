@@ -4,16 +4,16 @@
         "Achari Baingan": "baingan,brinjal,coriander,dahi,garlic,ginger,methi,onion,",
         "Baingan Bharta": "baingan,brinjal,coriander,garlic,ginger,onion,tomato,",
         "Vankaya Kothimir Karam": "baingan,brinjal,coriander,ginger,",
-        "Bharli Vangi": "Brinjal Maharastrian",
+        "Bharli Vangi": "baingan,brinjal,coconut,coriander,garlic,ginger,onion,tamarind",
         "Brinjal Curry": "brinjal,onion,tomato,ginger garlic",
-        "Bagara Baingan": "Hyderabadi"
+        "Bagara Baingan": "brinjal,onions,garlic,shredded coconut, peanuts,ginger,tamarind"
     },
     "recipe_url": {
         "Gutti Vankaya Sabji": "https://www.archanaskitchen.com/gutti-vankaya-recipe-andhra-style-stuffed-brinjal",
         "Achari Baingan": "https://www.tarladalal.com/achari-baingan-30888r",
         "Baingan Bharta": "https://www.tarladalal.com/baingan-bharta-veg-punjabi-baingan-bharta-recipe-30886r",
         "Vankaya Kothimir Karam": "https://www.archanaskitchen.com/vankaya-kothimeera-karam-recipe-andhra-style-brinjals-cooked-with-spicy-coriander-mix",
-        "Bharli Vangi": "(baingan,brinjal,coconut,coriander,garlic,ginger,onion,tamarind,",
+        "Bharli Vangi": "https://www.tarladalal.com/bharli-vangi-made-in-pressure-cooker-33346r",
         "Brinjal Curry": "https://www.indianhealthyrecipes.com/brinjal-curry-recipe-vankaya-kura-recipe/",
         "Bagara Baingan": "https://www.vegrecipesofindia.com/bagara-baingan/#wprm-recipe-container-134847"
     }

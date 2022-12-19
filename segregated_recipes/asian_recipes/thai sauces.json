@@ -4,15 +4,15 @@
         "Thai Red Curry with Veggies": "basil,broccoli,coconut,coconut milk,corn,cornflour,flour,milk,paneer,",
         "Thai Green Curry": "capsicum,cauliflower,coconut,coconut milk,coriander,corn,garlic,ginger,green peas,milk,mushroom,onion,paneer,peas,rice,",
         "Vegan Thai Curry": "brocolli, carrot, red bell pepper, green beans, garlic, ginger, green curry paste, thai green chillies, coconut milk, tamari, sugar, basil leaves, kaffir lime leaves",
-        "Thai Yellow Curry": "turmeric root, galangal, cilantro stems, coriander seeds, lime zest, garlic, shallots, thai chilli peppers/kashmiri red chillies, lemon grass stalks, onion, ginger, mixed vegetables",
+        "Thai Yellow Curry": "turmeric root, galangal, cilantro stems, coriander seeds, lime zest, garlic, shallots, thai chilli peppers/kashmiri red chillies, lemon grass stalks, onion, ginger, carrots, beans, corn, eggplant, potatoes, sugar, coconut milk, bell peppers, thai basil",
         "Thai Spice Rub": "shredded coconut,lemongrass dried,galangal"
     },
     "recipe_url": {
         "Thai red curry paste": "https://www.tarladalal.com/thai-red-curry-paste--homemade-vegetarian-red-curry-paste-425r",
         "Thai Red Curry with Veggies": "https://www.tarladalal.com/veg-red-thai-curry--red-thai-curry-with-vegetables-472r",
         "Thai Green Curry": "https://www.tarladalal.com/thai-green-curry-veg-thai-green-curry-470r",
-        "Vegan Thai Curry": "",
-        "Thai Yellow Curry": ", sugar, coconut milk, bell peppers, thai basil",
+        "Vegan Thai Curry": "https://www.cookwithmanali.com/vegan-thai-green-curry/?fbclid=IwAR0tPB5HZ_xmvjVqNx11SMYYpDJMm4OZjQTJkZvb9qhMORoR5p0uMstPigo",
+        "Thai Yellow Curry": "https://www.cookclickndevour.com/thai-yellow-curry-vegan/?fbclid=IwAR3v0rJ6tMyiEoF6BiM6bYRU0QSYnalIIRqNsjL_UWMOGhIGNdvBdvq6ucc",
         "Thai Spice Rub": "https://drive.google.com/file/d/1EINq7kN-mMMK_rBWhUwBFMkmWaL6SQYD/view?usp=sharing"
     }
 }

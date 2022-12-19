@@ -2,11 +2,11 @@
     "ingredients": {
         "Cabbage Poriyal": "cabbage,coconut,",
         "Cabbage Kootu": "cabbage,chana dal,coconut,coriander,corn,yellow moong dal,",
-        "Kobi Batata nu Shaak": "cabbage"
+        "Kobi Batata nu Shaak": "cabbage,coriander,potato"
     },
     "recipe_url": {
         "Cabbage Poriyal": "https://www.tarladalal.com/cabbage-poriyal-4366r",
         "Cabbage Kootu": "https://www.tarladalal.com/cabbage-kootu--know-your-green-leafy-vegetables-32778r",
-        "Kobi Batata nu Shaak": "(cabbage,coriander,potato,"
+        "Kobi Batata nu Shaak": "https://www.tarladalal.com/kobi-batata-nu-shaak---cabbage-and-potato-vegetable-35933r"
     }
 }
